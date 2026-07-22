@@ -1,0 +1,16 @@
+{
+    "game_enum": "DARK_SOULS_DSR",
+    "str_game_directory": "",
+    "str_project_directory": "",
+    "prefer_import_from_project": true,
+    "also_export_to_game": false,
+    "map_stem": "0",
+    "str_mtdbnd_path": "",
+    "str_matbinbnd_path": "",
+    "str_png_cache_directory": "",
+    "read_cached_pngs": true,
+    "write_cached_pngs": true,
+    "import_bak_file": false,
+    "detect_map_from_collection": true,
+    "smart_map_version_handling": true
+}

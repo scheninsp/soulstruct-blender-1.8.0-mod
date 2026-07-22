@@ -1,0 +1,4084 @@
+Loose FLVER not located in a map folder (`mAA_BB_CC_DD`). Cannot find map TPFs.
+# INFO: Using MTDBND for pre-Sekiro FLVERs.
+# INFO: Loading bundled MTDBND for game Dark Souls: Remastered...
+   INFO :: soulstruct.darksouls1r.models.mtd        ::   30 :: Loading bundled `MTDBND` for Dark Souls: Remastered.
+# WARNING: Could not find MTD 'C[c2120]_Clone_BodyGlow.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Clone_BodyGlow.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Clone_Butterfly.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Clone_Butterfly.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Clone_Blade.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Clone_Blade.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Body.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Body.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Skin.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Skin.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_mant.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_mant.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_fablic.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_fablic.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Armor.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Armor.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_MantFur.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_MantFur.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Belt.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Belt.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Hair_long.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Hair_long.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Armor.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Armor.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Armor.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Armor.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Body.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Body.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_fablic.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_fablic.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_fablic_cloth.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_fablic_cloth.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Armor_cloth.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Armor_cloth.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Body_cloth.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Body_cloth.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_mant_cloth.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_mant_cloth.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Ivory.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Ivory.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Armor.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Armor.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Hair_long_cloth.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Hair_long_cloth.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Skin.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Skin.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_HD_metal.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_HD_metal.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Armor.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Armor.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Arts_Petal.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Arts_Petal.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_WingBase.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_WingBase.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_butterfly.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_butterfly.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_butterflyOpacity.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_butterflyOpacity.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Hair_long.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Hair_long.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'C[c2120]_Longhair_thin.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'C[c2120]_Longhair_thin.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+# WARNING: Could not find MTD 'P[FG_A_0000]_teeth.matxml' in MTD dict. Guessing info from name.
+# WARNING: Unusual MTD name 'P[FG_A_0000]_teeth.matxml' could not be parsed for its textures. You may need to define it in your own custom MTD/MTDBND.
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 0 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 0 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 0 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 1 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 1 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 1 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 2 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 2 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 3 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 3 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 4 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 4 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 5 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 5 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 5 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 6 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 6 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 7 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 7 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 8 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 8 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 9 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 9 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 10 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 10 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 10 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 11 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 11 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 12 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 12 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 13 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 13 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 14 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 14 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 21 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 21 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 22 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 22 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 25 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 25 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 26 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 26 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 27 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 27 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 28 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 28 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 29 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 29 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 30 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 30 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 30 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 31 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 31 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 31 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 32 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 32 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 32 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 33 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 33 (UV 1).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 33 (UV 2).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 34 (UV 0).
+WARNING :: soulstruct.base.models.flver.mesh_tools  ::  275 :: No UV layer name for material index 34 (UV 1).
+# WARNING: 4 degenerate and 323 duplicate faces were ignored during FLVER import.
+# INFO: Creating UV layer 0: UVMap0
+# INFO: Creating UV layer 1: UVMap1
+# INFO: Creating UV layer 2: UVMap2
+# INFO: Creating Vertex Colors layer 0: VertexColors0
+# INFO: Creating Vertex Colors layer 1: VertexColors1
+# INFO: Imported 1 FLVER(s) in 2.281 seconds.
+CRITICAL :: soulstruct_havok._logging                ::   91 :: Unhandled exception:
+Traceback (most recent call last):
+  File "C:\Users\infin\AppData\Roaming\Blender Foundation\Blender\3.6\scripts\addons\io_soulstruct\flver\model_import\operators.py", line 125, in execute
+    bpy.ops.view3d.view_selected(use_all_regions=False)
+  File "D:\Blender36\3.6\scripts\modules\bpy\ops.py", line 113, in __call__
+    ret = _op_call(self.idname_py(), None, kw)
+RuntimeError: Operator bpy.ops.view3d.view_selected.poll() expected a view3d region
+CRITICAL :: soulstruct_havok._logging                ::   91 :: Unhandled exception:
+Traceback (most recent call last):
+  File "C:\Users\infin\AppData\Roaming\Blender Foundation\Blender\3.6\scripts\addons\io_soulstruct\flver\model_import\operators.py", line 125, in execute
+    bpy.ops.view3d.view_selected(use_all_regions=False)
+  File "D:\Blender36\3.6\scripts\modules\bpy\ops.py", line 113, in __call__
+    ret = _op_call(self.idname_py(), None, kw)
+RuntimeError: Operator bpy.ops.view3d.view_selected.poll() expected a view3d region
+   INFO :: soulstruct.eldenring.containers.div_binder ::   94 :: Entry ID 7000000 in BLF Binder D:\Games\EldenRing\Game\chr\c2120_div01.anibnd.dcx repeats, but has expected div-specific name: N:\GR\data\INTERROOT_win64\chr\c2120\hkx_div01_compendium\c2120_div01.compendium
+# INFO: Importing animation(s) from ANIBND: D:\Games\EldenRing\Game\chr\c2120.anibnd.dcx
+# INFO: Loading compendium HKX from entry: c2120_div00.compendium
+WARNING :: soulstruct_havok.tagfile.unpacker        ::  203 :: Compendium HKX was passed to TYPE-type HKX and will be ignored.
+# INFO: Read `AnimationHKX` Binder entry 'a000_003003.hkx' in 0.0024 seconds.
+# INFO: Importing HKX animation for c2120: a000_003003
+# INFO: Converted spline animation to interleaved in 0.2462 seconds.
+# INFO: ================================================================================
+# INFO: HKX ANIMATION BONE TREE CHECK
+# INFO: ================================================================================
+# INFO: Animation transform tracks  : 145
+# INFO: Annotation tracks           : 0
+# WARNING: *** WARNING: annotationTracks is EMPTY! Track names are unavailable from the animation file. ***
+# WARNING: *** Bone names will be resolved from skeleton via transformTrackToBoneIndices instead. ***
+# INFO:
+# INFO: --- Animation Skeleton Bone Tree (*** = has animation track) ---
+# INFO: Master (idx=0)  *** [ANIM TRACK] ***
+# INFO:     L_Foot_Target2 (idx=1)  *** [ANIM TRACK] ***
+# INFO:         L_Foot_Target1 (idx=2)  *** [ANIM TRACK] ***
+# INFO:             L_Foot_Target (idx=3)  *** [ANIM TRACK] ***
+# INFO:     R_Foot_Target2 (idx=4)  *** [ANIM TRACK] ***
+# INFO:         R_Foot_Target1 (idx=5)  *** [ANIM TRACK] ***
+# INFO:             R_Foot_Target (idx=6)  *** [ANIM TRACK] ***
+# INFO:     Root (idx=7)  *** [ANIM TRACK] ***
+# INFO:         Pelvis (idx=8)  *** [ANIM TRACK] ***
+# INFO:             L_Hip (idx=9)  *** [ANIM TRACK] ***
+# INFO:             L_Thigh (idx=10)  *** [ANIM TRACK] ***
+# INFO:                 L_Knee (idx=11)  *** [ANIM TRACK] ***
+# INFO:                     L_Calf (idx=12)  *** [ANIM TRACK] ***
+# INFO:                         L_Calf_Skirt (idx=13)  *** [ANIM TRACK] ***
+# INFO:                         L_CalfTwist (idx=14)  *** [ANIM TRACK] ***
+# INFO:                         L_CalfTwist1 (idx=15)  *** [ANIM TRACK] ***
+# INFO:                         L_Foot (idx=16)  *** [ANIM TRACK] ***
+# INFO:                             L_FootTwist (idx=17)  *** [ANIM TRACK] ***
+# INFO:                             L_Toe0 (idx=18)  *** [ANIM TRACK] ***
+# INFO:                                 L_FootFinger1 (idx=19)  *** [ANIM TRACK] ***
+# INFO:                                     L_FootFinger102 (idx=20)  *** [ANIM TRACK] ***
+# INFO:                                 L_FootFinger2 (idx=21)  *** [ANIM TRACK] ***
+# INFO:                                     L_FootFinger202 (idx=22)  *** [ANIM TRACK] ***
+# INFO:                                         L_FootFinger203 (idx=23)  *** [ANIM TRACK] ***
+# INFO:                                 L_FootFinger3 (idx=24)  *** [ANIM TRACK] ***
+# INFO:                                     L_FootFinger302 (idx=25)  *** [ANIM TRACK] ***
+# INFO:                                         L_FootFinger303 (idx=26)  *** [ANIM TRACK] ***
+# INFO:                                 L_FootFinger4 (idx=27)  *** [ANIM TRACK] ***
+# INFO:                                     L_FootFinger402 (idx=28)  *** [ANIM TRACK] ***
+# INFO:                                         L_FootFinger403 (idx=29)  *** [ANIM TRACK] ***
+# INFO:                                 L_FootFinger5 (idx=30)  *** [ANIM TRACK] ***
+# INFO:                                     L_FootFinger502 (idx=31)  *** [ANIM TRACK] ***
+# INFO:                                         L_FootFinger503 (idx=32)  *** [ANIM TRACK] ***
+# INFO:                 L_Knee_Skirt (idx=33)  *** [ANIM TRACK] ***
+# INFO:                 L_Thigh_Skirt (idx=34)  *** [ANIM TRACK] ***
+# INFO:                 L_ThighTwist (idx=35)  *** [ANIM TRACK] ***
+# INFO:                 L_ThighTwist1 (idx=36)  *** [ANIM TRACK] ***
+# INFO:             R_Hip (idx=37)  *** [ANIM TRACK] ***
+# INFO:             R_Thigh (idx=38)  *** [ANIM TRACK] ***
+# INFO:                 R_Calf (idx=39)  *** [ANIM TRACK] ***
+# INFO:                     R_Calf_Skirt (idx=40)  *** [ANIM TRACK] ***
+# INFO:                     R_CalfTwist (idx=41)  *** [ANIM TRACK] ***
+# INFO:                     R_CalfTwist1 (idx=42)  *** [ANIM TRACK] ***
+# INFO:                     R_Foot (idx=43)  *** [ANIM TRACK] ***
+# INFO:                         R_FootTwist (idx=44)  *** [ANIM TRACK] ***
+# INFO:                         R_Toe0 (idx=45)  *** [ANIM TRACK] ***
+# INFO:                             R_FootFinger1 (idx=46)  *** [ANIM TRACK] ***
+# INFO:                                 R_FootFinger102 (idx=47)  *** [ANIM TRACK] ***
+# INFO:                             R_FootFinger2 (idx=48)  *** [ANIM TRACK] ***
+# INFO:                                 R_FootFinger202 (idx=49)  *** [ANIM TRACK] ***
+# INFO:                                     R_FootFinger203 (idx=50)  *** [ANIM TRACK] ***
+# INFO:                             R_FootFinger3 (idx=51)  *** [ANIM TRACK] ***
+# INFO:                                 R_FootFinger302 (idx=52)  *** [ANIM TRACK] ***
+# INFO:                                     R_FootFinger303 (idx=53)  *** [ANIM TRACK] ***
+# INFO:                             R_FootFinger4 (idx=54)  *** [ANIM TRACK] ***
+# INFO:                                 R_FootFinger402 (idx=55)  *** [ANIM TRACK] ***
+# INFO:                                     R_FootFinger403 (idx=56)  *** [ANIM TRACK] ***
+# INFO:                             R_FootFinger5 (idx=57)  *** [ANIM TRACK] ***
+# INFO:                                 R_FootFinger502 (idx=58)  *** [ANIM TRACK] ***
+# INFO:                                     R_FootFinger503 (idx=59)  *** [ANIM TRACK] ***
+# INFO:                 R_Knee (idx=60)  *** [ANIM TRACK] ***
+# INFO:                 R_Knee_Skirt (idx=61)  *** [ANIM TRACK] ***
+# INFO:                 R_Thigh_Skirt (idx=62)  *** [ANIM TRACK] ***
+# INFO:                 R_ThighTwist (idx=63)  *** [ANIM TRACK] ***
+# INFO:                 R_ThighTwist1 (idx=64)  *** [ANIM TRACK] ***
+# INFO:         Spine (idx=65)  *** [ANIM TRACK] ***
+# INFO:             Spine1 (idx=66)  *** [ANIM TRACK] ***
+# INFO:                 Spine2 (idx=67)  *** [ANIM TRACK] ***
+# INFO:                     Collar (idx=68)  *** [ANIM TRACK] ***
+# INFO:                     L_Clavicle (idx=69)  *** [ANIM TRACK] ***
+# INFO:                         L_Shoulder (idx=70)  *** [ANIM TRACK] ***
+# INFO:                         L_UpperArm (idx=71)  *** [ANIM TRACK] ***
+# INFO:                             L_Elbow (idx=72)  *** [ANIM TRACK] ***
+# INFO:                             L_Forearm (idx=73)  *** [ANIM TRACK] ***
+# INFO:                                 L_ForeArmTwist (idx=74)  *** [ANIM TRACK] ***
+# INFO:                                 L_ForeArmTwist1 (idx=75)  *** [ANIM TRACK] ***
+# INFO:                                 L_Hand (idx=76)  *** [ANIM TRACK] ***
+# INFO:                                     L_Finger0 (idx=77)  *** [ANIM TRACK] ***
+# INFO:                                         L_Finger01 (idx=78)  *** [ANIM TRACK] ***
+# INFO:                                             L_Finger02 (idx=79)  *** [ANIM TRACK] ***
+# INFO:                                     L_Finger1 (idx=80)  *** [ANIM TRACK] ***
+# INFO:                                         L_Finger11 (idx=81)  *** [ANIM TRACK] ***
+# INFO:                                             L_Finger12 (idx=82)  *** [ANIM TRACK] ***
+# INFO:                                     L_Finger2 (idx=83)  *** [ANIM TRACK] ***
+# INFO:                                         L_Finger21 (idx=84)  *** [ANIM TRACK] ***
+# INFO:                                             L_Finger22 (idx=85)  *** [ANIM TRACK] ***
+# INFO:                                     L_Finger3 (idx=86)  *** [ANIM TRACK] ***
+# INFO:                                         L_Finger31 (idx=87)  *** [ANIM TRACK] ***
+# INFO:                                             L_Finger32 (idx=88)  *** [ANIM TRACK] ***
+# INFO:                                     L_Finger4 (idx=89)  *** [ANIM TRACK] ***
+# INFO:                                         L_Finger41 (idx=90)  *** [ANIM TRACK] ***
+# INFO:                                             L_Finger42 (idx=91)  *** [ANIM TRACK] ***
+# INFO:                             L_UpArmTwist (idx=92)  *** [ANIM TRACK] ***
+# INFO:                             L_UpArmTwist1 (idx=93)  *** [ANIM TRACK] ***
+# INFO:                     Neck (idx=94)  *** [ANIM TRACK] ***
+# INFO:                         Head (idx=95)  *** [ANIM TRACK] ***
+# INFO:                             Jaw (idx=96)  *** [ANIM TRACK] ***
+# INFO:                             L_Eye (idx=97)  *** [ANIM TRACK] ***
+# INFO:                             L_Eyelid (idx=98)  *** [ANIM TRACK] ***
+# INFO:                             R_Eye (idx=99)  *** [ANIM TRACK] ***
+# INFO:                             R_Eyelid (idx=100)  *** [ANIM TRACK] ***
+# INFO:                     R_Clavicle (idx=101)  *** [ANIM TRACK] ***
+# INFO:                         R_ShoulderJoint_Armor (idx=102)  *** [ANIM TRACK] ***
+# INFO:                         R_ShoulderJoint_Base (idx=103)  *** [ANIM TRACK] ***
+# INFO:                         R_ShoulderJoint_Shaft (idx=104)  *** [ANIM TRACK] ***
+# INFO:                         R_UpperArm (idx=105)  *** [ANIM TRACK] ***
+# INFO:                             R_Elbow (idx=106)  *** [ANIM TRACK] ***
+# INFO:                                 R_Forearm (idx=107)  *** [ANIM TRACK] ***
+# INFO:                                     R_Blade (idx=108)  *** [ANIM TRACK] ***
+# INFO:                                     R_BladeGimmick_Shart1 (idx=109)  *** [ANIM TRACK] ***
+# INFO:                                     R_BladeGimmick_Shart2 (idx=110)  *** [ANIM TRACK] ***
+# INFO:                                     R_BladeGimmick_Shart3 (idx=111)  *** [ANIM TRACK] ***
+# INFO:                                     R_ForearmTwist (idx=112)  *** [ANIM TRACK] ***
+# INFO:                                     R_ForearmTwist1 (idx=113)  *** [ANIM TRACK] ***
+# INFO:                                     R_Hand (idx=114)  *** [ANIM TRACK] ***
+# INFO:                                         R_Finger0 (idx=115)  *** [ANIM TRACK] ***
+# INFO:                                             R_Finger01 (idx=116)  *** [ANIM TRACK] ***
+# INFO:                                                 R_Finger02 (idx=117)  *** [ANIM TRACK] ***
+# INFO:                                         R_Finger1 (idx=118)  *** [ANIM TRACK] ***
+# INFO:                                             R_Finger11 (idx=119)  *** [ANIM TRACK] ***
+# INFO:                                                 R_Finger12 (idx=120)  *** [ANIM TRACK] ***
+# INFO:                                         R_Finger2 (idx=121)  *** [ANIM TRACK] ***
+# INFO:                                             R_Finger21 (idx=122)  *** [ANIM TRACK] ***
+# INFO:                                                 R_Finger22 (idx=123)  *** [ANIM TRACK] ***
+# INFO:                                         R_Finger3 (idx=124)  *** [ANIM TRACK] ***
+# INFO:                                             R_Finger31 (idx=125)  *** [ANIM TRACK] ***
+# INFO:                                                 R_Finger32 (idx=126)  *** [ANIM TRACK] ***
+# INFO:                                         R_Finger4 (idx=127)  *** [ANIM TRACK] ***
+# INFO:                                             R_Finger41 (idx=128)  *** [ANIM TRACK] ***
+# INFO:                                                 R_Finger42 (idx=129)  *** [ANIM TRACK] ***
+# INFO:                             R_UpArmTwist (idx=130)  *** [ANIM TRACK] ***
+# INFO:                             R_UpperArmTwist (idx=131)  *** [ANIM TRACK] ***
+# INFO:                             R_UpperArmTwist1 (idx=132)  *** [ANIM TRACK] ***
+# INFO:                     Xtra_L_Wing (idx=133)  *** [ANIM TRACK] ***
+# INFO:                         Xtra_L_Wing02 (idx=134)  *** [ANIM TRACK] ***
+# INFO:                             Xtra_L_Wing03 (idx=135)  *** [ANIM TRACK] ***
+# INFO:                                 Xtra_L_Wing04 (idx=136)  *** [ANIM TRACK] ***
+# INFO:                                     Xtra_L_Wing05 (idx=137)  *** [ANIM TRACK] ***
+# INFO:                     Xtra_R_Wing (idx=138)  *** [ANIM TRACK] ***
+# INFO:                         Xtra_R_Wing02 (idx=139)  *** [ANIM TRACK] ***
+# INFO:                             Xtra_R_Wing03 (idx=140)  *** [ANIM TRACK] ***
+# INFO:                                 Xtra_R_Wing04 (idx=141)  *** [ANIM TRACK] ***
+# INFO:                                     Xtra_R_Wing05 (idx=142)  *** [ANIM TRACK] ***
+# INFO:                 SpineArmor1 (idx=143)  *** [ANIM TRACK] ***
+# INFO:                 SpineArmor2 (idx=144)  *** [ANIM TRACK] ***
+# INFO:     Xtra_Petal_001_01 (idx=145)
+# INFO:         Xtra_Petal_001_02 (idx=146)
+# INFO:             Xtra_Petal_001_03 (idx=147)
+# INFO:                 Xtra_Petal_001_04 (idx=148)
+# INFO:                     Xtra_Petal_001_05 (idx=149)
+# INFO:                         Xtra_Petal_001_06 (idx=150)
+# INFO:     Xtra_Petal_002_01 (idx=151)
+# INFO:         Xtra_Petal_002_02 (idx=152)
+# INFO:             Xtra_Petal_002_03 (idx=153)
+# INFO:                 Xtra_Petal_002_04 (idx=154)
+# INFO:                     Xtra_Petal_002_05 (idx=155)
+# INFO:                         Xtra_Petal_002_06 (idx=156)
+# INFO:     Xtra_Petal_003_01 (idx=157)
+# INFO:         Xtra_Petal_003_02 (idx=158)
+# INFO:             Xtra_Petal_003_03 (idx=159)
+# INFO:                 Xtra_Petal_003_04 (idx=160)
+# INFO:                     Xtra_Petal_003_05 (idx=161)
+# INFO:                         Xtra_Petal_003_06 (idx=162)
+# INFO:     Xtra_Petal_004_01 (idx=163)
+# INFO:         Xtra_Petal_004_02 (idx=164)
+# INFO:             Xtra_Petal_004_03 (idx=165)
+# INFO:                 Xtra_Petal_004_04 (idx=166)
+# INFO:                     Xtra_Petal_004_05 (idx=167)
+# INFO:                         Xtra_Petal_004_06 (idx=168)
+# INFO:     Xtra_Petal_005_01 (idx=169)
+# INFO:         Xtra_Petal_005_02 (idx=170)
+# INFO:             Xtra_Petal_005_03 (idx=171)
+# INFO:                 Xtra_Petal_005_04 (idx=172)
+# INFO:                     Xtra_Petal_005_05 (idx=173)
+# INFO:                         Xtra_Petal_005_06 (idx=174)
+# INFO:     Xtra_Petal_006_01 (idx=175)
+# INFO:         Xtra_Petal_006_02 (idx=176)
+# INFO:             Xtra_Petal_006_03 (idx=177)
+# INFO:                 Xtra_Petal_006_04 (idx=178)
+# INFO:                     Xtra_Petal_006_05 (idx=179)
+# INFO:                         Xtra_Petal_006_06 (idx=180)
+# INFO:     Xtra_Petal_007_01 (idx=181)
+# INFO:         Xtra_Petal_007_02 (idx=182)
+# INFO:             Xtra_Petal_007_03 (idx=183)
+# INFO:                 Xtra_Petal_007_04 (idx=184)
+# INFO:                     Xtra_Petal_007_05 (idx=185)
+# INFO:                         Xtra_Petal_007_06 (idx=186)
+# INFO:     Xtra_Petal_008_01 (idx=187)
+# INFO:         Xtra_Petal_008_02 (idx=188)
+# INFO:             Xtra_Petal_008_03 (idx=189)
+# INFO:                 Xtra_Petal_008_04 (idx=190)
+# INFO:                     Xtra_Petal_008_05 (idx=191)
+# INFO:                         Xtra_Petal_008_06 (idx=192)
+# INFO:     Xtra_Petal_009_01 (idx=193)
+# INFO:         Xtra_Petal_009_02 (idx=194)
+# INFO:             Xtra_Petal_009_03 (idx=195)
+# INFO:                 Xtra_Petal_009_04 (idx=196)
+# INFO:                     Xtra_Petal_009_05 (idx=197)
+# INFO:                         Xtra_Petal_009_06 (idx=198)
+# INFO:     Xtra_Petal_010_01 (idx=199)
+# INFO:         Xtra_Petal_010_02 (idx=200)
+# INFO:             Xtra_Petal_010_03 (idx=201)
+# INFO:                 Xtra_Petal_010_04 (idx=202)
+# INFO:                     Xtra_Petal_010_05 (idx=203)
+# INFO:                         Xtra_Petal_010_06 (idx=204)
+# INFO:     Xtra_Petal_011_01 (idx=205)
+# INFO:         Xtra_Petal_011_02 (idx=206)
+# INFO:             Xtra_Petal_011_03 (idx=207)
+# INFO:                 Xtra_Petal_011_04 (idx=208)
+# INFO:                     Xtra_Petal_011_05 (idx=209)
+# INFO:                         Xtra_Petal_011_06 (idx=210)
+# INFO:     Xtra_Petal_012_01 (idx=211)
+# INFO:         Xtra_Petal_012_02 (idx=212)
+# INFO:             Xtra_Petal_012_03 (idx=213)
+# INFO:                 Xtra_Petal_012_04 (idx=214)
+# INFO:                     Xtra_Petal_012_05 (idx=215)
+# INFO:                         Xtra_Petal_012_06 (idx=216)
+# INFO:     Xtra_Petal_013_01 (idx=217)
+# INFO:         Xtra_Petal_013_02 (idx=218)
+# INFO:             Xtra_Petal_013_03 (idx=219)
+# INFO:                 Xtra_Petal_013_04 (idx=220)
+# INFO:                     Xtra_Petal_013_05 (idx=221)
+# INFO:                         Xtra_Petal_013_06 (idx=222)
+# INFO:     Xtra_Petal_014_01 (idx=223)
+# INFO:         Xtra_Petal_014_02 (idx=224)
+# INFO:             Xtra_Petal_014_03 (idx=225)
+# INFO:                 Xtra_Petal_014_04 (idx=226)
+# INFO:                     Xtra_Petal_014_05 (idx=227)
+# INFO:                         Xtra_Petal_014_06 (idx=228)
+# INFO:     Xtra_Petal_015_01 (idx=229)
+# INFO:         Xtra_Petal_015_02 (idx=230)
+# INFO:             Xtra_Petal_015_03 (idx=231)
+# INFO:                 Xtra_Petal_015_04 (idx=232)
+# INFO:                     Xtra_Petal_015_05 (idx=233)
+# INFO:                         Xtra_Petal_015_06 (idx=234)
+# INFO:     Xtra_Petal_016_01 (idx=235)
+# INFO:         Xtra_Petal_016_02 (idx=236)
+# INFO:             Xtra_Petal_016_03 (idx=237)
+# INFO:                 Xtra_Petal_016_04 (idx=238)
+# INFO:                     Xtra_Petal_016_05 (idx=239)
+# INFO:                         Xtra_Petal_016_06 (idx=240)
+# INFO:     Xtra_Petal_017_01 (idx=241)
+# INFO:         Xtra_Petal_017_02 (idx=242)
+# INFO:             Xtra_Petal_017_03 (idx=243)
+# INFO:                 Xtra_Petal_017_04 (idx=244)
+# INFO:                     Xtra_Petal_017_05 (idx=245)
+# INFO:                         Xtra_Petal_017_06 (idx=246)
+# INFO:     Xtra_Petal_018_01 (idx=247)
+# INFO:         Xtra_Petal_018_02 (idx=248)
+# INFO:             Xtra_Petal_018_03 (idx=249)
+# INFO:                 Xtra_Petal_018_04 (idx=250)
+# INFO:                     Xtra_Petal_018_05 (idx=251)
+# INFO:                         Xtra_Petal_018_06 (idx=252)
+# INFO:     Xtra_Petal_019_01 (idx=253)
+# INFO:         Xtra_Petal_019_02 (idx=254)
+# INFO:             Xtra_Petal_019_03 (idx=255)
+# INFO:                 Xtra_Petal_019_04 (idx=256)
+# INFO:                     Xtra_Petal_019_05 (idx=257)
+# INFO:                         Xtra_Petal_019_06 (idx=258)
+# INFO:     Xtra_Petal_020_01 (idx=259)
+# INFO:         Xtra_Petal_020_02 (idx=260)
+# INFO:             Xtra_Petal_020_03 (idx=261)
+# INFO:                 Xtra_Petal_020_04 (idx=262)
+# INFO:                     Xtra_Petal_020_05 (idx=263)
+# INFO:                         Xtra_Petal_020_06 (idx=264)
+# INFO:     Xtra_Petal_021_01 (idx=265)
+# INFO:         Xtra_Petal_021_02 (idx=266)
+# INFO:             Xtra_Petal_021_03 (idx=267)
+# INFO:                 Xtra_Petal_021_04 (idx=268)
+# INFO:                     Xtra_Petal_021_05 (idx=269)
+# INFO:                         Xtra_Petal_021_06 (idx=270)
+# INFO:     Xtra_Petal_022_01 (idx=271)
+# INFO:         Xtra_Petal_022_02 (idx=272)
+# INFO:             Xtra_Petal_022_03 (idx=273)
+# INFO:                 Xtra_Petal_022_04 (idx=274)
+# INFO:                     Xtra_Petal_022_05 (idx=275)
+# INFO:                         Xtra_Petal_022_06 (idx=276)
+# INFO:     Xtra_Petal_023_01 (idx=277)
+# INFO:         Xtra_Petal_023_02 (idx=278)
+# INFO:             Xtra_Petal_023_03 (idx=279)
+# INFO:                 Xtra_Petal_023_04 (idx=280)
+# INFO:                     Xtra_Petal_023_05 (idx=281)
+# INFO:                         Xtra_Petal_023_06 (idx=282)
+# INFO:     Xtra_Petal_024_01 (idx=283)
+# INFO:         Xtra_Petal_024_02 (idx=284)
+# INFO:             Xtra_Petal_024_03 (idx=285)
+# INFO:                 Xtra_Petal_024_04 (idx=286)
+# INFO:                     Xtra_Petal_024_05 (idx=287)
+# INFO:                         Xtra_Petal_024_06 (idx=288)
+# INFO:     Xtra_Petal_025_01 (idx=289)
+# INFO:         Xtra_Petal_025_02 (idx=290)
+# INFO:             Xtra_Petal_025_03 (idx=291)
+# INFO:                 Xtra_Petal_025_04 (idx=292)
+# INFO:                     Xtra_Petal_025_05 (idx=293)
+# INFO:                         Xtra_Petal_025_06 (idx=294)
+# INFO:     Xtra_Petal_026_01 (idx=295)
+# INFO:         Xtra_Petal_026_02 (idx=296)
+# INFO:             Xtra_Petal_026_03 (idx=297)
+# INFO:                 Xtra_Petal_026_04 (idx=298)
+# INFO:                     Xtra_Petal_026_05 (idx=299)
+# INFO:                         Xtra_Petal_026_06 (idx=300)
+# INFO:     Xtra_Petal_027_01 (idx=301)
+# INFO:         Xtra_Petal_027_02 (idx=302)
+# INFO:             Xtra_Petal_027_03 (idx=303)
+# INFO:                 Xtra_Petal_027_04 (idx=304)
+# INFO:                     Xtra_Petal_027_05 (idx=305)
+# INFO:                         Xtra_Petal_027_06 (idx=306)
+# INFO:     Xtra_Petal_028_01 (idx=307)
+# INFO:         Xtra_Petal_028_02 (idx=308)
+# INFO:             Xtra_Petal_028_03 (idx=309)
+# INFO:                 Xtra_Petal_028_04 (idx=310)
+# INFO:                     Xtra_Petal_028_05 (idx=311)
+# INFO:                         Xtra_Petal_028_06 (idx=312)
+# INFO:     Xtra_Petal_029_01 (idx=313)
+# INFO:         Xtra_Petal_029_02 (idx=314)
+# INFO:             Xtra_Petal_029_03 (idx=315)
+# INFO:                 Xtra_Petal_029_04 (idx=316)
+# INFO:                     Xtra_Petal_029_05 (idx=317)
+# INFO:                         Xtra_Petal_029_06 (idx=318)
+# INFO:     Xtra_Petal_030_01 (idx=319)
+# INFO:         Xtra_Petal_030_02 (idx=320)
+# INFO:             Xtra_Petal_030_03 (idx=321)
+# INFO:                 Xtra_Petal_030_04 (idx=322)
+# INFO:                     Xtra_Petal_030_05 (idx=323)
+# INFO:                         Xtra_Petal_030_06 (idx=324)
+# INFO:     Xtra_Petal_031_01 (idx=325)
+# INFO:         Xtra_Petal_031_02 (idx=326)
+# INFO:             Xtra_Petal_031_03 (idx=327)
+# INFO:                 Xtra_Petal_031_04 (idx=328)
+# INFO:                     Xtra_Petal_031_05 (idx=329)
+# INFO:                         Xtra_Petal_031_06 (idx=330)
+# INFO:     Xtra_Petal_032_01 (idx=331)
+# INFO:         Xtra_Petal_032_02 (idx=332)
+# INFO:             Xtra_Petal_032_03 (idx=333)
+# INFO:                 Xtra_Petal_032_04 (idx=334)
+# INFO:                     Xtra_Petal_032_05 (idx=335)
+# INFO:                         Xtra_Petal_032_06 (idx=336)
+# INFO:
+# INFO: --- Blender Armature Bone Tree ---
+# INFO: Pelvis
+# INFO:     L_Thigh
+# INFO:         L_ThighTwist
+# INFO:         L_ThighTwist1
+# INFO:         L_Thigh_Skirt
+# INFO:         L_Knee_Skirt
+# INFO:         L_Knee
+# INFO:             L_Calf
+# INFO:                 L_CalfTwist
+# INFO:                 L_CalfTwist1
+# INFO:                 L_Calf_Skirt
+# INFO:                 L_Foot
+# INFO:                     L_Toe0
+# INFO:                         L_FootFinger1
+# INFO:                             L_FootFinger102
+# INFO:                         L_FootFinger2
+# INFO:                             L_FootFinger202
+# INFO:                                 L_FootFinger203
+# INFO:                         L_FootFinger3
+# INFO:                             L_FootFinger302
+# INFO:                                 L_FootFinger303
+# INFO:                         L_FootFinger4
+# INFO:                             L_FootFinger402
+# INFO:                                 L_FootFinger403
+# INFO:                         L_FootFinger5
+# INFO:                             L_FootFinger502
+# INFO:                                 L_FootFinger503
+# INFO:                     L_FootTwist
+# INFO:     R_Thigh
+# INFO:         R_ThighTwist
+# INFO:         R_ThighTwist1
+# INFO:         R_Knee
+# INFO:         R_Calf
+# INFO:             R_CalfTwist
+# INFO:             R_CalfTwist1
+# INFO:             R_Foot
+# INFO:                 R_Toe0
+# INFO:                     R_FootFinger1
+# INFO:                         R_FootFinger102
+# INFO:                     R_FootFinger2
+# INFO:                         R_FootFinger202
+# INFO:                             R_FootFinger203
+# INFO:                     R_FootFinger3
+# INFO:                         R_FootFinger302
+# INFO:                             R_FootFinger303
+# INFO:                     R_FootFinger4
+# INFO:                         R_FootFinger402
+# INFO:                             R_FootFinger403
+# INFO:                     R_FootFinger5
+# INFO:                         R_FootFinger502
+# INFO:                             R_FootFinger503
+# INFO:                 R_FootTwist
+# INFO:             R_Calf_Skirt
+# INFO:         R_Thigh_Skirt
+# INFO:     R_Hip
+# INFO:     L_Hip
+# INFO: Spine
+# INFO:     Spine1
+# INFO:         Spine2
+# INFO:             L_Clavicle
+# INFO:                 L_Shoulder
+# INFO:                 L_UpperArm
+# INFO:                     L_UpArmTwist
+# INFO:                     L_UpArmTwist1
+# INFO:                     L_Elbow
+# INFO:                     L_Forearm
+# INFO:                         L_Hand
+# INFO:                             L_Finger0
+# INFO:                                 L_Finger01
+# INFO:                                     L_Finger02
+# INFO:                             L_Finger1
+# INFO:                                 L_Finger11
+# INFO:                                     L_Finger12
+# INFO:                             L_Finger2
+# INFO:                                 L_Finger21
+# INFO:                                     L_Finger22
+# INFO:                             L_Finger3
+# INFO:                                 L_Finger31
+# INFO:                                     L_Finger32
+# INFO:                             L_Finger4
+# INFO:                                 L_Finger41
+# INFO:                                     L_Finger42
+# INFO:                         L_ForeArmTwist
+# INFO:                         L_ForeArmTwist1
+# INFO:             R_Clavicle
+# INFO:                 R_UpperArm
+# INFO:                     R_UpperArmTwist
+# INFO:                     R_Elbow
+# INFO:                         R_Forearm
+# INFO:                             R_ForearmTwist
+# INFO:                             R_Hand
+# INFO:                                 R_Finger0
+# INFO:                                     R_Finger01
+# INFO:                                         R_Finger02
+# INFO:                                 R_Finger1
+# INFO:                                     R_Finger11
+# INFO:                                         R_Finger12
+# INFO:                                 R_Finger2
+# INFO:                                     R_Finger21
+# INFO:                                         R_Finger22
+# INFO:                                 R_Finger3
+# INFO:                                     R_Finger31
+# INFO:                                         R_Finger32
+# INFO:                                 R_Finger4
+# INFO:                                     R_Finger41
+# INFO:                                         R_Finger42
+# INFO:                             R_BladeGimmick_Shart1
+# INFO:                             R_BladeGimmick_Shart2
+# INFO:                             R_BladeGimmick_Shart3
+# INFO:                             R_Blade
+# INFO:                             R_ForearmTwist1
+# INFO:                     R_UpArmTwist
+# INFO:                 R_ShoulderJoint_Base
+# INFO:                 R_ShoulderJoint_Armor
+# INFO:                 R_ShoulderJoint_Shaft
+# INFO:             Neck
+# INFO:                 Head
+# INFO:                     Jaw
+# INFO:                     R_Eyelid
+# INFO:                     L_Eyelid
+# INFO:                     L_Eye
+# INFO:                     R_Eye
+# INFO:             Xtra_L_Wing
+# INFO:                 Xtra_L_Wing02
+# INFO:                     Xtra_L_Wing03
+# INFO:                         Xtra_L_Wing04
+# INFO:                             Xtra_L_Wing05
+# INFO:             Xtra_R_Wing
+# INFO:                 Xtra_R_Wing02
+# INFO:                     Xtra_R_Wing03
+# INFO:                         Xtra_R_Wing04
+# INFO:                             Xtra_R_Wing05
+# INFO:         SpineArmor1
+# INFO: Xtra_Petal_001_01
+# INFO:     Xtra_Petal_001_02
+# INFO:         Xtra_Petal_001_03
+# INFO:             Xtra_Petal_001_04
+# INFO:                 Xtra_Petal_001_05
+# INFO:                     Xtra_Petal_001_06
+# INFO: Xtra_Petal_002_01
+# INFO:     Xtra_Petal_002_02
+# INFO:         Xtra_Petal_002_03
+# INFO:             Xtra_Petal_002_04
+# INFO:                 Xtra_Petal_002_05
+# INFO:                     Xtra_Petal_002_06
+# INFO: Xtra_Petal_003_01
+# INFO:     Xtra_Petal_003_02
+# INFO:         Xtra_Petal_003_03
+# INFO:             Xtra_Petal_003_04
+# INFO:                 Xtra_Petal_003_05
+# INFO:                     Xtra_Petal_003_06
+# INFO: Xtra_Petal_004_01
+# INFO:     Xtra_Petal_004_02
+# INFO:         Xtra_Petal_004_03
+# INFO:             Xtra_Petal_004_04
+# INFO:                 Xtra_Petal_004_05
+# INFO:                     Xtra_Petal_004_06
+# INFO: Xtra_Petal_005_01
+# INFO:     Xtra_Petal_005_02
+# INFO:         Xtra_Petal_005_03
+# INFO:             Xtra_Petal_005_04
+# INFO:                 Xtra_Petal_005_05
+# INFO:                     Xtra_Petal_005_06
+# INFO: Xtra_Petal_006_01
+# INFO:     Xtra_Petal_006_02
+# INFO:         Xtra_Petal_006_03
+# INFO:             Xtra_Petal_006_04
+# INFO:                 Xtra_Petal_006_05
+# INFO:                     Xtra_Petal_006_06
+# INFO: Xtra_Petal_007_01
+# INFO:     Xtra_Petal_007_02
+# INFO:         Xtra_Petal_007_03
+# INFO:             Xtra_Petal_007_04
+# INFO:                 Xtra_Petal_007_05
+# INFO:                     Xtra_Petal_007_06
+# INFO: Xtra_Petal_008_01
+# INFO:     Xtra_Petal_008_02
+# INFO:         Xtra_Petal_008_03
+# INFO:             Xtra_Petal_008_04
+# INFO:                 Xtra_Petal_008_05
+# INFO:                     Xtra_Petal_008_06
+# INFO: Xtra_Petal_009_01
+# INFO:     Xtra_Petal_009_02
+# INFO:         Xtra_Petal_009_03
+# INFO:             Xtra_Petal_009_04
+# INFO:                 Xtra_Petal_009_05
+# INFO:                     Xtra_Petal_009_06
+# INFO: Xtra_Petal_010_01
+# INFO:     Xtra_Petal_010_02
+# INFO:         Xtra_Petal_010_03
+# INFO:             Xtra_Petal_010_04
+# INFO:                 Xtra_Petal_010_05
+# INFO:                     Xtra_Petal_010_06
+# INFO: Xtra_Petal_011_01
+# INFO:     Xtra_Petal_011_02
+# INFO:         Xtra_Petal_011_03
+# INFO:             Xtra_Petal_011_04
+# INFO:                 Xtra_Petal_011_05
+# INFO:                     Xtra_Petal_011_06
+# INFO: Xtra_Petal_012_01
+# INFO:     Xtra_Petal_012_02
+# INFO:         Xtra_Petal_012_03
+# INFO:             Xtra_Petal_012_04
+# INFO:                 Xtra_Petal_012_05
+# INFO:                     Xtra_Petal_012_06
+# INFO: Xtra_Petal_013_01
+# INFO:     Xtra_Petal_013_02
+# INFO:         Xtra_Petal_013_03
+# INFO:             Xtra_Petal_013_04
+# INFO:                 Xtra_Petal_013_05
+# INFO:                     Xtra_Petal_013_06
+# INFO: Xtra_Petal_014_01
+# INFO:     Xtra_Petal_014_02
+# INFO:         Xtra_Petal_014_03
+# INFO:             Xtra_Petal_014_04
+# INFO:                 Xtra_Petal_014_05
+# INFO:                     Xtra_Petal_014_06
+# INFO: Xtra_Petal_015_01
+# INFO:     Xtra_Petal_015_02
+# INFO:         Xtra_Petal_015_03
+# INFO:             Xtra_Petal_015_04
+# INFO:                 Xtra_Petal_015_05
+# INFO:                     Xtra_Petal_015_06
+# INFO: Xtra_Petal_016_01
+# INFO:     Xtra_Petal_016_02
+# INFO:         Xtra_Petal_016_03
+# INFO:             Xtra_Petal_016_04
+# INFO:                 Xtra_Petal_016_05
+# INFO:                     Xtra_Petal_016_06
+# INFO: Xtra_Petal_017_01
+# INFO:     Xtra_Petal_017_02
+# INFO:         Xtra_Petal_017_03
+# INFO:             Xtra_Petal_017_04
+# INFO:                 Xtra_Petal_017_05
+# INFO:                     Xtra_Petal_017_06
+# INFO: Xtra_Petal_018_01
+# INFO:     Xtra_Petal_018_02
+# INFO:         Xtra_Petal_018_03
+# INFO:             Xtra_Petal_018_04
+# INFO:                 Xtra_Petal_018_05
+# INFO:                     Xtra_Petal_018_06
+# INFO: Xtra_Petal_019_01
+# INFO:     Xtra_Petal_019_02
+# INFO:         Xtra_Petal_019_03
+# INFO:             Xtra_Petal_019_04
+# INFO:                 Xtra_Petal_019_05
+# INFO:                     Xtra_Petal_019_06
+# INFO: Xtra_Petal_020_01
+# INFO:     Xtra_Petal_020_02
+# INFO:         Xtra_Petal_020_03
+# INFO:             Xtra_Petal_020_04
+# INFO:                 Xtra_Petal_020_05
+# INFO:                     Xtra_Petal_020_06
+# INFO: Xtra_Petal_021_01
+# INFO:     Xtra_Petal_021_02
+# INFO:         Xtra_Petal_021_03
+# INFO:             Xtra_Petal_021_04
+# INFO:                 Xtra_Petal_021_05
+# INFO:                     Xtra_Petal_021_06
+# INFO: Xtra_Petal_022_01
+# INFO:     Xtra_Petal_022_02
+# INFO:         Xtra_Petal_022_03
+# INFO:             Xtra_Petal_022_04
+# INFO:                 Xtra_Petal_022_05
+# INFO:                     Xtra_Petal_022_06
+# INFO: Xtra_Petal_023_01
+# INFO:     Xtra_Petal_023_02
+# INFO:         Xtra_Petal_023_03
+# INFO:             Xtra_Petal_023_04
+# INFO:                 Xtra_Petal_023_05
+# INFO:                     Xtra_Petal_023_06
+# INFO: Xtra_Petal_024_01
+# INFO:     Xtra_Petal_024_02
+# INFO:         Xtra_Petal_024_03
+# INFO:             Xtra_Petal_024_04
+# INFO:                 Xtra_Petal_024_05
+# INFO:                     Xtra_Petal_024_06
+# INFO: Xtra_Petal_025_01
+# INFO:     Xtra_Petal_025_02
+# INFO:         Xtra_Petal_025_03
+# INFO:             Xtra_Petal_025_04
+# INFO:                 Xtra_Petal_025_05
+# INFO:                     Xtra_Petal_025_06
+# INFO: Xtra_Petal_026_01
+# INFO:     Xtra_Petal_026_02
+# INFO:         Xtra_Petal_026_03
+# INFO:             Xtra_Petal_026_04
+# INFO:                 Xtra_Petal_026_05
+# INFO:                     Xtra_Petal_026_06
+# INFO: Xtra_Petal_027_01
+# INFO:     Xtra_Petal_027_02
+# INFO:         Xtra_Petal_027_03
+# INFO:             Xtra_Petal_027_04
+# INFO:                 Xtra_Petal_027_05
+# INFO:                     Xtra_Petal_027_06
+# INFO: Xtra_Petal_028_01
+# INFO:     Xtra_Petal_028_02
+# INFO:         Xtra_Petal_028_03
+# INFO:             Xtra_Petal_028_04
+# INFO:                 Xtra_Petal_028_05
+# INFO:                     Xtra_Petal_028_06
+# INFO: Xtra_Petal_029_01
+# INFO:     Xtra_Petal_029_02
+# INFO:         Xtra_Petal_029_03
+# INFO:             Xtra_Petal_029_04
+# INFO:                 Xtra_Petal_029_05
+# INFO:                     Xtra_Petal_029_06
+# INFO: Xtra_Petal_030_01
+# INFO:     Xtra_Petal_030_02
+# INFO:         Xtra_Petal_030_03
+# INFO:             Xtra_Petal_030_04
+# INFO:                 Xtra_Petal_030_05
+# INFO:                     Xtra_Petal_030_06
+# INFO: Xtra_Petal_031_01
+# INFO:     Xtra_Petal_031_02
+# INFO:         Xtra_Petal_031_03
+# INFO:             Xtra_Petal_031_04
+# INFO:                 Xtra_Petal_031_05
+# INFO:                     Xtra_Petal_031_06
+# INFO: Xtra_Petal_032_01
+# INFO:     Xtra_Petal_032_02
+# INFO:         Xtra_Petal_032_03
+# INFO:             Xtra_Petal_032_04
+# INFO:                 Xtra_Petal_032_05
+# INFO:                     Xtra_Petal_032_06
+# INFO: c2120_arm_inner_cum01
+# INFO: c2120_arm_inner_cum02
+# INFO: c2120_arm_inner_cum03
+# INFO: c2120_forearm_cover
+# INFO: c2120_forearm_base
+# INFO: c2120_hand_connect
+# INFO: c2120_shoulder_cover
+# INFO: c2120_shoulder_plate
+# INFO: c2120_dress02
+# INFO: c2120_mant_fur01
+# INFO: c2120_mant
+# INFO: c2120_pants
+# INFO: c2120_spine_deco
+# INFO: c2120_belt
+# INFO: c2120_hand
+# INFO: c2120_dress01
+# INFO: c2120_bottom_chain
+# INFO: c2120_upper_arm01
+# INFO: c2120_elbow_connect
+# INFO: c2120_mant_fur02
+# INFO: c2120_hair_L
+# INFO: c2120_belt_HU
+# INFO: c2120_dress_HU
+# INFO: c2120_mant2
+# INFO: c2120_blade001
+# INFO: Butterfly_front_L
+# INFO: Wing_base_L
+# INFO: Hair_L
+# INFO: Butterfly_Back_L
+# INFO: Wing_base_R
+# INFO: Butterfly_front_R
+# INFO: Hair_R
+# INFO: Butterfly_Back_R
+# INFO: c8900_Gum_Upper
+# INFO: c8900_Gum_Lower
+# INFO: c8900_Tongue
+# INFO: c8900_Mouth
+# INFO: c2120_base_body
+# INFO: c2120_hair_HU1
+# INFO: c2120_hair_R
+# INFO: c2120_hair_HU2
+# INFO: c2120_Clone_Butterfly_Body
+# INFO: c2120_Clone_BodyGlow
+# INFO: c2120_Clone_Blade
+# INFO: c2120_Clone_Butterfly_Blade
+# INFO: c2120_Arts_Petal_001
+# INFO: c2120_HD
+# INFO: c2120_Arts_Petal_002
+# INFO: c2120_Arts_Petal_003
+# INFO: c2120_Arts_Petal_004
+# INFO: c2120_Arts_Petal_005
+# INFO: c2120_Arts_Petal_006
+# INFO: c2120_Arts_Petal_007
+# INFO: c2120_Arts_Petal_008
+# INFO: c2120_Arts_Petal_009
+# INFO: c2120_Arts_Petal_010
+# INFO: c2120_Arts_Petal_011
+# INFO: c2120_Arts_Petal_012
+# INFO: c2120_Arts_Petal_013
+# INFO: c2120_Arts_Petal_014
+# INFO: c2120_Arts_Petal_015
+# INFO: c2120_Arts_Petal_016
+# INFO: c2120_Arts_Petal_017
+# INFO: c2120_Arts_Petal_018
+# INFO: c2120_Arts_Petal_019
+# INFO: c2120_Arts_Petal_020
+# INFO: c2120_Arts_Petal_021
+# INFO: c2120_Arts_Petal_022
+# INFO: c2120_Arts_Petal_023
+# INFO: c2120_Arts_Petal_024
+# INFO: c2120_Arts_Petal_025
+# INFO: c2120_Arts_Petal_026
+# INFO: c2120_Arts_Petal_027
+# INFO: c2120_Arts_Petal_028
+# INFO: c2120_Arts_Petal_029
+# INFO: c2120_Arts_Petal_030
+# INFO: c2120_Arts_Petal_031
+# INFO: c2120_Arts_Petal_032
+# INFO: Dmypoly_200
+# INFO: Dmypoly_汎用_固定
+# INFO: Dmypoly_SFX
+# INFO: Dmypoly_SFX_固定
+# INFO: Dmypoly_汎用
+# INFO: Dmypoly_アニメ_固定
+# INFO: Dmypoly_アニメ
+# INFO: Dmypoly_企画
+# INFO: Dmypoly_SFX_死亡全身
+# INFO: Dmypoly_企画_固定
+# INFO: Dmypoly_モデル_固定
+# INFO: Dmypoly_モデル
+# INFO: Ctrl
+# INFO: Ctrl_Pelvis
+# INFO: Ctrl_Spine
+# INFO: Ctrl_Spine1
+# INFO: Ctrl_Spine2
+# INFO: Ctrl_Neck
+# INFO: Ctrl_Head
+# INFO: Ctrl_HeadNub
+# INFO: Ctrl Jaw
+# INFO: Ctrl JawNub
+# INFO: Ctrl L_Eye
+# INFO: Ctrl L_EyeNub
+# INFO: Ctrl R_Eye
+# INFO: Ctrl R_EyeNub
+# INFO: Ctrl L_Eyelid
+# INFO: Ctrl L_EyelidNub
+# INFO: Ctrl R_Eyelid
+# INFO: Ctrl R_EyelidNub
+# INFO: Ctrl_L_Clavicle
+# INFO: Ctrl_L_UpperArm
+# INFO: Ctrl_L_Forearm
+# INFO: Ctrl_L_Hand
+# INFO: Ctrl_L_Finger0
+# INFO: Ctrl_L_Finger01
+# INFO: Ctrl_L_Finger02
+# INFO: Ctrl_L_Finger0Nub
+# INFO: Ctrl_L_Finger1
+# INFO: Ctrl_L_Finger11
+# INFO: Ctrl_L_Finger12
+# INFO: Ctrl_L_Finger1Nub
+# INFO: Ctrl_L_Finger2
+# INFO: Ctrl_L_Finger21
+# INFO: Ctrl_L_Finger22
+# INFO: Ctrl_L_Finger2Nub
+# INFO: Ctrl_L_Finger4
+# INFO: Ctrl_L_Finger41
+# INFO: Ctrl_L_Finger42
+# INFO: Ctrl_L_Finger4Nub
+# INFO: Ctrl_L_Finger3
+# INFO: Ctrl_L_Finger31
+# INFO: Ctrl_L_Finger32
+# INFO: Ctrl_L_Finger3Nub
+# INFO: Ctrl_L_WeaponRoot
+# INFO: Ctrl UpTwist_L_Shoulder
+# INFO: Ctrl UpTwist_L_ShoulderNub
+# INFO: Ctrl_R_Clavicle
+# INFO: Ctrl_R_UpperArm
+# INFO: Ctrl_R_Forearm
+# INFO: Ctrl_R_Hand
+# INFO: Ctrl_R_Finger0
+# INFO: Ctrl_R_Finger01
+# INFO: Ctrl_R_Finger02
+# INFO: Ctrl_R_Finger0Nub
+# INFO: Ctrl_R_Finger1
+# INFO: Ctrl_R_Finger11
+# INFO: Ctrl_R_Finger12
+# INFO: Ctrl_R_Finger1Nub
+# INFO: Ctrl_R_Finger2
+# INFO: Ctrl_R_Finger21
+# INFO: Ctrl_R_Finger22
+# INFO: Ctrl_R_Finger2Nub
+# INFO: Ctrl_R_Finger4
+# INFO: Ctrl_R_Finger41
+# INFO: Ctrl_R_Finger42
+# INFO: Ctrl_R_Finger4Nub
+# INFO: Ctrl_R_Finger3
+# INFO: Ctrl_R_Finger31
+# INFO: Ctrl_R_Finger32
+# INFO: Ctrl_R_Finger3Nub
+# INFO: Ctrl_R_WeaponRoot
+# INFO: Ctrl_R_Blade
+# INFO: Ctrl UpTwist_R_Shoulder
+# INFO: Ctrl UpTwist_R_ShoulderNub
+# INFO: Ctrl Xtra_L_Wing
+# INFO: Ctrl Xtra_L_Wing02
+# INFO: Ctrl Xtra_L_Wing03
+# INFO: Ctrl Xtra_L_Wing04
+# INFO: Ctrl Xtra_L_Wing05
+# INFO: Ctrl Xtra_L_WingNub
+# INFO: Ctrl Xtra_R_Wing
+# INFO: Ctrl Xtra_R_Wing02
+# INFO: Ctrl Xtra_R_Wing03
+# INFO: Ctrl Xtra_R_Wing04
+# INFO: Ctrl Xtra_R_Wing05
+# INFO: Ctrl Xtra_R_WingNub
+# INFO: Ctrl_L_Thigh
+# INFO: Ctrl_L_Calf
+# INFO: Ctrl_L_Foot
+# INFO: Ctrl_L_Toe0
+# INFO: Ctrl_L_Toe0Nub
+# INFO: Ctrl L_ToeSub
+# INFO: Ctrl L_ToeSubNub
+# INFO: Ctrl L_FootFinger1
+# INFO: Ctrl L_FootFinger102
+# INFO: Ctrl L_FootFinger1Nub
+# INFO: Ctrl L_FootFinger2
+# INFO: Ctrl L_FootFinger202
+# INFO: Ctrl L_FootFinger203
+# INFO: Ctrl L_FootFinger2Nub
+# INFO: Ctrl L_FootFinger4
+# INFO: Ctrl L_FootFinger402
+# INFO: Ctrl L_FootFinger403
+# INFO: Ctrl L_FootFinger4Nub
+# INFO: Ctrl L_FootFinger5
+# INFO: Ctrl L_FootFinger502
+# INFO: Ctrl L_FootFinger503
+# INFO: Ctrl L_FootFinger5Nub
+# INFO: Ctrl L_FootFinger3
+# INFO: Ctrl L_FootFinger302
+# INFO: Ctrl L_FootFinger303
+# INFO: Ctrl L_FootFinger3Nub
+# INFO: Ctrl_R_Thigh
+# INFO: Ctrl_R_Calf
+# INFO: Ctrl_R_Foot
+# INFO: Ctrl_R_Toe0
+# INFO: Ctrl_R_Toe0Nub
+# INFO: Ctrl R_ToeSub
+# INFO: Ctrl R_ToeSubNub
+# INFO: Ctrl R_FootFinger1
+# INFO: Ctrl R_FootFinger102
+# INFO: Ctrl R_FootFinger1Nub
+# INFO: Ctrl R_FootFinger2
+# INFO: Ctrl R_FootFinger202
+# INFO: Ctrl R_FootFinger203
+# INFO: Ctrl R_FootFinger2Nub
+# INFO: Ctrl R_FootFinger4
+# INFO: Ctrl R_FootFinger402
+# INFO: Ctrl R_FootFinger403
+# INFO: Ctrl R_FootFinger4Nub
+# INFO: Ctrl R_FootFinger5
+# INFO: Ctrl R_FootFinger502
+# INFO: Ctrl R_FootFinger503
+# INFO: Ctrl R_FootFinger5Nub
+# INFO: Ctrl R_FootFinger3
+# INFO: Ctrl R_FootFinger302
+# INFO: Ctrl R_FootFinger303
+# INFO: Ctrl R_FootFinger3Nub
+# INFO: Ctrl R_BladeGimmick_Switch
+# INFO: Ctrl R_BladeGimmick_SwitchNub
+# INFO: Master
+# INFO: R_Foot_Target2
+# INFO: R_Foot_Target1
+# INFO: R_Foot_Target
+# INFO: L_Foot_Target2
+# INFO: L_Foot_Target1
+# INFO: L_Foot_Target
+# INFO: Root
+# INFO: R_Knee_Skirt
+# INFO: R_UpperArmTwist1
+# INFO: Collar
+# INFO: SpineArmor2
+# INFO: Ctrl_System
+# INFO: TwistDummy
+# INFO: Ctrl_NeckTwist
+# INFO: Ctrl_L_Elbow
+# INFO: Ctrl_R_Knee
+# INFO: Ctrl_R_Elbow
+# INFO: Ctrl_Collar
+# INFO: Ctrl_SpineArmer1
+# INFO: Ctrl_SpineArmer2
+# INFO: Ctrl_L_Calf_Skirt
+# INFO: Ctrl_R_Calf_Skirt
+# INFO: Ctrl_L_Thigh_Skirt
+# INFO: Ctrl_R_Thigh_Skirt
+# INFO: Ctrl_L_Knee_Skirt
+# INFO: Ctrl_R_Knee_Skirt
+# INFO: 肩位置/角度参照
+# INFO: 位置反映(制限制御込み)
+# INFO: 回転反映(制限制御込み)
+# INFO: スカート回転抽出
+# INFO: 鎧前後移動参照
+# INFO: Ctrl_L_Shoulder
+# INFO: Ctrl_L_UpArmTwist1
+# INFO: Ctrl_L_ForeArmTwist1
+# INFO: Ctrl_L_ForeArmTwist
+# INFO: Ctrl_L_ForeArmTwist_UP
+# INFO: Ctrl_L_Hip
+# INFO: Ctrl_R_Hip
+# INFO: スカート回転参照位置_左
+# INFO: スカート回転参照回転_左
+# INFO: スカート回転参照位置_右
+# INFO: スカート回転参照回転_右
+# INFO: Ctrl_L_ThighTwist
+# INFO: Ctrl_L_ThighTwist_UP
+# INFO: Ctrl_L_ThighTwist1
+# INFO: Ctrl_R_ThighTwist1
+# INFO: Ctrl_R_ThighTwist
+# INFO: Ctrl_R_ThighTwist_UP
+# INFO: Ctrl_L_CalfTwist1
+# INFO: Ctrl_R_CalfTwist1
+# INFO: Ctrl_L_FootTwist_Pos
+# INFO: Ctrl_L_CalfTwist
+# INFO: Ctrl_L_CalfTwist_UP
+# INFO: Ctrl_R_CalfTwist
+# INFO: Ctrl_R_CalfTwist_UP
+# INFO: Ctrl_R_FootTwist_Pos
+# INFO: Ctrl_R_FootTwist
+# INFO: Ctrl_L_FootTwist
+# INFO: MasterRig_Root
+# INFO: Master制御_Ctrl接続
+# INFO: Master制御_Masterリンク先
+# INFO: MSamp抽出
+# INFO: 参照用_MSampノード参照
+# INFO: 参照用_Masterの回転を制限
+# INFO: 参照用_Master位置
+# INFO: 参照用_Master回転
+# INFO: 参照用_地面位置
+# INFO: MasterRig_Variable
+# INFO: Ctrl_Spine_Roll_Root
+# INFO: Ctrl_Spine_RollStart
+# INFO: Ctrl_Spine1_RollBase
+# INFO: Ctrl_Spine1_Roll
+# INFO: Ctrl_Spine0_RollBase
+# INFO: Ctrl_Spine0_Roll
+# INFO: Ctrl_L_UpperArm_UpperTwistRig_Root
+# INFO: Ctrl_L_UpperArm_UpperTwist_ボーン接続
+# INFO: Ctrl_L_UpperArm_UpperTwist_アップノード制御
+# INFO: Ctrl_L_UpperArm_UpperTwist_ターゲット基点
+# INFO: Ctrl_L_UpperArm_UpperTwist_ターゲット制限
+# INFO: Ctrl_L_UpperArm_UpperTwistRig_Variable
+# INFO: Ctrl_R_UpperArm_UpperTwistRig_Root
+# INFO: Ctrl_R_UpperArm_UpperTwist_ボーン接続
+# INFO: Ctrl_R_UpperArm_UpperTwist_アップノード制御
+# INFO: Ctrl_R_UpperArm_UpperTwist_ターゲット基点
+# INFO: Ctrl_R_UpperArm_UpperTwist_ターゲット制限
+# INFO: Ctrl_R_UpperArm_UpperTwistRig_Variable
+# INFO: Ctrl_R_UpperArmTwist1
+# INFO: Ctrl_R_ForearmTwist
+# INFO: Ctrl_R_ForearmTwist_Up
+# INFO: Ctrl_R_ForearmTwist1
+# INFO: Ctrl_R_Arm_Root
+# INFO: Ctrl_R_ShoulderJoint_Armor
+# INFO: Ctrl_R_ShoulderJoint_Shaft_Target
+# INFO: Ctrl_R_ShoulderJoint_Shaft
+# INFO: Ctrl_R_ShoulderJoint_Shaft_UpVec
+# INFO: Ctrl_R_ShoulderJoint_Base
+# INFO: Ctrl_R_ShoulderJoint_Base_UP
+# INFO: Ctrl_R_BladeGimmick_StorageTarget
+# INFO: Ctrl_R_BladeGimmick_Shaft1
+# INFO: Ctrl_R_BladeGimmick_Shaft2_Target
+# INFO: Ctrl_R_BladeGimmick_Shaft2
+# INFO: Ctrl_R_BladeGimmick_Shaft3_Target
+# INFO: Ctrl_R_BladeGimmick_Shaft3
+# INFO: Ctrl_R_BladeGimmick_ConnectionTwist
+# INFO: Ctrl_R_BladeGimmick_StoragTwist
+# INFO: Ctrl_R_BladeGimmick_Twist
+# INFO: Ctrl_R_BladeGimmick_Target
+# INFO: Ctrl_R_BladeGimmick_ConnectionTarget
+# INFO: Rig_R_UpperArm
+# INFO: Rig_R_Elbow
+# INFO: Rig_R_Forearm
+# INFO: Ctrl_R_ArmIK_Root
+# INFO: Ctrl_R_ArmIK1
+# INFO: Ctrl_R_ArmIK2
+# INFO: Ctrl_R_ArmIK3
+# INFO: Ctrl_R_ArmIK4
+# INFO: Ctrl_R_ArmIK_Target
+# INFO: Ctrl_L_Leg_Root
+# INFO: Ctrl_L_LegIK_Root
+# INFO: Ctrl_L_LegIK1
+# INFO: Ctrl_L_LegIK2
+# INFO: Ctrl_L_LegIK3
+# INFO: Ctrl_L_LegIK4
+# INFO: IK Ctrl_L_LegIK_Target
+# INFO: Rig_L_Thigh
+# INFO: Rig_L_Knee
+# INFO: Rig_L_Calf
+# INFO: 地面＋正面方向
+# INFO: 矢印
+# INFO: MoveSampling
+# INFO: Ctrl_R_BladeGimmick_Switch_Root_Connection
+# INFO: Ctrl_R_BladeGimmick_Switch_Connection
+# INFO: Ctrl_R_BladeGimmick_Switch_Text_Connection
+# INFO: Ctrl_R_BladeGimmick_Switch_Root_Storag
+# INFO: Ctrl_R_BladeGimmick_Switch_Storag
+# INFO: Ctrl_R_BladeGimmick_Switch_Text_Storag
+# INFO: Ctrl_R_BladeGimmick_Switch_Text
+# INFO: c2120_dress_sim
+# INFO: c2120_mant_sim
+# INFO: Collidable_Ctrl_R_Calf
+# INFO: Collidable_Ctrl_L_Calf
+# INFO: Collidable_Ctrl_Pelvis
+# INFO: Collidable_Ctrl_Spine
+# INFO: Collidable_Ctrl_L_Clavicle
+# INFO: Collidable_Ctrl_L_UpperArm
+# INFO: Collidable_Ctrl_R_Clavicle
+# INFO: Collidable_Ctrl_L_Thigh
+# INFO: Collidable_Ctrl_R_Thigh
+# INFO: Box001
+# INFO: Sphere001
+# INFO: Collidable_L_Forearm001
+# INFO: Ctrl_Petal_Root
+# INFO: Ctrl_Petal_001_01
+# INFO: Ctrl_Petal_001_02
+# INFO: Ctrl_Petal_001_03
+# INFO: Ctrl_Petal_001_04
+# INFO: Ctrl_Petal_001_05
+# INFO: Ctrl_Petal_001_06
+# INFO: Ctrl_Petal_002_01
+# INFO: Ctrl_Petal_002_02
+# INFO: Ctrl_Petal_002_03
+# INFO: Ctrl_Petal_002_04
+# INFO: Ctrl_Petal_002_05
+# INFO: Ctrl_Petal_002_06
+# INFO: Ctrl_Petal_003_01
+# INFO: Ctrl_Petal_003_02
+# INFO: Ctrl_Petal_003_03
+# INFO: Ctrl_Petal_003_04
+# INFO: Ctrl_Petal_003_05
+# INFO: Ctrl_Petal_003_06
+# INFO: Ctrl_Petal_004_01
+# INFO: Ctrl_Petal_004_02
+# INFO: Ctrl_Petal_004_03
+# INFO: Ctrl_Petal_004_04
+# INFO: Ctrl_Petal_004_05
+# INFO: Ctrl_Petal_004_06
+# INFO: Ctrl_Petal_005_01
+# INFO: Ctrl_Petal_005_02
+# INFO: Ctrl_Petal_005_03
+# INFO: Ctrl_Petal_005_04
+# INFO: Ctrl_Petal_005_05
+# INFO: Ctrl_Petal_005_06
+# INFO: Ctrl_Petal_006_01
+# INFO: Ctrl_Petal_006_02
+# INFO: Ctrl_Petal_006_03
+# INFO: Ctrl_Petal_006_04
+# INFO: Ctrl_Petal_006_05
+# INFO: Ctrl_Petal_006_06
+# INFO: Ctrl_Petal_007_01
+# INFO: Ctrl_Petal_007_02
+# INFO: Ctrl_Petal_007_03
+# INFO: Ctrl_Petal_007_04
+# INFO: Ctrl_Petal_007_05
+# INFO: Ctrl_Petal_007_06
+# INFO: Ctrl_Petal_008_01
+# INFO: Ctrl_Petal_008_02
+# INFO: Ctrl_Petal_008_03
+# INFO: Ctrl_Petal_008_04
+# INFO: Ctrl_Petal_008_05
+# INFO: Ctrl_Petal_008_06
+# INFO: Ctrl_Petal_009_01
+# INFO: Ctrl_Petal_009_02
+# INFO: Ctrl_Petal_009_03
+# INFO: Ctrl_Petal_009_04
+# INFO: Ctrl_Petal_009_05
+# INFO: Ctrl_Petal_009_06
+# INFO: Ctrl_Petal_010_01
+# INFO: Ctrl_Petal_010_02
+# INFO: Ctrl_Petal_010_03
+# INFO: Ctrl_Petal_010_04
+# INFO: Ctrl_Petal_010_05
+# INFO: Ctrl_Petal_010_06
+# INFO: Ctrl_Petal_011_01
+# INFO: Ctrl_Petal_011_02
+# INFO: Ctrl_Petal_011_03
+# INFO: Ctrl_Petal_011_04
+# INFO: Ctrl_Petal_011_05
+# INFO: Ctrl_Petal_011_06
+# INFO: Ctrl_Petal_012_01
+# INFO: Ctrl_Petal_012_02
+# INFO: Ctrl_Petal_012_03
+# INFO: Ctrl_Petal_012_04
+# INFO: Ctrl_Petal_012_05
+# INFO: Ctrl_Petal_012_06
+# INFO: Ctrl_Petal_013_01
+# INFO: Ctrl_Petal_013_02
+# INFO: Ctrl_Petal_013_03
+# INFO: Ctrl_Petal_013_04
+# INFO: Ctrl_Petal_013_05
+# INFO: Ctrl_Petal_013_06
+# INFO: Ctrl_Petal_014_01
+# INFO: Ctrl_Petal_014_02
+# INFO: Ctrl_Petal_014_03
+# INFO: Ctrl_Petal_014_04
+# INFO: Ctrl_Petal_014_05
+# INFO: Ctrl_Petal_014_06
+# INFO: Ctrl_Petal_015_01
+# INFO: Ctrl_Petal_015_02
+# INFO: Ctrl_Petal_015_03
+# INFO: Ctrl_Petal_015_04
+# INFO: Ctrl_Petal_015_05
+# INFO: Ctrl_Petal_015_06
+# INFO: Ctrl_Petal_016_01
+# INFO: Ctrl_Petal_016_02
+# INFO: Ctrl_Petal_016_03
+# INFO: Ctrl_Petal_016_04
+# INFO: Ctrl_Petal_016_05
+# INFO: Ctrl_Petal_016_06
+# INFO: Ctrl_Petal_017_01
+# INFO: Ctrl_Petal_017_02
+# INFO: Ctrl_Petal_017_03
+# INFO: Ctrl_Petal_017_04
+# INFO: Ctrl_Petal_017_05
+# INFO: Ctrl_Petal_017_06
+# INFO: Ctrl_Petal_018_01
+# INFO: Ctrl_Petal_018_02
+# INFO: Ctrl_Petal_018_03
+# INFO: Ctrl_Petal_018_04
+# INFO: Ctrl_Petal_018_05
+# INFO: Ctrl_Petal_018_06
+# INFO: Ctrl_Petal_019_01
+# INFO: Ctrl_Petal_019_02
+# INFO: Ctrl_Petal_019_03
+# INFO: Ctrl_Petal_019_04
+# INFO: Ctrl_Petal_019_05
+# INFO: Ctrl_Petal_019_06
+# INFO: Ctrl_Petal_020_01
+# INFO: Ctrl_Petal_020_02
+# INFO: Ctrl_Petal_020_03
+# INFO: Ctrl_Petal_020_04
+# INFO: Ctrl_Petal_020_05
+# INFO: Ctrl_Petal_020_06
+# INFO: Ctrl_Petal_021_01
+# INFO: Ctrl_Petal_021_02
+# INFO: Ctrl_Petal_021_03
+# INFO: Ctrl_Petal_021_04
+# INFO: Ctrl_Petal_021_05
+# INFO: Ctrl_Petal_021_06
+# INFO: Ctrl_Petal_022_01
+# INFO: Ctrl_Petal_022_02
+# INFO: Ctrl_Petal_022_03
+# INFO: Ctrl_Petal_022_04
+# INFO: Ctrl_Petal_022_05
+# INFO: Ctrl_Petal_022_06
+# INFO: Ctrl_Petal_023_01
+# INFO: Ctrl_Petal_023_02
+# INFO: Ctrl_Petal_023_03
+# INFO: Ctrl_Petal_023_04
+# INFO: Ctrl_Petal_023_05
+# INFO: Ctrl_Petal_023_06
+# INFO: Ctrl_Petal_024_01
+# INFO: Ctrl_Petal_024_02
+# INFO: Ctrl_Petal_024_03
+# INFO: Ctrl_Petal_024_04
+# INFO: Ctrl_Petal_024_05
+# INFO: Ctrl_Petal_024_06
+# INFO: Ctrl_Petal_025_01
+# INFO: Ctrl_Petal_025_02
+# INFO: Ctrl_Petal_025_03
+# INFO: Ctrl_Petal_025_04
+# INFO: Ctrl_Petal_025_05
+# INFO: Ctrl_Petal_025_06
+# INFO: Ctrl_Petal_026_01
+# INFO: Ctrl_Petal_026_02
+# INFO: Ctrl_Petal_026_03
+# INFO: Ctrl_Petal_026_04
+# INFO: Ctrl_Petal_026_05
+# INFO: Ctrl_Petal_026_06
+# INFO: Ctrl_Petal_027_01
+# INFO: Ctrl_Petal_027_02
+# INFO: Ctrl_Petal_027_03
+# INFO: Ctrl_Petal_027_04
+# INFO: Ctrl_Petal_027_05
+# INFO: Ctrl_Petal_027_06
+# INFO: Ctrl_Petal_028_01
+# INFO: Ctrl_Petal_028_02
+# INFO: Ctrl_Petal_028_03
+# INFO: Ctrl_Petal_028_04
+# INFO: Ctrl_Petal_028_05
+# INFO: Ctrl_Petal_028_06
+# INFO: Ctrl_Petal_029_01
+# INFO: Ctrl_Petal_029_02
+# INFO: Ctrl_Petal_029_03
+# INFO: Ctrl_Petal_029_04
+# INFO: Ctrl_Petal_029_05
+# INFO: Ctrl_Petal_029_06
+# INFO: Ctrl_Petal_030_01
+# INFO: Ctrl_Petal_030_02
+# INFO: Ctrl_Petal_030_03
+# INFO: Ctrl_Petal_030_04
+# INFO: Ctrl_Petal_030_05
+# INFO: Ctrl_Petal_030_06
+# INFO: Ctrl_Petal_031_01
+# INFO: Ctrl_Petal_031_02
+# INFO: Ctrl_Petal_031_03
+# INFO: Ctrl_Petal_031_04
+# INFO: Ctrl_Petal_031_05
+# INFO: Ctrl_Petal_031_06
+# INFO: Ctrl_Petal_032_01
+# INFO: Ctrl_Petal_032_02
+# INFO: Ctrl_Petal_032_03
+# INFO: Ctrl_Petal_032_04
+# INFO: Ctrl_Petal_032_05
+# INFO: Ctrl_Petal_032_06
+# INFO:
+# INFO: --- Bone Tree Comparison ---
+# WARNING: *** MISMATCH: 754 bone(s) in Blender armature but NOT in animation: ***
+# WARNING:   - Box001
+# WARNING:   - Butterfly_Back_L
+# WARNING:   - Butterfly_Back_R
+# WARNING:   - Butterfly_front_L
+# WARNING:   - Butterfly_front_R
+# WARNING:   - Collidable_Ctrl_L_Calf
+# WARNING:   - Collidable_Ctrl_L_Clavicle
+# WARNING:   - Collidable_Ctrl_L_Thigh
+# WARNING:   - Collidable_Ctrl_L_UpperArm
+# WARNING:   - Collidable_Ctrl_Pelvis
+# WARNING:   - Collidable_Ctrl_R_Calf
+# WARNING:   - Collidable_Ctrl_R_Clavicle
+# WARNING:   - Collidable_Ctrl_R_Thigh
+# WARNING:   - Collidable_Ctrl_Spine
+# WARNING:   - Collidable_L_Forearm001
+# WARNING:   - Ctrl
+# WARNING:   - Ctrl Jaw
+# WARNING:   - Ctrl JawNub
+# WARNING:   - Ctrl L_Eye
+# WARNING:   - Ctrl L_EyeNub
+# WARNING:   - Ctrl L_Eyelid
+# WARNING:   - Ctrl L_EyelidNub
+# WARNING:   - Ctrl L_FootFinger1
+# WARNING:   - Ctrl L_FootFinger102
+# WARNING:   - Ctrl L_FootFinger1Nub
+# WARNING:   - Ctrl L_FootFinger2
+# WARNING:   - Ctrl L_FootFinger202
+# WARNING:   - Ctrl L_FootFinger203
+# WARNING:   - Ctrl L_FootFinger2Nub
+# WARNING:   - Ctrl L_FootFinger3
+# WARNING:   - Ctrl L_FootFinger302
+# WARNING:   - Ctrl L_FootFinger303
+# WARNING:   - Ctrl L_FootFinger3Nub
+# WARNING:   - Ctrl L_FootFinger4
+# WARNING:   - Ctrl L_FootFinger402
+# WARNING:   - Ctrl L_FootFinger403
+# WARNING:   - Ctrl L_FootFinger4Nub
+# WARNING:   - Ctrl L_FootFinger5
+# WARNING:   - Ctrl L_FootFinger502
+# WARNING:   - Ctrl L_FootFinger503
+# WARNING:   - Ctrl L_FootFinger5Nub
+# WARNING:   - Ctrl L_ToeSub
+# WARNING:   - Ctrl L_ToeSubNub
+# WARNING:   - Ctrl R_BladeGimmick_Switch
+# WARNING:   - Ctrl R_BladeGimmick_SwitchNub
+# WARNING:   - Ctrl R_Eye
+# WARNING:   - Ctrl R_EyeNub
+# WARNING:   - Ctrl R_Eyelid
+# WARNING:   - Ctrl R_EyelidNub
+# WARNING:   - Ctrl R_FootFinger1
+# WARNING:   - Ctrl R_FootFinger102
+# WARNING:   - Ctrl R_FootFinger1Nub
+# WARNING:   - Ctrl R_FootFinger2
+# WARNING:   - Ctrl R_FootFinger202
+# WARNING:   - Ctrl R_FootFinger203
+# WARNING:   - Ctrl R_FootFinger2Nub
+# WARNING:   - Ctrl R_FootFinger3
+# WARNING:   - Ctrl R_FootFinger302
+# WARNING:   - Ctrl R_FootFinger303
+# WARNING:   - Ctrl R_FootFinger3Nub
+# WARNING:   - Ctrl R_FootFinger4
+# WARNING:   - Ctrl R_FootFinger402
+# WARNING:   - Ctrl R_FootFinger403
+# WARNING:   - Ctrl R_FootFinger4Nub
+# WARNING:   - Ctrl R_FootFinger5
+# WARNING:   - Ctrl R_FootFinger502
+# WARNING:   - Ctrl R_FootFinger503
+# WARNING:   - Ctrl R_FootFinger5Nub
+# WARNING:   - Ctrl R_ToeSub
+# WARNING:   - Ctrl R_ToeSubNub
+# WARNING:   - Ctrl UpTwist_L_Shoulder
+# WARNING:   - Ctrl UpTwist_L_ShoulderNub
+# WARNING:   - Ctrl UpTwist_R_Shoulder
+# WARNING:   - Ctrl UpTwist_R_ShoulderNub
+# WARNING:   - Ctrl Xtra_L_Wing
+# WARNING:   - Ctrl Xtra_L_Wing02
+# WARNING:   - Ctrl Xtra_L_Wing03
+# WARNING:   - Ctrl Xtra_L_Wing04
+# WARNING:   - Ctrl Xtra_L_Wing05
+# WARNING:   - Ctrl Xtra_L_WingNub
+# WARNING:   - Ctrl Xtra_R_Wing
+# WARNING:   - Ctrl Xtra_R_Wing02
+# WARNING:   - Ctrl Xtra_R_Wing03
+# WARNING:   - Ctrl Xtra_R_Wing04
+# WARNING:   - Ctrl Xtra_R_Wing05
+# WARNING:   - Ctrl Xtra_R_WingNub
+# WARNING:   - Ctrl_Collar
+# WARNING:   - Ctrl_Head
+# WARNING:   - Ctrl_HeadNub
+# WARNING:   - Ctrl_L_Calf
+# WARNING:   - Ctrl_L_CalfTwist
+# WARNING:   - Ctrl_L_CalfTwist1
+# WARNING:   - Ctrl_L_CalfTwist_UP
+# WARNING:   - Ctrl_L_Calf_Skirt
+# WARNING:   - Ctrl_L_Clavicle
+# WARNING:   - Ctrl_L_Elbow
+# WARNING:   - Ctrl_L_Finger0
+# WARNING:   - Ctrl_L_Finger01
+# WARNING:   - Ctrl_L_Finger02
+# WARNING:   - Ctrl_L_Finger0Nub
+# WARNING:   - Ctrl_L_Finger1
+# WARNING:   - Ctrl_L_Finger11
+# WARNING:   - Ctrl_L_Finger12
+# WARNING:   - Ctrl_L_Finger1Nub
+# WARNING:   - Ctrl_L_Finger2
+# WARNING:   - Ctrl_L_Finger21
+# WARNING:   - Ctrl_L_Finger22
+# WARNING:   - Ctrl_L_Finger2Nub
+# WARNING:   - Ctrl_L_Finger3
+# WARNING:   - Ctrl_L_Finger31
+# WARNING:   - Ctrl_L_Finger32
+# WARNING:   - Ctrl_L_Finger3Nub
+# WARNING:   - Ctrl_L_Finger4
+# WARNING:   - Ctrl_L_Finger41
+# WARNING:   - Ctrl_L_Finger42
+# WARNING:   - Ctrl_L_Finger4Nub
+# WARNING:   - Ctrl_L_Foot
+# WARNING:   - Ctrl_L_FootTwist
+# WARNING:   - Ctrl_L_FootTwist_Pos
+# WARNING:   - Ctrl_L_ForeArmTwist
+# WARNING:   - Ctrl_L_ForeArmTwist1
+# WARNING:   - Ctrl_L_ForeArmTwist_UP
+# WARNING:   - Ctrl_L_Forearm
+# WARNING:   - Ctrl_L_Hand
+# WARNING:   - Ctrl_L_Hip
+# WARNING:   - Ctrl_L_Knee_Skirt
+# WARNING:   - Ctrl_L_LegIK1
+# WARNING:   - Ctrl_L_LegIK2
+# WARNING:   - Ctrl_L_LegIK3
+# WARNING:   - Ctrl_L_LegIK4
+# WARNING:   - Ctrl_L_LegIK_Root
+# WARNING:   - Ctrl_L_Leg_Root
+# WARNING:   - Ctrl_L_Shoulder
+# WARNING:   - Ctrl_L_Thigh
+# WARNING:   - Ctrl_L_ThighTwist
+# WARNING:   - Ctrl_L_ThighTwist1
+# WARNING:   - Ctrl_L_ThighTwist_UP
+# WARNING:   - Ctrl_L_Thigh_Skirt
+# WARNING:   - Ctrl_L_Toe0
+# WARNING:   - Ctrl_L_Toe0Nub
+# WARNING:   - Ctrl_L_UpArmTwist1
+# WARNING:   - Ctrl_L_UpperArm
+# WARNING:   - Ctrl_L_UpperArm_UpperTwistRig_Root
+# WARNING:   - Ctrl_L_UpperArm_UpperTwistRig_Variable
+# WARNING:   - Ctrl_L_UpperArm_UpperTwist_アップノード制御
+# WARNING:   - Ctrl_L_UpperArm_UpperTwist_ターゲット制限
+# WARNING:   - Ctrl_L_UpperArm_UpperTwist_ターゲット基点
+# WARNING:   - Ctrl_L_UpperArm_UpperTwist_ボーン接続
+# WARNING:   - Ctrl_L_WeaponRoot
+# WARNING:   - Ctrl_Neck
+# WARNING:   - Ctrl_NeckTwist
+# WARNING:   - Ctrl_Pelvis
+# WARNING:   - Ctrl_Petal_001_01
+# WARNING:   - Ctrl_Petal_001_02
+# WARNING:   - Ctrl_Petal_001_03
+# WARNING:   - Ctrl_Petal_001_04
+# WARNING:   - Ctrl_Petal_001_05
+# WARNING:   - Ctrl_Petal_001_06
+# WARNING:   - Ctrl_Petal_002_01
+# WARNING:   - Ctrl_Petal_002_02
+# WARNING:   - Ctrl_Petal_002_03
+# WARNING:   - Ctrl_Petal_002_04
+# WARNING:   - Ctrl_Petal_002_05
+# WARNING:   - Ctrl_Petal_002_06
+# WARNING:   - Ctrl_Petal_003_01
+# WARNING:   - Ctrl_Petal_003_02
+# WARNING:   - Ctrl_Petal_003_03
+# WARNING:   - Ctrl_Petal_003_04
+# WARNING:   - Ctrl_Petal_003_05
+# WARNING:   - Ctrl_Petal_003_06
+# WARNING:   - Ctrl_Petal_004_01
+# WARNING:   - Ctrl_Petal_004_02
+# WARNING:   - Ctrl_Petal_004_03
+# WARNING:   - Ctrl_Petal_004_04
+# WARNING:   - Ctrl_Petal_004_05
+# WARNING:   - Ctrl_Petal_004_06
+# WARNING:   - Ctrl_Petal_005_01
+# WARNING:   - Ctrl_Petal_005_02
+# WARNING:   - Ctrl_Petal_005_03
+# WARNING:   - Ctrl_Petal_005_04
+# WARNING:   - Ctrl_Petal_005_05
+# WARNING:   - Ctrl_Petal_005_06
+# WARNING:   - Ctrl_Petal_006_01
+# WARNING:   - Ctrl_Petal_006_02
+# WARNING:   - Ctrl_Petal_006_03
+# WARNING:   - Ctrl_Petal_006_04
+# WARNING:   - Ctrl_Petal_006_05
+# WARNING:   - Ctrl_Petal_006_06
+# WARNING:   - Ctrl_Petal_007_01
+# WARNING:   - Ctrl_Petal_007_02
+# WARNING:   - Ctrl_Petal_007_03
+# WARNING:   - Ctrl_Petal_007_04
+# WARNING:   - Ctrl_Petal_007_05
+# WARNING:   - Ctrl_Petal_007_06
+# WARNING:   - Ctrl_Petal_008_01
+# WARNING:   - Ctrl_Petal_008_02
+# WARNING:   - Ctrl_Petal_008_03
+# WARNING:   - Ctrl_Petal_008_04
+# WARNING:   - Ctrl_Petal_008_05
+# WARNING:   - Ctrl_Petal_008_06
+# WARNING:   - Ctrl_Petal_009_01
+# WARNING:   - Ctrl_Petal_009_02
+# WARNING:   - Ctrl_Petal_009_03
+# WARNING:   - Ctrl_Petal_009_04
+# WARNING:   - Ctrl_Petal_009_05
+# WARNING:   - Ctrl_Petal_009_06
+# WARNING:   - Ctrl_Petal_010_01
+# WARNING:   - Ctrl_Petal_010_02
+# WARNING:   - Ctrl_Petal_010_03
+# WARNING:   - Ctrl_Petal_010_04
+# WARNING:   - Ctrl_Petal_010_05
+# WARNING:   - Ctrl_Petal_010_06
+# WARNING:   - Ctrl_Petal_011_01
+# WARNING:   - Ctrl_Petal_011_02
+# WARNING:   - Ctrl_Petal_011_03
+# WARNING:   - Ctrl_Petal_011_04
+# WARNING:   - Ctrl_Petal_011_05
+# WARNING:   - Ctrl_Petal_011_06
+# WARNING:   - Ctrl_Petal_012_01
+# WARNING:   - Ctrl_Petal_012_02
+# WARNING:   - Ctrl_Petal_012_03
+# WARNING:   - Ctrl_Petal_012_04
+# WARNING:   - Ctrl_Petal_012_05
+# WARNING:   - Ctrl_Petal_012_06
+# WARNING:   - Ctrl_Petal_013_01
+# WARNING:   - Ctrl_Petal_013_02
+# WARNING:   - Ctrl_Petal_013_03
+# WARNING:   - Ctrl_Petal_013_04
+# WARNING:   - Ctrl_Petal_013_05
+# WARNING:   - Ctrl_Petal_013_06
+# WARNING:   - Ctrl_Petal_014_01
+# WARNING:   - Ctrl_Petal_014_02
+# WARNING:   - Ctrl_Petal_014_03
+# WARNING:   - Ctrl_Petal_014_04
+# WARNING:   - Ctrl_Petal_014_05
+# WARNING:   - Ctrl_Petal_014_06
+# WARNING:   - Ctrl_Petal_015_01
+# WARNING:   - Ctrl_Petal_015_02
+# WARNING:   - Ctrl_Petal_015_03
+# WARNING:   - Ctrl_Petal_015_04
+# WARNING:   - Ctrl_Petal_015_05
+# WARNING:   - Ctrl_Petal_015_06
+# WARNING:   - Ctrl_Petal_016_01
+# WARNING:   - Ctrl_Petal_016_02
+# WARNING:   - Ctrl_Petal_016_03
+# WARNING:   - Ctrl_Petal_016_04
+# WARNING:   - Ctrl_Petal_016_05
+# WARNING:   - Ctrl_Petal_016_06
+# WARNING:   - Ctrl_Petal_017_01
+# WARNING:   - Ctrl_Petal_017_02
+# WARNING:   - Ctrl_Petal_017_03
+# WARNING:   - Ctrl_Petal_017_04
+# WARNING:   - Ctrl_Petal_017_05
+# WARNING:   - Ctrl_Petal_017_06
+# WARNING:   - Ctrl_Petal_018_01
+# WARNING:   - Ctrl_Petal_018_02
+# WARNING:   - Ctrl_Petal_018_03
+# WARNING:   - Ctrl_Petal_018_04
+# WARNING:   - Ctrl_Petal_018_05
+# WARNING:   - Ctrl_Petal_018_06
+# WARNING:   - Ctrl_Petal_019_01
+# WARNING:   - Ctrl_Petal_019_02
+# WARNING:   - Ctrl_Petal_019_03
+# WARNING:   - Ctrl_Petal_019_04
+# WARNING:   - Ctrl_Petal_019_05
+# WARNING:   - Ctrl_Petal_019_06
+# WARNING:   - Ctrl_Petal_020_01
+# WARNING:   - Ctrl_Petal_020_02
+# WARNING:   - Ctrl_Petal_020_03
+# WARNING:   - Ctrl_Petal_020_04
+# WARNING:   - Ctrl_Petal_020_05
+# WARNING:   - Ctrl_Petal_020_06
+# WARNING:   - Ctrl_Petal_021_01
+# WARNING:   - Ctrl_Petal_021_02
+# WARNING:   - Ctrl_Petal_021_03
+# WARNING:   - Ctrl_Petal_021_04
+# WARNING:   - Ctrl_Petal_021_05
+# WARNING:   - Ctrl_Petal_021_06
+# WARNING:   - Ctrl_Petal_022_01
+# WARNING:   - Ctrl_Petal_022_02
+# WARNING:   - Ctrl_Petal_022_03
+# WARNING:   - Ctrl_Petal_022_04
+# WARNING:   - Ctrl_Petal_022_05
+# WARNING:   - Ctrl_Petal_022_06
+# WARNING:   - Ctrl_Petal_023_01
+# WARNING:   - Ctrl_Petal_023_02
+# WARNING:   - Ctrl_Petal_023_03
+# WARNING:   - Ctrl_Petal_023_04
+# WARNING:   - Ctrl_Petal_023_05
+# WARNING:   - Ctrl_Petal_023_06
+# WARNING:   - Ctrl_Petal_024_01
+# WARNING:   - Ctrl_Petal_024_02
+# WARNING:   - Ctrl_Petal_024_03
+# WARNING:   - Ctrl_Petal_024_04
+# WARNING:   - Ctrl_Petal_024_05
+# WARNING:   - Ctrl_Petal_024_06
+# WARNING:   - Ctrl_Petal_025_01
+# WARNING:   - Ctrl_Petal_025_02
+# WARNING:   - Ctrl_Petal_025_03
+# WARNING:   - Ctrl_Petal_025_04
+# WARNING:   - Ctrl_Petal_025_05
+# WARNING:   - Ctrl_Petal_025_06
+# WARNING:   - Ctrl_Petal_026_01
+# WARNING:   - Ctrl_Petal_026_02
+# WARNING:   - Ctrl_Petal_026_03
+# WARNING:   - Ctrl_Petal_026_04
+# WARNING:   - Ctrl_Petal_026_05
+# WARNING:   - Ctrl_Petal_026_06
+# WARNING:   - Ctrl_Petal_027_01
+# WARNING:   - Ctrl_Petal_027_02
+# WARNING:   - Ctrl_Petal_027_03
+# WARNING:   - Ctrl_Petal_027_04
+# WARNING:   - Ctrl_Petal_027_05
+# WARNING:   - Ctrl_Petal_027_06
+# WARNING:   - Ctrl_Petal_028_01
+# WARNING:   - Ctrl_Petal_028_02
+# WARNING:   - Ctrl_Petal_028_03
+# WARNING:   - Ctrl_Petal_028_04
+# WARNING:   - Ctrl_Petal_028_05
+# WARNING:   - Ctrl_Petal_028_06
+# WARNING:   - Ctrl_Petal_029_01
+# WARNING:   - Ctrl_Petal_029_02
+# WARNING:   - Ctrl_Petal_029_03
+# WARNING:   - Ctrl_Petal_029_04
+# WARNING:   - Ctrl_Petal_029_05
+# WARNING:   - Ctrl_Petal_029_06
+# WARNING:   - Ctrl_Petal_030_01
+# WARNING:   - Ctrl_Petal_030_02
+# WARNING:   - Ctrl_Petal_030_03
+# WARNING:   - Ctrl_Petal_030_04
+# WARNING:   - Ctrl_Petal_030_05
+# WARNING:   - Ctrl_Petal_030_06
+# WARNING:   - Ctrl_Petal_031_01
+# WARNING:   - Ctrl_Petal_031_02
+# WARNING:   - Ctrl_Petal_031_03
+# WARNING:   - Ctrl_Petal_031_04
+# WARNING:   - Ctrl_Petal_031_05
+# WARNING:   - Ctrl_Petal_031_06
+# WARNING:   - Ctrl_Petal_032_01
+# WARNING:   - Ctrl_Petal_032_02
+# WARNING:   - Ctrl_Petal_032_03
+# WARNING:   - Ctrl_Petal_032_04
+# WARNING:   - Ctrl_Petal_032_05
+# WARNING:   - Ctrl_Petal_032_06
+# WARNING:   - Ctrl_Petal_Root
+# WARNING:   - Ctrl_R_ArmIK1
+# WARNING:   - Ctrl_R_ArmIK2
+# WARNING:   - Ctrl_R_ArmIK3
+# WARNING:   - Ctrl_R_ArmIK4
+# WARNING:   - Ctrl_R_ArmIK_Root
+# WARNING:   - Ctrl_R_ArmIK_Target
+# WARNING:   - Ctrl_R_Arm_Root
+# WARNING:   - Ctrl_R_Blade
+# WARNING:   - Ctrl_R_BladeGimmick_ConnectionTarget
+# WARNING:   - Ctrl_R_BladeGimmick_ConnectionTwist
+# WARNING:   - Ctrl_R_BladeGimmick_Shaft1
+# WARNING:   - Ctrl_R_BladeGimmick_Shaft2
+# WARNING:   - Ctrl_R_BladeGimmick_Shaft2_Target
+# WARNING:   - Ctrl_R_BladeGimmick_Shaft3
+# WARNING:   - Ctrl_R_BladeGimmick_Shaft3_Target
+# WARNING:   - Ctrl_R_BladeGimmick_StoragTwist
+# WARNING:   - Ctrl_R_BladeGimmick_StorageTarget
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Connection
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Root_Connection
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Root_Storag
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Storag
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Text
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Text_Connection
+# WARNING:   - Ctrl_R_BladeGimmick_Switch_Text_Storag
+# WARNING:   - Ctrl_R_BladeGimmick_Target
+# WARNING:   - Ctrl_R_BladeGimmick_Twist
+# WARNING:   - Ctrl_R_Calf
+# WARNING:   - Ctrl_R_CalfTwist
+# WARNING:   - Ctrl_R_CalfTwist1
+# WARNING:   - Ctrl_R_CalfTwist_UP
+# WARNING:   - Ctrl_R_Calf_Skirt
+# WARNING:   - Ctrl_R_Clavicle
+# WARNING:   - Ctrl_R_Elbow
+# WARNING:   - Ctrl_R_Finger0
+# WARNING:   - Ctrl_R_Finger01
+# WARNING:   - Ctrl_R_Finger02
+# WARNING:   - Ctrl_R_Finger0Nub
+# WARNING:   - Ctrl_R_Finger1
+# WARNING:   - Ctrl_R_Finger11
+# WARNING:   - Ctrl_R_Finger12
+# WARNING:   - Ctrl_R_Finger1Nub
+# WARNING:   - Ctrl_R_Finger2
+# WARNING:   - Ctrl_R_Finger21
+# WARNING:   - Ctrl_R_Finger22
+# WARNING:   - Ctrl_R_Finger2Nub
+# WARNING:   - Ctrl_R_Finger3
+# WARNING:   - Ctrl_R_Finger31
+# WARNING:   - Ctrl_R_Finger32
+# WARNING:   - Ctrl_R_Finger3Nub
+# WARNING:   - Ctrl_R_Finger4
+# WARNING:   - Ctrl_R_Finger41
+# WARNING:   - Ctrl_R_Finger42
+# WARNING:   - Ctrl_R_Finger4Nub
+# WARNING:   - Ctrl_R_Foot
+# WARNING:   - Ctrl_R_FootTwist
+# WARNING:   - Ctrl_R_FootTwist_Pos
+# WARNING:   - Ctrl_R_Forearm
+# WARNING:   - Ctrl_R_ForearmTwist
+# WARNING:   - Ctrl_R_ForearmTwist1
+# WARNING:   - Ctrl_R_ForearmTwist_Up
+# WARNING:   - Ctrl_R_Hand
+# WARNING:   - Ctrl_R_Hip
+# WARNING:   - Ctrl_R_Knee
+# WARNING:   - Ctrl_R_Knee_Skirt
+# WARNING:   - Ctrl_R_ShoulderJoint_Armor
+# WARNING:   - Ctrl_R_ShoulderJoint_Base
+# WARNING:   - Ctrl_R_ShoulderJoint_Base_UP
+# WARNING:   - Ctrl_R_ShoulderJoint_Shaft
+# WARNING:   - Ctrl_R_ShoulderJoint_Shaft_Target
+# WARNING:   - Ctrl_R_ShoulderJoint_Shaft_UpVec
+# WARNING:   - Ctrl_R_Thigh
+# WARNING:   - Ctrl_R_ThighTwist
+# WARNING:   - Ctrl_R_ThighTwist1
+# WARNING:   - Ctrl_R_ThighTwist_UP
+# WARNING:   - Ctrl_R_Thigh_Skirt
+# WARNING:   - Ctrl_R_Toe0
+# WARNING:   - Ctrl_R_Toe0Nub
+# WARNING:   - Ctrl_R_UpperArm
+# WARNING:   - Ctrl_R_UpperArmTwist1
+# WARNING:   - Ctrl_R_UpperArm_UpperTwistRig_Root
+# WARNING:   - Ctrl_R_UpperArm_UpperTwistRig_Variable
+# WARNING:   - Ctrl_R_UpperArm_UpperTwist_アップノード制御
+# WARNING:   - Ctrl_R_UpperArm_UpperTwist_ターゲット制限
+# WARNING:   - Ctrl_R_UpperArm_UpperTwist_ターゲット基点
+# WARNING:   - Ctrl_R_UpperArm_UpperTwist_ボーン接続
+# WARNING:   - Ctrl_R_WeaponRoot
+# WARNING:   - Ctrl_Spine
+# WARNING:   - Ctrl_Spine0_Roll
+# WARNING:   - Ctrl_Spine0_RollBase
+# WARNING:   - Ctrl_Spine1
+# WARNING:   - Ctrl_Spine1_Roll
+# WARNING:   - Ctrl_Spine1_RollBase
+# WARNING:   - Ctrl_Spine2
+# WARNING:   - Ctrl_SpineArmer1
+# WARNING:   - Ctrl_SpineArmer2
+# WARNING:   - Ctrl_Spine_RollStart
+# WARNING:   - Ctrl_Spine_Roll_Root
+# WARNING:   - Ctrl_System
+# WARNING:   - Dmypoly_200
+# WARNING:   - Dmypoly_SFX
+# WARNING:   - Dmypoly_SFX_固定
+# WARNING:   - Dmypoly_SFX_死亡全身
+# WARNING:   - Dmypoly_アニメ
+# WARNING:   - Dmypoly_アニメ_固定
+# WARNING:   - Dmypoly_モデル
+# WARNING:   - Dmypoly_モデル_固定
+# WARNING:   - Dmypoly_企画
+# WARNING:   - Dmypoly_企画_固定
+# WARNING:   - Dmypoly_汎用
+# WARNING:   - Dmypoly_汎用_固定
+# WARNING:   - Hair_L
+# WARNING:   - Hair_R
+# WARNING:   - IK Ctrl_L_LegIK_Target
+# WARNING:   - MSamp抽出
+# WARNING:   - MasterRig_Root
+# WARNING:   - MasterRig_Variable
+# WARNING:   - Master制御_Ctrl接続
+# WARNING:   - Master制御_Masterリンク先
+# WARNING:   - MoveSampling
+# WARNING:   - Rig_L_Calf
+# WARNING:   - Rig_L_Knee
+# WARNING:   - Rig_L_Thigh
+# WARNING:   - Rig_R_Elbow
+# WARNING:   - Rig_R_Forearm
+# WARNING:   - Rig_R_UpperArm
+# WARNING:   - Sphere001
+# WARNING:   - TwistDummy
+# WARNING:   - Wing_base_L
+# WARNING:   - Wing_base_R
+# WARNING:   - Xtra_Petal_001_01
+# WARNING:   - Xtra_Petal_001_02
+# WARNING:   - Xtra_Petal_001_03
+# WARNING:   - Xtra_Petal_001_04
+# WARNING:   - Xtra_Petal_001_05
+# WARNING:   - Xtra_Petal_001_06
+# WARNING:   - Xtra_Petal_002_01
+# WARNING:   - Xtra_Petal_002_02
+# WARNING:   - Xtra_Petal_002_03
+# WARNING:   - Xtra_Petal_002_04
+# WARNING:   - Xtra_Petal_002_05
+# WARNING:   - Xtra_Petal_002_06
+# WARNING:   - Xtra_Petal_003_01
+# WARNING:   - Xtra_Petal_003_02
+# WARNING:   - Xtra_Petal_003_03
+# WARNING:   - Xtra_Petal_003_04
+# WARNING:   - Xtra_Petal_003_05
+# WARNING:   - Xtra_Petal_003_06
+# WARNING:   - Xtra_Petal_004_01
+# WARNING:   - Xtra_Petal_004_02
+# WARNING:   - Xtra_Petal_004_03
+# WARNING:   - Xtra_Petal_004_04
+# WARNING:   - Xtra_Petal_004_05
+# WARNING:   - Xtra_Petal_004_06
+# WARNING:   - Xtra_Petal_005_01
+# WARNING:   - Xtra_Petal_005_02
+# WARNING:   - Xtra_Petal_005_03
+# WARNING:   - Xtra_Petal_005_04
+# WARNING:   - Xtra_Petal_005_05
+# WARNING:   - Xtra_Petal_005_06
+# WARNING:   - Xtra_Petal_006_01
+# WARNING:   - Xtra_Petal_006_02
+# WARNING:   - Xtra_Petal_006_03
+# WARNING:   - Xtra_Petal_006_04
+# WARNING:   - Xtra_Petal_006_05
+# WARNING:   - Xtra_Petal_006_06
+# WARNING:   - Xtra_Petal_007_01
+# WARNING:   - Xtra_Petal_007_02
+# WARNING:   - Xtra_Petal_007_03
+# WARNING:   - Xtra_Petal_007_04
+# WARNING:   - Xtra_Petal_007_05
+# WARNING:   - Xtra_Petal_007_06
+# WARNING:   - Xtra_Petal_008_01
+# WARNING:   - Xtra_Petal_008_02
+# WARNING:   - Xtra_Petal_008_03
+# WARNING:   - Xtra_Petal_008_04
+# WARNING:   - Xtra_Petal_008_05
+# WARNING:   - Xtra_Petal_008_06
+# WARNING:   - Xtra_Petal_009_01
+# WARNING:   - Xtra_Petal_009_02
+# WARNING:   - Xtra_Petal_009_03
+# WARNING:   - Xtra_Petal_009_04
+# WARNING:   - Xtra_Petal_009_05
+# WARNING:   - Xtra_Petal_009_06
+# WARNING:   - Xtra_Petal_010_01
+# WARNING:   - Xtra_Petal_010_02
+# WARNING:   - Xtra_Petal_010_03
+# WARNING:   - Xtra_Petal_010_04
+# WARNING:   - Xtra_Petal_010_05
+# WARNING:   - Xtra_Petal_010_06
+# WARNING:   - Xtra_Petal_011_01
+# WARNING:   - Xtra_Petal_011_02
+# WARNING:   - Xtra_Petal_011_03
+# WARNING:   - Xtra_Petal_011_04
+# WARNING:   - Xtra_Petal_011_05
+# WARNING:   - Xtra_Petal_011_06
+# WARNING:   - Xtra_Petal_012_01
+# WARNING:   - Xtra_Petal_012_02
+# WARNING:   - Xtra_Petal_012_03
+# WARNING:   - Xtra_Petal_012_04
+# WARNING:   - Xtra_Petal_012_05
+# WARNING:   - Xtra_Petal_012_06
+# WARNING:   - Xtra_Petal_013_01
+# WARNING:   - Xtra_Petal_013_02
+# WARNING:   - Xtra_Petal_013_03
+# WARNING:   - Xtra_Petal_013_04
+# WARNING:   - Xtra_Petal_013_05
+# WARNING:   - Xtra_Petal_013_06
+# WARNING:   - Xtra_Petal_014_01
+# WARNING:   - Xtra_Petal_014_02
+# WARNING:   - Xtra_Petal_014_03
+# WARNING:   - Xtra_Petal_014_04
+# WARNING:   - Xtra_Petal_014_05
+# WARNING:   - Xtra_Petal_014_06
+# WARNING:   - Xtra_Petal_015_01
+# WARNING:   - Xtra_Petal_015_02
+# WARNING:   - Xtra_Petal_015_03
+# WARNING:   - Xtra_Petal_015_04
+# WARNING:   - Xtra_Petal_015_05
+# WARNING:   - Xtra_Petal_015_06
+# WARNING:   - Xtra_Petal_016_01
+# WARNING:   - Xtra_Petal_016_02
+# WARNING:   - Xtra_Petal_016_03
+# WARNING:   - Xtra_Petal_016_04
+# WARNING:   - Xtra_Petal_016_05
+# WARNING:   - Xtra_Petal_016_06
+# WARNING:   - Xtra_Petal_017_01
+# WARNING:   - Xtra_Petal_017_02
+# WARNING:   - Xtra_Petal_017_03
+# WARNING:   - Xtra_Petal_017_04
+# WARNING:   - Xtra_Petal_017_05
+# WARNING:   - Xtra_Petal_017_06
+# WARNING:   - Xtra_Petal_018_01
+# WARNING:   - Xtra_Petal_018_02
+# WARNING:   - Xtra_Petal_018_03
+# WARNING:   - Xtra_Petal_018_04
+# WARNING:   - Xtra_Petal_018_05
+# WARNING:   - Xtra_Petal_018_06
+# WARNING:   - Xtra_Petal_019_01
+# WARNING:   - Xtra_Petal_019_02
+# WARNING:   - Xtra_Petal_019_03
+# WARNING:   - Xtra_Petal_019_04
+# WARNING:   - Xtra_Petal_019_05
+# WARNING:   - Xtra_Petal_019_06
+# WARNING:   - Xtra_Petal_020_01
+# WARNING:   - Xtra_Petal_020_02
+# WARNING:   - Xtra_Petal_020_03
+# WARNING:   - Xtra_Petal_020_04
+# WARNING:   - Xtra_Petal_020_05
+# WARNING:   - Xtra_Petal_020_06
+# WARNING:   - Xtra_Petal_021_01
+# WARNING:   - Xtra_Petal_021_02
+# WARNING:   - Xtra_Petal_021_03
+# WARNING:   - Xtra_Petal_021_04
+# WARNING:   - Xtra_Petal_021_05
+# WARNING:   - Xtra_Petal_021_06
+# WARNING:   - Xtra_Petal_022_01
+# WARNING:   - Xtra_Petal_022_02
+# WARNING:   - Xtra_Petal_022_03
+# WARNING:   - Xtra_Petal_022_04
+# WARNING:   - Xtra_Petal_022_05
+# WARNING:   - Xtra_Petal_022_06
+# WARNING:   - Xtra_Petal_023_01
+# WARNING:   - Xtra_Petal_023_02
+# WARNING:   - Xtra_Petal_023_03
+# WARNING:   - Xtra_Petal_023_04
+# WARNING:   - Xtra_Petal_023_05
+# WARNING:   - Xtra_Petal_023_06
+# WARNING:   - Xtra_Petal_024_01
+# WARNING:   - Xtra_Petal_024_02
+# WARNING:   - Xtra_Petal_024_03
+# WARNING:   - Xtra_Petal_024_04
+# WARNING:   - Xtra_Petal_024_05
+# WARNING:   - Xtra_Petal_024_06
+# WARNING:   - Xtra_Petal_025_01
+# WARNING:   - Xtra_Petal_025_02
+# WARNING:   - Xtra_Petal_025_03
+# WARNING:   - Xtra_Petal_025_04
+# WARNING:   - Xtra_Petal_025_05
+# WARNING:   - Xtra_Petal_025_06
+# WARNING:   - Xtra_Petal_026_01
+# WARNING:   - Xtra_Petal_026_02
+# WARNING:   - Xtra_Petal_026_03
+# WARNING:   - Xtra_Petal_026_04
+# WARNING:   - Xtra_Petal_026_05
+# WARNING:   - Xtra_Petal_026_06
+# WARNING:   - Xtra_Petal_027_01
+# WARNING:   - Xtra_Petal_027_02
+# WARNING:   - Xtra_Petal_027_03
+# WARNING:   - Xtra_Petal_027_04
+# WARNING:   - Xtra_Petal_027_05
+# WARNING:   - Xtra_Petal_027_06
+# WARNING:   - Xtra_Petal_028_01
+# WARNING:   - Xtra_Petal_028_02
+# WARNING:   - Xtra_Petal_028_03
+# WARNING:   - Xtra_Petal_028_04
+# WARNING:   - Xtra_Petal_028_05
+# WARNING:   - Xtra_Petal_028_06
+# WARNING:   - Xtra_Petal_029_01
+# WARNING:   - Xtra_Petal_029_02
+# WARNING:   - Xtra_Petal_029_03
+# WARNING:   - Xtra_Petal_029_04
+# WARNING:   - Xtra_Petal_029_05
+# WARNING:   - Xtra_Petal_029_06
+# WARNING:   - Xtra_Petal_030_01
+# WARNING:   - Xtra_Petal_030_02
+# WARNING:   - Xtra_Petal_030_03
+# WARNING:   - Xtra_Petal_030_04
+# WARNING:   - Xtra_Petal_030_05
+# WARNING:   - Xtra_Petal_030_06
+# WARNING:   - Xtra_Petal_031_01
+# WARNING:   - Xtra_Petal_031_02
+# WARNING:   - Xtra_Petal_031_03
+# WARNING:   - Xtra_Petal_031_04
+# WARNING:   - Xtra_Petal_031_05
+# WARNING:   - Xtra_Petal_031_06
+# WARNING:   - Xtra_Petal_032_01
+# WARNING:   - Xtra_Petal_032_02
+# WARNING:   - Xtra_Petal_032_03
+# WARNING:   - Xtra_Petal_032_04
+# WARNING:   - Xtra_Petal_032_05
+# WARNING:   - Xtra_Petal_032_06
+# WARNING:   - c2120_Arts_Petal_001
+# WARNING:   - c2120_Arts_Petal_002
+# WARNING:   - c2120_Arts_Petal_003
+# WARNING:   - c2120_Arts_Petal_004
+# WARNING:   - c2120_Arts_Petal_005
+# WARNING:   - c2120_Arts_Petal_006
+# WARNING:   - c2120_Arts_Petal_007
+# WARNING:   - c2120_Arts_Petal_008
+# WARNING:   - c2120_Arts_Petal_009
+# WARNING:   - c2120_Arts_Petal_010
+# WARNING:   - c2120_Arts_Petal_011
+# WARNING:   - c2120_Arts_Petal_012
+# WARNING:   - c2120_Arts_Petal_013
+# WARNING:   - c2120_Arts_Petal_014
+# WARNING:   - c2120_Arts_Petal_015
+# WARNING:   - c2120_Arts_Petal_016
+# WARNING:   - c2120_Arts_Petal_017
+# WARNING:   - c2120_Arts_Petal_018
+# WARNING:   - c2120_Arts_Petal_019
+# WARNING:   - c2120_Arts_Petal_020
+# WARNING:   - c2120_Arts_Petal_021
+# WARNING:   - c2120_Arts_Petal_022
+# WARNING:   - c2120_Arts_Petal_023
+# WARNING:   - c2120_Arts_Petal_024
+# WARNING:   - c2120_Arts_Petal_025
+# WARNING:   - c2120_Arts_Petal_026
+# WARNING:   - c2120_Arts_Petal_027
+# WARNING:   - c2120_Arts_Petal_028
+# WARNING:   - c2120_Arts_Petal_029
+# WARNING:   - c2120_Arts_Petal_030
+# WARNING:   - c2120_Arts_Petal_031
+# WARNING:   - c2120_Arts_Petal_032
+# WARNING:   - c2120_Clone_Blade
+# WARNING:   - c2120_Clone_BodyGlow
+# WARNING:   - c2120_Clone_Butterfly_Blade
+# WARNING:   - c2120_Clone_Butterfly_Body
+# WARNING:   - c2120_HD
+# WARNING:   - c2120_arm_inner_cum01
+# WARNING:   - c2120_arm_inner_cum02
+# WARNING:   - c2120_arm_inner_cum03
+# WARNING:   - c2120_base_body
+# WARNING:   - c2120_belt
+# WARNING:   - c2120_belt_HU
+# WARNING:   - c2120_blade001
+# WARNING:   - c2120_bottom_chain
+# WARNING:   - c2120_dress01
+# WARNING:   - c2120_dress02
+# WARNING:   - c2120_dress_HU
+# WARNING:   - c2120_dress_sim
+# WARNING:   - c2120_elbow_connect
+# WARNING:   - c2120_forearm_base
+# WARNING:   - c2120_forearm_cover
+# WARNING:   - c2120_hair_HU1
+# WARNING:   - c2120_hair_HU2
+# WARNING:   - c2120_hair_L
+# WARNING:   - c2120_hair_R
+# WARNING:   - c2120_hand
+# WARNING:   - c2120_hand_connect
+# WARNING:   - c2120_mant
+# WARNING:   - c2120_mant2
+# WARNING:   - c2120_mant_fur01
+# WARNING:   - c2120_mant_fur02
+# WARNING:   - c2120_mant_sim
+# WARNING:   - c2120_pants
+# WARNING:   - c2120_shoulder_cover
+# WARNING:   - c2120_shoulder_plate
+# WARNING:   - c2120_spine_deco
+# WARNING:   - c2120_upper_arm01
+# WARNING:   - c8900_Gum_Lower
+# WARNING:   - c8900_Gum_Upper
+# WARNING:   - c8900_Mouth
+# WARNING:   - c8900_Tongue
+# WARNING:   - スカート回転参照位置_右
+# WARNING:   - スカート回転参照位置_左
+# WARNING:   - スカート回転参照回転_右
+# WARNING:   - スカート回転参照回転_左
+# WARNING:   - スカート回転抽出
+# WARNING:   - 位置反映(制限制御込み)
+# WARNING:   - 参照用_MSampノード参照
+# WARNING:   - 参照用_Masterの回転を制限
+# WARNING:   - 参照用_Master位置
+# WARNING:   - 参照用_Master回転
+# WARNING:   - 参照用_地面位置
+# WARNING:   - 回転反映(制限制御込み)
+# WARNING:   - 地面＋正面方向
+# WARNING:   - 矢印
+# WARNING:   - 肩位置/角度参照
+# WARNING:   - 鎧前後移動参照
+# INFO: Summary: 145 anim bones, 899 Blender bones | 0 only-in-anim, 754 only-in-Blender
+# INFO: ================================================================================
+# INFO: Constructed armature animation frames in 0.2566 seconds.
+# INFO: Created animation action in 0.1574 seconds.
+Info: Read `AnimationHKX` Binder entry 'a000_003003.hkx' in 0.0024 seconds.
+Info: Importing HKX animation for c2120: a000_003003
+Info: Converted spline animation to interleaved in 0.2462 seconds.
+Info: ================================================================================
+Info: HKX ANIMATION BONE TREE CHECK
+Info: ================================================================================
+Info: Animation transform tracks  : 145
+Info: Annotation tracks           : 0
+Warning: *** WARNING: annotationTracks is EMPTY! Track names are unavailable from the animation file. ***
+Warning: *** Bone names will be resolved from skeleton via transformTrackToBoneIndices instead. ***
+Info:
+Info: --- Animation Skeleton Bone Tree (*** = has animation track) ---
+Info: Master (idx=0)  *** [ANIM TRACK] ***
+Info:     L_Foot_Target2 (idx=1)  *** [ANIM TRACK] ***
+Info:         L_Foot_Target1 (idx=2)  *** [ANIM TRACK] ***
+Info:             L_Foot_Target (idx=3)  *** [ANIM TRACK] ***
+Info:     R_Foot_Target2 (idx=4)  *** [ANIM TRACK] ***
+Info:         R_Foot_Target1 (idx=5)  *** [ANIM TRACK] ***
+Info:             R_Foot_Target (idx=6)  *** [ANIM TRACK] ***
+Info:     Root (idx=7)  *** [ANIM TRACK] ***
+Info:         Pelvis (idx=8)  *** [ANIM TRACK] ***
+Info:             L_Hip (idx=9)  *** [ANIM TRACK] ***
+Info:             L_Thigh (idx=10)  *** [ANIM TRACK] ***
+Info:                 L_Knee (idx=11)  *** [ANIM TRACK] ***
+Info:                     L_Calf (idx=12)  *** [ANIM TRACK] ***
+Info:                         L_Calf_Skirt (idx=13)  *** [ANIM TRACK] ***
+Info:                         L_CalfTwist (idx=14)  *** [ANIM TRACK] ***
+Info:                         L_CalfTwist1 (idx=15)  *** [ANIM TRACK] ***
+Info:                         L_Foot (idx=16)  *** [ANIM TRACK] ***
+Info:                             L_FootTwist (idx=17)  *** [ANIM TRACK] ***
+Info:                             L_Toe0 (idx=18)  *** [ANIM TRACK] ***
+Info:                                 L_FootFinger1 (idx=19)  *** [ANIM TRACK] ***
+Info:                                     L_FootFinger102 (idx=20)  *** [ANIM TRACK] ***
+Info:                                 L_FootFinger2 (idx=21)  *** [ANIM TRACK] ***
+Info:                                     L_FootFinger202 (idx=22)  *** [ANIM TRACK] ***
+Info:                                         L_FootFinger203 (idx=23)  *** [ANIM TRACK] ***
+Info:                                 L_FootFinger3 (idx=24)  *** [ANIM TRACK] ***
+Info:                                     L_FootFinger302 (idx=25)  *** [ANIM TRACK] ***
+Info:                                         L_FootFinger303 (idx=26)  *** [ANIM TRACK] ***
+Info:                                 L_FootFinger4 (idx=27)  *** [ANIM TRACK] ***
+Info:                                     L_FootFinger402 (idx=28)  *** [ANIM TRACK] ***
+Info:                                         L_FootFinger403 (idx=29)  *** [ANIM TRACK] ***
+Info:                                 L_FootFinger5 (idx=30)  *** [ANIM TRACK] ***
+Info:                                     L_FootFinger502 (idx=31)  *** [ANIM TRACK] ***
+Info:                                         L_FootFinger503 (idx=32)  *** [ANIM TRACK] ***
+Info:                 L_Knee_Skirt (idx=33)  *** [ANIM TRACK] ***
+Info:                 L_Thigh_Skirt (idx=34)  *** [ANIM TRACK] ***
+Info:                 L_ThighTwist (idx=35)  *** [ANIM TRACK] ***
+Info:                 L_ThighTwist1 (idx=36)  *** [ANIM TRACK] ***
+Info:             R_Hip (idx=37)  *** [ANIM TRACK] ***
+Info:             R_Thigh (idx=38)  *** [ANIM TRACK] ***
+Info:                 R_Calf (idx=39)  *** [ANIM TRACK] ***
+Info:                     R_Calf_Skirt (idx=40)  *** [ANIM TRACK] ***
+Info:                     R_CalfTwist (idx=41)  *** [ANIM TRACK] ***
+Info:                     R_CalfTwist1 (idx=42)  *** [ANIM TRACK] ***
+Info:                     R_Foot (idx=43)  *** [ANIM TRACK] ***
+Info:                         R_FootTwist (idx=44)  *** [ANIM TRACK] ***
+Info:                         R_Toe0 (idx=45)  *** [ANIM TRACK] ***
+Info:                             R_FootFinger1 (idx=46)  *** [ANIM TRACK] ***
+Info:                                 R_FootFinger102 (idx=47)  *** [ANIM TRACK] ***
+Info:                             R_FootFinger2 (idx=48)  *** [ANIM TRACK] ***
+Info:                                 R_FootFinger202 (idx=49)  *** [ANIM TRACK] ***
+Info:                                     R_FootFinger203 (idx=50)  *** [ANIM TRACK] ***
+Info:                             R_FootFinger3 (idx=51)  *** [ANIM TRACK] ***
+Info:                                 R_FootFinger302 (idx=52)  *** [ANIM TRACK] ***
+Info:                                     R_FootFinger303 (idx=53)  *** [ANIM TRACK] ***
+Info:                             R_FootFinger4 (idx=54)  *** [ANIM TRACK] ***
+Info:                                 R_FootFinger402 (idx=55)  *** [ANIM TRACK] ***
+Info:                                     R_FootFinger403 (idx=56)  *** [ANIM TRACK] ***
+Info:                             R_FootFinger5 (idx=57)  *** [ANIM TRACK] ***
+Info:                                 R_FootFinger502 (idx=58)  *** [ANIM TRACK] ***
+Info:                                     R_FootFinger503 (idx=59)  *** [ANIM TRACK] ***
+Info:                 R_Knee (idx=60)  *** [ANIM TRACK] ***
+Info:                 R_Knee_Skirt (idx=61)  *** [ANIM TRACK] ***
+Info:                 R_Thigh_Skirt (idx=62)  *** [ANIM TRACK] ***
+Info:                 R_ThighTwist (idx=63)  *** [ANIM TRACK] ***
+Info:                 R_ThighTwist1 (idx=64)  *** [ANIM TRACK] ***
+Info:         Spine (idx=65)  *** [ANIM TRACK] ***
+Info:             Spine1 (idx=66)  *** [ANIM TRACK] ***
+Info:                 Spine2 (idx=67)  *** [ANIM TRACK] ***
+Info:                     Collar (idx=68)  *** [ANIM TRACK] ***
+Info:                     L_Clavicle (idx=69)  *** [ANIM TRACK] ***
+Info:                         L_Shoulder (idx=70)  *** [ANIM TRACK] ***
+Info:                         L_UpperArm (idx=71)  *** [ANIM TRACK] ***
+Info:                             L_Elbow (idx=72)  *** [ANIM TRACK] ***
+Info:                             L_Forearm (idx=73)  *** [ANIM TRACK] ***
+Info:                                 L_ForeArmTwist (idx=74)  *** [ANIM TRACK] ***
+Info:                                 L_ForeArmTwist1 (idx=75)  *** [ANIM TRACK] ***
+Info:                                 L_Hand (idx=76)  *** [ANIM TRACK] ***
+Info:                                     L_Finger0 (idx=77)  *** [ANIM TRACK] ***
+Info:                                         L_Finger01 (idx=78)  *** [ANIM TRACK] ***
+Info:                                             L_Finger02 (idx=79)  *** [ANIM TRACK] ***
+Info:                                     L_Finger1 (idx=80)  *** [ANIM TRACK] ***
+Info:                                         L_Finger11 (idx=81)  *** [ANIM TRACK] ***
+Info:                                             L_Finger12 (idx=82)  *** [ANIM TRACK] ***
+Info:                                     L_Finger2 (idx=83)  *** [ANIM TRACK] ***
+Info:                                         L_Finger21 (idx=84)  *** [ANIM TRACK] ***
+Info:                                             L_Finger22 (idx=85)  *** [ANIM TRACK] ***
+Info:                                     L_Finger3 (idx=86)  *** [ANIM TRACK] ***
+Info:                                         L_Finger31 (idx=87)  *** [ANIM TRACK] ***
+Info:                                             L_Finger32 (idx=88)  *** [ANIM TRACK] ***
+Info:                                     L_Finger4 (idx=89)  *** [ANIM TRACK] ***
+Info:                                         L_Finger41 (idx=90)  *** [ANIM TRACK] ***
+Info:                                             L_Finger42 (idx=91)  *** [ANIM TRACK] ***
+Info:                             L_UpArmTwist (idx=92)  *** [ANIM TRACK] ***
+Info:                             L_UpArmTwist1 (idx=93)  *** [ANIM TRACK] ***
+Info:                     Neck (idx=94)  *** [ANIM TRACK] ***
+Info:                         Head (idx=95)  *** [ANIM TRACK] ***
+Info:                             Jaw (idx=96)  *** [ANIM TRACK] ***
+Info:                             L_Eye (idx=97)  *** [ANIM TRACK] ***
+Info:                             L_Eyelid (idx=98)  *** [ANIM TRACK] ***
+Info:                             R_Eye (idx=99)  *** [ANIM TRACK] ***
+Info:                             R_Eyelid (idx=100)  *** [ANIM TRACK] ***
+Info:                     R_Clavicle (idx=101)  *** [ANIM TRACK] ***
+Info:                         R_ShoulderJoint_Armor (idx=102)  *** [ANIM TRACK] ***
+Info:                         R_ShoulderJoint_Base (idx=103)  *** [ANIM TRACK] ***
+Info:                         R_ShoulderJoint_Shaft (idx=104)  *** [ANIM TRACK] ***
+Info:                         R_UpperArm (idx=105)  *** [ANIM TRACK] ***
+Info:                             R_Elbow (idx=106)  *** [ANIM TRACK] ***
+Info:                                 R_Forearm (idx=107)  *** [ANIM TRACK] ***
+Info:                                     R_Blade (idx=108)  *** [ANIM TRACK] ***
+Info:                                     R_BladeGimmick_Shart1 (idx=109)  *** [ANIM TRACK] ***
+Info:                                     R_BladeGimmick_Shart2 (idx=110)  *** [ANIM TRACK] ***
+Info:                                     R_BladeGimmick_Shart3 (idx=111)  *** [ANIM TRACK] ***
+Info:                                     R_ForearmTwist (idx=112)  *** [ANIM TRACK] ***
+Info:                                     R_ForearmTwist1 (idx=113)  *** [ANIM TRACK] ***
+Info:                                     R_Hand (idx=114)  *** [ANIM TRACK] ***
+Info:                                         R_Finger0 (idx=115)  *** [ANIM TRACK] ***
+Info:                                             R_Finger01 (idx=116)  *** [ANIM TRACK] ***
+Info:                                                 R_Finger02 (idx=117)  *** [ANIM TRACK] ***
+Info:                                         R_Finger1 (idx=118)  *** [ANIM TRACK] ***
+Info:                                             R_Finger11 (idx=119)  *** [ANIM TRACK] ***
+Info:                                                 R_Finger12 (idx=120)  *** [ANIM TRACK] ***
+Info:                                         R_Finger2 (idx=121)  *** [ANIM TRACK] ***
+Info:                                             R_Finger21 (idx=122)  *** [ANIM TRACK] ***
+Info:                                                 R_Finger22 (idx=123)  *** [ANIM TRACK] ***
+Info:                                         R_Finger3 (idx=124)  *** [ANIM TRACK] ***
+Info:                                             R_Finger31 (idx=125)  *** [ANIM TRACK] ***
+Info:                                                 R_Finger32 (idx=126)  *** [ANIM TRACK] ***
+Info:                                         R_Finger4 (idx=127)  *** [ANIM TRACK] ***
+Info:                                             R_Finger41 (idx=128)  *** [ANIM TRACK] ***
+Info:                                                 R_Finger42 (idx=129)  *** [ANIM TRACK] ***
+Info:                             R_UpArmTwist (idx=130)  *** [ANIM TRACK] ***
+Info:                             R_UpperArmTwist (idx=131)  *** [ANIM TRACK] ***
+Info:                             R_UpperArmTwist1 (idx=132)  *** [ANIM TRACK] ***
+Info:                     Xtra_L_Wing (idx=133)  *** [ANIM TRACK] ***
+Info:                         Xtra_L_Wing02 (idx=134)  *** [ANIM TRACK] ***
+Info:                             Xtra_L_Wing03 (idx=135)  *** [ANIM TRACK] ***
+Info:                                 Xtra_L_Wing04 (idx=136)  *** [ANIM TRACK] ***
+Info:                                     Xtra_L_Wing05 (idx=137)  *** [ANIM TRACK] ***
+Info:                     Xtra_R_Wing (idx=138)  *** [ANIM TRACK] ***
+Info:                         Xtra_R_Wing02 (idx=139)  *** [ANIM TRACK] ***
+Info:                             Xtra_R_Wing03 (idx=140)  *** [ANIM TRACK] ***
+Info:                                 Xtra_R_Wing04 (idx=141)  *** [ANIM TRACK] ***
+Info:                                     Xtra_R_Wing05 (idx=142)  *** [ANIM TRACK] ***
+Info:                 SpineArmor1 (idx=143)  *** [ANIM TRACK] ***
+Info:                 SpineArmor2 (idx=144)  *** [ANIM TRACK] ***
+Info:     Xtra_Petal_001_01 (idx=145)
+Info:         Xtra_Petal_001_02 (idx=146)
+Info:             Xtra_Petal_001_03 (idx=147)
+Info:                 Xtra_Petal_001_04 (idx=148)
+Info:                     Xtra_Petal_001_05 (idx=149)
+Info:                         Xtra_Petal_001_06 (idx=150)
+Info:     Xtra_Petal_002_01 (idx=151)
+Info:         Xtra_Petal_002_02 (idx=152)
+Info:             Xtra_Petal_002_03 (idx=153)
+Info:                 Xtra_Petal_002_04 (idx=154)
+Info:                     Xtra_Petal_002_05 (idx=155)
+Info:                         Xtra_Petal_002_06 (idx=156)
+Info:     Xtra_Petal_003_01 (idx=157)
+Info:         Xtra_Petal_003_02 (idx=158)
+Info:             Xtra_Petal_003_03 (idx=159)
+Info:                 Xtra_Petal_003_04 (idx=160)
+Info:                     Xtra_Petal_003_05 (idx=161)
+Info:                         Xtra_Petal_003_06 (idx=162)
+Info:     Xtra_Petal_004_01 (idx=163)
+Info:         Xtra_Petal_004_02 (idx=164)
+Info:             Xtra_Petal_004_03 (idx=165)
+Info:                 Xtra_Petal_004_04 (idx=166)
+Info:                     Xtra_Petal_004_05 (idx=167)
+Info:                         Xtra_Petal_004_06 (idx=168)
+Info:     Xtra_Petal_005_01 (idx=169)
+Info:         Xtra_Petal_005_02 (idx=170)
+Info:             Xtra_Petal_005_03 (idx=171)
+Info:                 Xtra_Petal_005_04 (idx=172)
+Info:                     Xtra_Petal_005_05 (idx=173)
+Info:                         Xtra_Petal_005_06 (idx=174)
+Info:     Xtra_Petal_006_01 (idx=175)
+Info:         Xtra_Petal_006_02 (idx=176)
+Info:             Xtra_Petal_006_03 (idx=177)
+Info:                 Xtra_Petal_006_04 (idx=178)
+Info:                     Xtra_Petal_006_05 (idx=179)
+Info:                         Xtra_Petal_006_06 (idx=180)
+Info:     Xtra_Petal_007_01 (idx=181)
+Info:         Xtra_Petal_007_02 (idx=182)
+Info:             Xtra_Petal_007_03 (idx=183)
+Info:                 Xtra_Petal_007_04 (idx=184)
+Info:                     Xtra_Petal_007_05 (idx=185)
+Info:                         Xtra_Petal_007_06 (idx=186)
+Info:     Xtra_Petal_008_01 (idx=187)
+Info:         Xtra_Petal_008_02 (idx=188)
+Info:             Xtra_Petal_008_03 (idx=189)
+Info:                 Xtra_Petal_008_04 (idx=190)
+Info:                     Xtra_Petal_008_05 (idx=191)
+Info:                         Xtra_Petal_008_06 (idx=192)
+Info:     Xtra_Petal_009_01 (idx=193)
+Info:         Xtra_Petal_009_02 (idx=194)
+Info:             Xtra_Petal_009_03 (idx=195)
+Info:                 Xtra_Petal_009_04 (idx=196)
+Info:                     Xtra_Petal_009_05 (idx=197)
+Info:                         Xtra_Petal_009_06 (idx=198)
+Info:     Xtra_Petal_010_01 (idx=199)
+Info:         Xtra_Petal_010_02 (idx=200)
+Info:             Xtra_Petal_010_03 (idx=201)
+Info:                 Xtra_Petal_010_04 (idx=202)
+Info:                     Xtra_Petal_010_05 (idx=203)
+Info:                         Xtra_Petal_010_06 (idx=204)
+Info:     Xtra_Petal_011_01 (idx=205)
+Info:         Xtra_Petal_011_02 (idx=206)
+Info:             Xtra_Petal_011_03 (idx=207)
+Info:                 Xtra_Petal_011_04 (idx=208)
+Info:                     Xtra_Petal_011_05 (idx=209)
+Info:                         Xtra_Petal_011_06 (idx=210)
+Info:     Xtra_Petal_012_01 (idx=211)
+Info:         Xtra_Petal_012_02 (idx=212)
+Info:             Xtra_Petal_012_03 (idx=213)
+Info:                 Xtra_Petal_012_04 (idx=214)
+Info:                     Xtra_Petal_012_05 (idx=215)
+Info:                         Xtra_Petal_012_06 (idx=216)
+Info:     Xtra_Petal_013_01 (idx=217)
+Info:         Xtra_Petal_013_02 (idx=218)
+Info:             Xtra_Petal_013_03 (idx=219)
+Info:                 Xtra_Petal_013_04 (idx=220)
+Info:                     Xtra_Petal_013_05 (idx=221)
+Info:                         Xtra_Petal_013_06 (idx=222)
+Info:     Xtra_Petal_014_01 (idx=223)
+Info:         Xtra_Petal_014_02 (idx=224)
+Info:             Xtra_Petal_014_03 (idx=225)
+Info:                 Xtra_Petal_014_04 (idx=226)
+Info:                     Xtra_Petal_014_05 (idx=227)
+Info:                         Xtra_Petal_014_06 (idx=228)
+Info:     Xtra_Petal_015_01 (idx=229)
+Info:         Xtra_Petal_015_02 (idx=230)
+Info:             Xtra_Petal_015_03 (idx=231)
+Info:                 Xtra_Petal_015_04 (idx=232)
+Info:                     Xtra_Petal_015_05 (idx=233)
+Info:                         Xtra_Petal_015_06 (idx=234)
+Info:     Xtra_Petal_016_01 (idx=235)
+Info:         Xtra_Petal_016_02 (idx=236)
+Info:             Xtra_Petal_016_03 (idx=237)
+Info:                 Xtra_Petal_016_04 (idx=238)
+Info:                     Xtra_Petal_016_05 (idx=239)
+Info:                         Xtra_Petal_016_06 (idx=240)
+Info:     Xtra_Petal_017_01 (idx=241)
+Info:         Xtra_Petal_017_02 (idx=242)
+Info:             Xtra_Petal_017_03 (idx=243)
+Info:                 Xtra_Petal_017_04 (idx=244)
+Info:                     Xtra_Petal_017_05 (idx=245)
+Info:                         Xtra_Petal_017_06 (idx=246)
+Info:     Xtra_Petal_018_01 (idx=247)
+Info:         Xtra_Petal_018_02 (idx=248)
+Info:             Xtra_Petal_018_03 (idx=249)
+Info:                 Xtra_Petal_018_04 (idx=250)
+Info:                     Xtra_Petal_018_05 (idx=251)
+Info:                         Xtra_Petal_018_06 (idx=252)
+Info:     Xtra_Petal_019_01 (idx=253)
+Info:         Xtra_Petal_019_02 (idx=254)
+Info:             Xtra_Petal_019_03 (idx=255)
+Info:                 Xtra_Petal_019_04 (idx=256)
+Info:                     Xtra_Petal_019_05 (idx=257)
+Info:                         Xtra_Petal_019_06 (idx=258)
+Info:     Xtra_Petal_020_01 (idx=259)
+Info:         Xtra_Petal_020_02 (idx=260)
+Info:             Xtra_Petal_020_03 (idx=261)
+Info:                 Xtra_Petal_020_04 (idx=262)
+Info:                     Xtra_Petal_020_05 (idx=263)
+Info:                         Xtra_Petal_020_06 (idx=264)
+Info:     Xtra_Petal_021_01 (idx=265)
+Info:         Xtra_Petal_021_02 (idx=266)
+Info:             Xtra_Petal_021_03 (idx=267)
+Info:                 Xtra_Petal_021_04 (idx=268)
+Info:                     Xtra_Petal_021_05 (idx=269)
+Info:                         Xtra_Petal_021_06 (idx=270)
+Info:     Xtra_Petal_022_01 (idx=271)
+Info:         Xtra_Petal_022_02 (idx=272)
+Info:             Xtra_Petal_022_03 (idx=273)
+Info:                 Xtra_Petal_022_04 (idx=274)
+Info:                     Xtra_Petal_022_05 (idx=275)
+Info:                         Xtra_Petal_022_06 (idx=276)
+Info:     Xtra_Petal_023_01 (idx=277)
+Info:         Xtra_Petal_023_02 (idx=278)
+Info:             Xtra_Petal_023_03 (idx=279)
+Info:                 Xtra_Petal_023_04 (idx=280)
+Info:                     Xtra_Petal_023_05 (idx=281)
+Info:                         Xtra_Petal_023_06 (idx=282)
+Info:     Xtra_Petal_024_01 (idx=283)
+Info:         Xtra_Petal_024_02 (idx=284)
+Info:             Xtra_Petal_024_03 (idx=285)
+Info:                 Xtra_Petal_024_04 (idx=286)
+Info:                     Xtra_Petal_024_05 (idx=287)
+Info:                         Xtra_Petal_024_06 (idx=288)
+Info:     Xtra_Petal_025_01 (idx=289)
+Info:         Xtra_Petal_025_02 (idx=290)
+Info:             Xtra_Petal_025_03 (idx=291)
+Info:                 Xtra_Petal_025_04 (idx=292)
+Info:                     Xtra_Petal_025_05 (idx=293)
+Info:                         Xtra_Petal_025_06 (idx=294)
+Info:     Xtra_Petal_026_01 (idx=295)
+Info:         Xtra_Petal_026_02 (idx=296)
+Info:             Xtra_Petal_026_03 (idx=297)
+Info:                 Xtra_Petal_026_04 (idx=298)
+Info:                     Xtra_Petal_026_05 (idx=299)
+Info:                         Xtra_Petal_026_06 (idx=300)
+Info:     Xtra_Petal_027_01 (idx=301)
+Info:         Xtra_Petal_027_02 (idx=302)
+Info:             Xtra_Petal_027_03 (idx=303)
+Info:                 Xtra_Petal_027_04 (idx=304)
+Info:                     Xtra_Petal_027_05 (idx=305)
+Info:                         Xtra_Petal_027_06 (idx=306)
+Info:     Xtra_Petal_028_01 (idx=307)
+Info:         Xtra_Petal_028_02 (idx=308)
+Info:             Xtra_Petal_028_03 (idx=309)
+Info:                 Xtra_Petal_028_04 (idx=310)
+Info:                     Xtra_Petal_028_05 (idx=311)
+Info:                         Xtra_Petal_028_06 (idx=312)
+Info:     Xtra_Petal_029_01 (idx=313)
+Info:         Xtra_Petal_029_02 (idx=314)
+Info:             Xtra_Petal_029_03 (idx=315)
+Info:                 Xtra_Petal_029_04 (idx=316)
+Info:                     Xtra_Petal_029_05 (idx=317)
+Info:                         Xtra_Petal_029_06 (idx=318)
+Info:     Xtra_Petal_030_01 (idx=319)
+Info:         Xtra_Petal_030_02 (idx=320)
+Info:             Xtra_Petal_030_03 (idx=321)
+Info:                 Xtra_Petal_030_04 (idx=322)
+Info:                     Xtra_Petal_030_05 (idx=323)
+Info:                         Xtra_Petal_030_06 (idx=324)
+Info:     Xtra_Petal_031_01 (idx=325)
+Info:         Xtra_Petal_031_02 (idx=326)
+Info:             Xtra_Petal_031_03 (idx=327)
+Info:                 Xtra_Petal_031_04 (idx=328)
+Info:                     Xtra_Petal_031_05 (idx=329)
+Info:                         Xtra_Petal_031_06 (idx=330)
+Info:     Xtra_Petal_032_01 (idx=331)
+Info:         Xtra_Petal_032_02 (idx=332)
+Info:             Xtra_Petal_032_03 (idx=333)
+Info:                 Xtra_Petal_032_04 (idx=334)
+Info:                     Xtra_Petal_032_05 (idx=335)
+Info:                         Xtra_Petal_032_06 (idx=336)
+Info:
+Info: --- Blender Armature Bone Tree ---
+Info: Pelvis
+Info:     L_Thigh
+Info:         L_ThighTwist
+Info:         L_ThighTwist1
+Info:         L_Thigh_Skirt
+Info:         L_Knee_Skirt
+Info:         L_Knee
+Info:             L_Calf
+Info:                 L_CalfTwist
+Info:                 L_CalfTwist1
+Info:                 L_Calf_Skirt
+Info:                 L_Foot
+Info:                     L_Toe0
+Info:                         L_FootFinger1
+Info:                             L_FootFinger102
+Info:                         L_FootFinger2
+Info:                             L_FootFinger202
+Info:                                 L_FootFinger203
+Info:                         L_FootFinger3
+Info:                             L_FootFinger302
+Info:                                 L_FootFinger303
+Info:                         L_FootFinger4
+Info:                             L_FootFinger402
+Info:                                 L_FootFinger403
+Info:                         L_FootFinger5
+Info:                             L_FootFinger502
+Info:                                 L_FootFinger503
+Info:                     L_FootTwist
+Info:     R_Thigh
+Info:         R_ThighTwist
+Info:         R_ThighTwist1
+Info:         R_Knee
+Info:         R_Calf
+Info:             R_CalfTwist
+Info:             R_CalfTwist1
+Info:             R_Foot
+Info:                 R_Toe0
+Info:                     R_FootFinger1
+Info:                         R_FootFinger102
+Info:                     R_FootFinger2
+Info:                         R_FootFinger202
+Info:                             R_FootFinger203
+Info:                     R_FootFinger3
+Info:                         R_FootFinger302
+Info:                             R_FootFinger303
+Info:                     R_FootFinger4
+Info:                         R_FootFinger402
+Info:                             R_FootFinger403
+Info:                     R_FootFinger5
+Info:                         R_FootFinger502
+Info:                             R_FootFinger503
+Info:                 R_FootTwist
+Info:             R_Calf_Skirt
+Info:         R_Thigh_Skirt
+Info:     R_Hip
+Info:     L_Hip
+Info: Spine
+Info:     Spine1
+Info:         Spine2
+Info:             L_Clavicle
+Info:                 L_Shoulder
+Info:                 L_UpperArm
+Info:                     L_UpArmTwist
+Info:                     L_UpArmTwist1
+Info:                     L_Elbow
+Info:                     L_Forearm
+Info:                         L_Hand
+Info:                             L_Finger0
+Info:                                 L_Finger01
+Info:                                     L_Finger02
+Info:                             L_Finger1
+Info:                                 L_Finger11
+Info:                                     L_Finger12
+Info:                             L_Finger2
+Info:                                 L_Finger21
+Info:                                     L_Finger22
+Info:                             L_Finger3
+Info:                                 L_Finger31
+Info:                                     L_Finger32
+Info:                             L_Finger4
+Info:                                 L_Finger41
+Info:                                     L_Finger42
+Info:                         L_ForeArmTwist
+Info:                         L_ForeArmTwist1
+Info:             R_Clavicle
+Info:                 R_UpperArm
+Info:                     R_UpperArmTwist
+Info:                     R_Elbow
+Info:                         R_Forearm
+Info:                             R_ForearmTwist
+Info:                             R_Hand
+Info:                                 R_Finger0
+Info:                                     R_Finger01
+Info:                                         R_Finger02
+Info:                                 R_Finger1
+Info:                                     R_Finger11
+Info:                                         R_Finger12
+Info:                                 R_Finger2
+Info:                                     R_Finger21
+Info:                                         R_Finger22
+Info:                                 R_Finger3
+Info:                                     R_Finger31
+Info:                                         R_Finger32
+Info:                                 R_Finger4
+Info:                                     R_Finger41
+Info:                                         R_Finger42
+Info:                             R_BladeGimmick_Shart1
+Info:                             R_BladeGimmick_Shart2
+Info:                             R_BladeGimmick_Shart3
+Info:                             R_Blade
+Info:                             R_ForearmTwist1
+Info:                     R_UpArmTwist
+Info:                 R_ShoulderJoint_Base
+Info:                 R_ShoulderJoint_Armor
+Info:                 R_ShoulderJoint_Shaft
+Info:             Neck
+Info:                 Head
+Info:                     Jaw
+Info:                     R_Eyelid
+Info:                     L_Eyelid
+Info:                     L_Eye
+Info:                     R_Eye
+Info:             Xtra_L_Wing
+Info:                 Xtra_L_Wing02
+Info:                     Xtra_L_Wing03
+Info:                         Xtra_L_Wing04
+Info:                             Xtra_L_Wing05
+Info:             Xtra_R_Wing
+Info:                 Xtra_R_Wing02
+Info:                     Xtra_R_Wing03
+Info:                         Xtra_R_Wing04
+Info:                             Xtra_R_Wing05
+Info:         SpineArmor1
+Info: Xtra_Petal_001_01
+Info:     Xtra_Petal_001_02
+Info:         Xtra_Petal_001_03
+Info:             Xtra_Petal_001_04
+Info:                 Xtra_Petal_001_05
+Info:                     Xtra_Petal_001_06
+Info: Xtra_Petal_002_01
+Info:     Xtra_Petal_002_02
+Info:         Xtra_Petal_002_03
+Info:             Xtra_Petal_002_04
+Info:                 Xtra_Petal_002_05
+Info:                     Xtra_Petal_002_06
+Info: Xtra_Petal_003_01
+Info:     Xtra_Petal_003_02
+Info:         Xtra_Petal_003_03
+Info:             Xtra_Petal_003_04
+Info:                 Xtra_Petal_003_05
+Info:                     Xtra_Petal_003_06
+Info: Xtra_Petal_004_01
+Info:     Xtra_Petal_004_02
+Info:         Xtra_Petal_004_03
+Info:             Xtra_Petal_004_04
+Info:                 Xtra_Petal_004_05
+Info:                     Xtra_Petal_004_06
+Info: Xtra_Petal_005_01
+Info:     Xtra_Petal_005_02
+Info:         Xtra_Petal_005_03
+Info:             Xtra_Petal_005_04
+Info:                 Xtra_Petal_005_05
+Info:                     Xtra_Petal_005_06
+Info: Xtra_Petal_006_01
+Info:     Xtra_Petal_006_02
+Info:         Xtra_Petal_006_03
+Info:             Xtra_Petal_006_04
+Info:                 Xtra_Petal_006_05
+Info:                     Xtra_Petal_006_06
+Info: Xtra_Petal_007_01
+Info:     Xtra_Petal_007_02
+Info:         Xtra_Petal_007_03
+Info:             Xtra_Petal_007_04
+Info:                 Xtra_Petal_007_05
+Info:                     Xtra_Petal_007_06
+Info: Xtra_Petal_008_01
+Info:     Xtra_Petal_008_02
+Info:         Xtra_Petal_008_03
+Info:             Xtra_Petal_008_04
+Info:                 Xtra_Petal_008_05
+Info:                     Xtra_Petal_008_06
+Info: Xtra_Petal_009_01
+Info:     Xtra_Petal_009_02
+Info:         Xtra_Petal_009_03
+Info:             Xtra_Petal_009_04
+Info:                 Xtra_Petal_009_05
+Info:                     Xtra_Petal_009_06
+Info: Xtra_Petal_010_01
+Info:     Xtra_Petal_010_02
+Info:         Xtra_Petal_010_03
+Info:             Xtra_Petal_010_04
+Info:                 Xtra_Petal_010_05
+Info:                     Xtra_Petal_010_06
+Info: Xtra_Petal_011_01
+Info:     Xtra_Petal_011_02
+Info:         Xtra_Petal_011_03
+Info:             Xtra_Petal_011_04
+Info:                 Xtra_Petal_011_05
+Info:                     Xtra_Petal_011_06
+Info: Xtra_Petal_012_01
+Info:     Xtra_Petal_012_02
+Info:         Xtra_Petal_012_03
+Info:             Xtra_Petal_012_04
+Info:                 Xtra_Petal_012_05
+Info:                     Xtra_Petal_012_06
+Info: Xtra_Petal_013_01
+Info:     Xtra_Petal_013_02
+Info:         Xtra_Petal_013_03
+Info:             Xtra_Petal_013_04
+Info:                 Xtra_Petal_013_05
+Info:                     Xtra_Petal_013_06
+Info: Xtra_Petal_014_01
+Info:     Xtra_Petal_014_02
+Info:         Xtra_Petal_014_03
+Info:             Xtra_Petal_014_04
+Info:                 Xtra_Petal_014_05
+Info:                     Xtra_Petal_014_06
+Info: Xtra_Petal_015_01
+Info:     Xtra_Petal_015_02
+Info:         Xtra_Petal_015_03
+Info:             Xtra_Petal_015_04
+Info:                 Xtra_Petal_015_05
+Info:                     Xtra_Petal_015_06
+Info: Xtra_Petal_016_01
+Info:     Xtra_Petal_016_02
+Info:         Xtra_Petal_016_03
+Info:             Xtra_Petal_016_04
+Info:                 Xtra_Petal_016_05
+Info:                     Xtra_Petal_016_06
+Info: Xtra_Petal_017_01
+Info:     Xtra_Petal_017_02
+Info:         Xtra_Petal_017_03
+Info:             Xtra_Petal_017_04
+Info:                 Xtra_Petal_017_05
+Info:                     Xtra_Petal_017_06
+Info: Xtra_Petal_018_01
+Info:     Xtra_Petal_018_02
+Info:         Xtra_Petal_018_03
+Info:             Xtra_Petal_018_04
+Info:                 Xtra_Petal_018_05
+Info:                     Xtra_Petal_018_06
+Info: Xtra_Petal_019_01
+Info:     Xtra_Petal_019_02
+Info:         Xtra_Petal_019_03
+Info:             Xtra_Petal_019_04
+Info:                 Xtra_Petal_019_05
+Info:                     Xtra_Petal_019_06
+Info: Xtra_Petal_020_01
+Info:     Xtra_Petal_020_02
+Info:         Xtra_Petal_020_03
+Info:             Xtra_Petal_020_04
+Info:                 Xtra_Petal_020_05
+Info:                     Xtra_Petal_020_06
+Info: Xtra_Petal_021_01
+Info:     Xtra_Petal_021_02
+Info:         Xtra_Petal_021_03
+Info:             Xtra_Petal_021_04
+Info:                 Xtra_Petal_021_05
+Info:                     Xtra_Petal_021_06
+Info: Xtra_Petal_022_01
+Info:     Xtra_Petal_022_02
+Info:         Xtra_Petal_022_03
+Info:             Xtra_Petal_022_04
+Info:                 Xtra_Petal_022_05
+Info:                     Xtra_Petal_022_06
+Info: Xtra_Petal_023_01
+Info:     Xtra_Petal_023_02
+Info:         Xtra_Petal_023_03
+Info:             Xtra_Petal_023_04
+Info:                 Xtra_Petal_023_05
+Info:                     Xtra_Petal_023_06
+Info: Xtra_Petal_024_01
+Info:     Xtra_Petal_024_02
+Info:         Xtra_Petal_024_03
+Info:             Xtra_Petal_024_04
+Info:                 Xtra_Petal_024_05
+Info:                     Xtra_Petal_024_06
+Info: Xtra_Petal_025_01
+Info:     Xtra_Petal_025_02
+Info:         Xtra_Petal_025_03
+Info:             Xtra_Petal_025_04
+Info:                 Xtra_Petal_025_05
+Info:                     Xtra_Petal_025_06
+Info: Xtra_Petal_026_01
+Info:     Xtra_Petal_026_02
+Info:         Xtra_Petal_026_03
+Info:             Xtra_Petal_026_04
+Info:                 Xtra_Petal_026_05
+Info:                     Xtra_Petal_026_06
+Info: Xtra_Petal_027_01
+Info:     Xtra_Petal_027_02
+Info:         Xtra_Petal_027_03
+Info:             Xtra_Petal_027_04
+Info:                 Xtra_Petal_027_05
+Info:                     Xtra_Petal_027_06
+Info: Xtra_Petal_028_01
+Info:     Xtra_Petal_028_02
+Info:         Xtra_Petal_028_03
+Info:             Xtra_Petal_028_04
+Info:                 Xtra_Petal_028_05
+Info:                     Xtra_Petal_028_06
+Info: Xtra_Petal_029_01
+Info:     Xtra_Petal_029_02
+Info:         Xtra_Petal_029_03
+Info:             Xtra_Petal_029_04
+Info:                 Xtra_Petal_029_05
+Info:                     Xtra_Petal_029_06
+Info: Xtra_Petal_030_01
+Info:     Xtra_Petal_030_02
+Info:         Xtra_Petal_030_03
+Info:             Xtra_Petal_030_04
+Info:                 Xtra_Petal_030_05
+Info:                     Xtra_Petal_030_06
+Info: Xtra_Petal_031_01
+Info:     Xtra_Petal_031_02
+Info:         Xtra_Petal_031_03
+Info:             Xtra_Petal_031_04
+Info:                 Xtra_Petal_031_05
+Info:                     Xtra_Petal_031_06
+Info: Xtra_Petal_032_01
+Info:     Xtra_Petal_032_02
+Info:         Xtra_Petal_032_03
+Info:             Xtra_Petal_032_04
+Info:                 Xtra_Petal_032_05
+Info:                     Xtra_Petal_032_06
+Info: c2120_arm_inner_cum01
+Info: c2120_arm_inner_cum02
+Info: c2120_arm_inner_cum03
+Info: c2120_forearm_cover
+Info: c2120_forearm_base
+Info: c2120_hand_connect
+Info: c2120_shoulder_cover
+Info: c2120_shoulder_plate
+Info: c2120_dress02
+Info: c2120_mant_fur01
+Info: c2120_mant
+Info: c2120_pants
+Info: c2120_spine_deco
+Info: c2120_belt
+Info: c2120_hand
+Info: c2120_dress01
+Info: c2120_bottom_chain
+Info: c2120_upper_arm01
+Info: c2120_elbow_connect
+Info: c2120_mant_fur02
+Info: c2120_hair_L
+Info: c2120_belt_HU
+Info: c2120_dress_HU
+Info: c2120_mant2
+Info: c2120_blade001
+Info: Butterfly_front_L
+Info: Wing_base_L
+Info: Hair_L
+Info: Butterfly_Back_L
+Info: Wing_base_R
+Info: Butterfly_front_R
+Info: Hair_R
+Info: Butterfly_Back_R
+Info: c8900_Gum_Upper
+Info: c8900_Gum_Lower
+Info: c8900_Tongue
+Info: c8900_Mouth
+Info: c2120_base_body
+Info: c2120_hair_HU1
+Info: c2120_hair_R
+Info: c2120_hair_HU2
+Info: c2120_Clone_Butterfly_Body
+Info: c2120_Clone_BodyGlow
+Info: c2120_Clone_Blade
+Info: c2120_Clone_Butterfly_Blade
+Info: c2120_Arts_Petal_001
+Info: c2120_HD
+Info: c2120_Arts_Petal_002
+Info: c2120_Arts_Petal_003
+Info: c2120_Arts_Petal_004
+Info: c2120_Arts_Petal_005
+Info: c2120_Arts_Petal_006
+Info: c2120_Arts_Petal_007
+Info: c2120_Arts_Petal_008
+Info: c2120_Arts_Petal_009
+Info: c2120_Arts_Petal_010
+Info: c2120_Arts_Petal_011
+Info: c2120_Arts_Petal_012
+Info: c2120_Arts_Petal_013
+Info: c2120_Arts_Petal_014
+Info: c2120_Arts_Petal_015
+Info: c2120_Arts_Petal_016
+Info: c2120_Arts_Petal_017
+Info: c2120_Arts_Petal_018
+Info: c2120_Arts_Petal_019
+Info: c2120_Arts_Petal_020
+Info: c2120_Arts_Petal_021
+Info: c2120_Arts_Petal_022
+Info: c2120_Arts_Petal_023
+Info: c2120_Arts_Petal_024
+Info: c2120_Arts_Petal_025
+Info: c2120_Arts_Petal_026
+Info: c2120_Arts_Petal_027
+Info: c2120_Arts_Petal_028
+Info: c2120_Arts_Petal_029
+Info: c2120_Arts_Petal_030
+Info: c2120_Arts_Petal_031
+Info: c2120_Arts_Petal_032
+Info: Dmypoly_200
+Info: Dmypoly_姹庣敤_鍥哄畾
+Info: Dmypoly_SFX
+Info: Dmypoly_SFX_鍥哄畾
+Info: Dmypoly_姹庣敤
+Info: Dmypoly_銈儖銉鍥哄畾
+Info: Dmypoly_銈儖銉?Info: Dmypoly_浼佺敾
+Info: Dmypoly_SFX_姝讳骸鍏ㄨ韩
+Info: Dmypoly_浼佺敾_鍥哄畾
+Info: Dmypoly_銉儑銉玙鍥哄畾
+Info: Dmypoly_銉儑銉?Info: Ctrl
+Info: Ctrl_Pelvis
+Info: Ctrl_Spine
+Info: Ctrl_Spine1
+Info: Ctrl_Spine2
+Info: Ctrl_Neck
+Info: Ctrl_Head
+Info: Ctrl_HeadNub
+Info: Ctrl Jaw
+Info: Ctrl JawNub
+Info: Ctrl L_Eye
+Info: Ctrl L_EyeNub
+Info: Ctrl R_Eye
+Info: Ctrl R_EyeNub
+Info: Ctrl L_Eyelid
+Info: Ctrl L_EyelidNub
+Info: Ctrl R_Eyelid
+Info: Ctrl R_EyelidNub
+Info: Ctrl_L_Clavicle
+Info: Ctrl_L_UpperArm
+Info: Ctrl_L_Forearm
+Info: Ctrl_L_Hand
+Info: Ctrl_L_Finger0
+Info: Ctrl_L_Finger01
+Info: Ctrl_L_Finger02
+Info: Ctrl_L_Finger0Nub
+Info: Ctrl_L_Finger1
+Info: Ctrl_L_Finger11
+Info: Ctrl_L_Finger12
+Info: Ctrl_L_Finger1Nub
+Info: Ctrl_L_Finger2
+Info: Ctrl_L_Finger21
+Info: Ctrl_L_Finger22
+Info: Ctrl_L_Finger2Nub
+Info: Ctrl_L_Finger4
+Info: Ctrl_L_Finger41
+Info: Ctrl_L_Finger42
+Info: Ctrl_L_Finger4Nub
+Info: Ctrl_L_Finger3
+Info: Ctrl_L_Finger31
+Info: Ctrl_L_Finger32
+Info: Ctrl_L_Finger3Nub
+Info: Ctrl_L_WeaponRoot
+Info: Ctrl UpTwist_L_Shoulder
+Info: Ctrl UpTwist_L_ShoulderNub
+Info: Ctrl_R_Clavicle
+Info: Ctrl_R_UpperArm
+Info: Ctrl_R_Forearm
+Info: Ctrl_R_Hand
+Info: Ctrl_R_Finger0
+Info: Ctrl_R_Finger01
+Info: Ctrl_R_Finger02
+Info: Ctrl_R_Finger0Nub
+Info: Ctrl_R_Finger1
+Info: Ctrl_R_Finger11
+Info: Ctrl_R_Finger12
+Info: Ctrl_R_Finger1Nub
+Info: Ctrl_R_Finger2
+Info: Ctrl_R_Finger21
+Info: Ctrl_R_Finger22
+Info: Ctrl_R_Finger2Nub
+Info: Ctrl_R_Finger4
+Info: Ctrl_R_Finger41
+Info: Ctrl_R_Finger42
+Info: Ctrl_R_Finger4Nub
+Info: Ctrl_R_Finger3
+Info: Ctrl_R_Finger31
+Info: Ctrl_R_Finger32
+Info: Ctrl_R_Finger3Nub
+Info: Ctrl_R_WeaponRoot
+Info: Ctrl_R_Blade
+Info: Ctrl UpTwist_R_Shoulder
+Info: Ctrl UpTwist_R_ShoulderNub
+Info: Ctrl Xtra_L_Wing
+Info: Ctrl Xtra_L_Wing02
+Info: Ctrl Xtra_L_Wing03
+Info: Ctrl Xtra_L_Wing04
+Info: Ctrl Xtra_L_Wing05
+Info: Ctrl Xtra_L_WingNub
+Info: Ctrl Xtra_R_Wing
+Info: Ctrl Xtra_R_Wing02
+Info: Ctrl Xtra_R_Wing03
+Info: Ctrl Xtra_R_Wing04
+Info: Ctrl Xtra_R_Wing05
+Info: Ctrl Xtra_R_WingNub
+Info: Ctrl_L_Thigh
+Info: Ctrl_L_Calf
+Info: Ctrl_L_Foot
+Info: Ctrl_L_Toe0
+Info: Ctrl_L_Toe0Nub
+Info: Ctrl L_ToeSub
+Info: Ctrl L_ToeSubNub
+Info: Ctrl L_FootFinger1
+Info: Ctrl L_FootFinger102
+Info: Ctrl L_FootFinger1Nub
+Info: Ctrl L_FootFinger2
+Info: Ctrl L_FootFinger202
+Info: Ctrl L_FootFinger203
+Info: Ctrl L_FootFinger2Nub
+Info: Ctrl L_FootFinger4
+Info: Ctrl L_FootFinger402
+Info: Ctrl L_FootFinger403
+Info: Ctrl L_FootFinger4Nub
+Info: Ctrl L_FootFinger5
+Info: Ctrl L_FootFinger502
+Info: Ctrl L_FootFinger503
+Info: Ctrl L_FootFinger5Nub
+Info: Ctrl L_FootFinger3
+Info: Ctrl L_FootFinger302
+Info: Ctrl L_FootFinger303
+Info: Ctrl L_FootFinger3Nub
+Info: Ctrl_R_Thigh
+Info: Ctrl_R_Calf
+Info: Ctrl_R_Foot
+Info: Ctrl_R_Toe0
+Info: Ctrl_R_Toe0Nub
+Info: Ctrl R_ToeSub
+Info: Ctrl R_ToeSubNub
+Info: Ctrl R_FootFinger1
+Info: Ctrl R_FootFinger102
+Info: Ctrl R_FootFinger1Nub
+Info: Ctrl R_FootFinger2
+Info: Ctrl R_FootFinger202
+Info: Ctrl R_FootFinger203
+Info: Ctrl R_FootFinger2Nub
+Info: Ctrl R_FootFinger4
+Info: Ctrl R_FootFinger402
+Info: Ctrl R_FootFinger403
+Info: Ctrl R_FootFinger4Nub
+Info: Ctrl R_FootFinger5
+Info: Ctrl R_FootFinger502
+Info: Ctrl R_FootFinger503
+Info: Ctrl R_FootFinger5Nub
+Info: Ctrl R_FootFinger3
+Info: Ctrl R_FootFinger302
+Info: Ctrl R_FootFinger303
+Info: Ctrl R_FootFinger3Nub
+Info: Ctrl R_BladeGimmick_Switch
+Info: Ctrl R_BladeGimmick_SwitchNub
+Info: Master
+Info: R_Foot_Target2
+Info: R_Foot_Target1
+Info: R_Foot_Target
+Info: L_Foot_Target2
+Info: L_Foot_Target1
+Info: L_Foot_Target
+Info: Root
+Info: R_Knee_Skirt
+Info: R_UpperArmTwist1
+Info: Collar
+Info: SpineArmor2
+Info: Ctrl_System
+Info: TwistDummy
+Info: Ctrl_NeckTwist
+Info: Ctrl_L_Elbow
+Info: Ctrl_R_Knee
+Info: Ctrl_R_Elbow
+Info: Ctrl_Collar
+Info: Ctrl_SpineArmer1
+Info: Ctrl_SpineArmer2
+Info: Ctrl_L_Calf_Skirt
+Info: Ctrl_R_Calf_Skirt
+Info: Ctrl_L_Thigh_Skirt
+Info: Ctrl_R_Thigh_Skirt
+Info: Ctrl_L_Knee_Skirt
+Info: Ctrl_R_Knee_Skirt
+Info: 鑲╀綅缃?瑙掑害鍙傜収
+Info: 浣嶇疆鍙嶆槧(鍒堕檺鍒跺尽杈笺伩)
+Info: 鍥炶虎鍙嶆槧(鍒堕檺鍒跺尽杈笺伩)
+Info: 銈广偒銉笺儓鍥炶虎鎶藉嚭
+Info: 閹у墠寰岀Щ鍕曞弬鐓?Info: Ctrl_L_Shoulder
+Info: Ctrl_L_UpArmTwist1
+Info: Ctrl_L_ForeArmTwist1
+Info: Ctrl_L_ForeArmTwist
+Info: Ctrl_L_ForeArmTwist_UP
+Info: Ctrl_L_Hip
+Info: Ctrl_R_Hip
+Info: 銈广偒銉笺儓鍥炶虎鍙傜収浣嶇疆_宸?Info: 銈广偒銉笺儓鍥炶虎鍙傜収鍥炶虎_宸?Info: 銈广偒銉笺儓鍥炶虎鍙傜収浣嶇疆_鍙?Info: 銈广偒銉笺儓鍥炶虎鍙傜収鍥炶虎_鍙?Info: Ctrl_L_ThighTwist
+Info: Ctrl_L_ThighTwist_UP
+Info: Ctrl_L_ThighTwist1
+Info: Ctrl_R_ThighTwist1
+Info: Ctrl_R_ThighTwist
+Info: Ctrl_R_ThighTwist_UP
+Info: Ctrl_L_CalfTwist1
+Info: Ctrl_R_CalfTwist1
+Info: Ctrl_L_FootTwist_Pos
+Info: Ctrl_L_CalfTwist
+Info: Ctrl_L_CalfTwist_UP
+Info: Ctrl_R_CalfTwist
+Info: Ctrl_R_CalfTwist_UP
+Info: Ctrl_R_FootTwist_Pos
+Info: Ctrl_R_FootTwist
+Info: Ctrl_L_FootTwist
+Info: MasterRig_Root
+Info: Master鍒跺尽_Ctrl鎺ョ稓
+Info: Master鍒跺尽_Master銉兂銈厛
+Info: MSamp鎶藉嚭
+Info: 鍙傜収鐢╛MSamp銉庛兗銉夊弬鐓?Info: 鍙傜収鐢╛Master銇洖杌倰鍒堕檺
+Info: 鍙傜収鐢╛Master浣嶇疆
+Info: 鍙傜収鐢╛Master鍥炶虎
+Info: 鍙傜収鐢╛鍦伴潰浣嶇疆
+Info: MasterRig_Variable
+Info: Ctrl_Spine_Roll_Root
+Info: Ctrl_Spine_RollStart
+Info: Ctrl_Spine1_RollBase
+Info: Ctrl_Spine1_Roll
+Info: Ctrl_Spine0_RollBase
+Info: Ctrl_Spine0_Roll
+Info: Ctrl_L_UpperArm_UpperTwistRig_Root
+Info: Ctrl_L_UpperArm_UpperTwist_銉溿兗銉虫帴缍?Info: Ctrl_L_UpperArm_UpperTwist_銈儍銉椼儙銉笺儔鍒跺尽
+Info: Ctrl_L_UpperArm_UpperTwist_銈裤兗銈层儍銉堝熀鐐?Info: Ctrl_L_UpperArm_UpperTwist_銈裤兗銈层儍銉堝埗闄?Info: Ctrl_L_UpperArm_UpperTwistRig_Variable
+Info: Ctrl_R_UpperArm_UpperTwistRig_Root
+Info: Ctrl_R_UpperArm_UpperTwist_銉溿兗銉虫帴缍?Info: Ctrl_R_UpperArm_UpperTwist_銈儍銉椼儙銉笺儔鍒跺尽
+Info: Ctrl_R_UpperArm_UpperTwist_銈裤兗銈层儍銉堝熀鐐?Info: Ctrl_R_UpperArm_UpperTwist_銈裤兗銈层儍銉堝埗闄?Info: Ctrl_R_UpperArm_UpperTwistRig_Variable
+Info: Ctrl_R_UpperArmTwist1
+Info: Ctrl_R_ForearmTwist
+Info: Ctrl_R_ForearmTwist_Up
+Info: Ctrl_R_ForearmTwist1
+Info: Ctrl_R_Arm_Root
+Info: Ctrl_R_ShoulderJoint_Armor
+Info: Ctrl_R_ShoulderJoint_Shaft_Target
+Info: Ctrl_R_ShoulderJoint_Shaft
+Info: Ctrl_R_ShoulderJoint_Shaft_UpVec
+Info: Ctrl_R_ShoulderJoint_Base
+Info: Ctrl_R_ShoulderJoint_Base_UP
+Info: Ctrl_R_BladeGimmick_StorageTarget
+Info: Ctrl_R_BladeGimmick_Shaft1
+Info: Ctrl_R_BladeGimmick_Shaft2_Target
+Info: Ctrl_R_BladeGimmick_Shaft2
+Info: Ctrl_R_BladeGimmick_Shaft3_Target
+Info: Ctrl_R_BladeGimmick_Shaft3
+Info: Ctrl_R_BladeGimmick_ConnectionTwist
+Info: Ctrl_R_BladeGimmick_StoragTwist
+Info: Ctrl_R_BladeGimmick_Twist
+Info: Ctrl_R_BladeGimmick_Target
+Info: Ctrl_R_BladeGimmick_ConnectionTarget
+Info: Rig_R_UpperArm
+Info: Rig_R_Elbow
+Info: Rig_R_Forearm
+Info: Ctrl_R_ArmIK_Root
+Info: Ctrl_R_ArmIK1
+Info: Ctrl_R_ArmIK2
+Info: Ctrl_R_ArmIK3
+Info: Ctrl_R_ArmIK4
+Info: Ctrl_R_ArmIK_Target
+Info: Ctrl_L_Leg_Root
+Info: Ctrl_L_LegIK_Root
+Info: Ctrl_L_LegIK1
+Info: Ctrl_L_LegIK2
+Info: Ctrl_L_LegIK3
+Info: Ctrl_L_LegIK4
+Info: IK Ctrl_L_LegIK_Target
+Info: Rig_L_Thigh
+Info: Rig_L_Knee
+Info: Rig_L_Calf
+Info: 鍦伴潰锛嬫闈㈡柟鍚?Info: 鐭㈠嵃
+Info: MoveSampling
+Info: Ctrl_R_BladeGimmick_Switch_Root_Connection
+Info: Ctrl_R_BladeGimmick_Switch_Connection
+Info: Ctrl_R_BladeGimmick_Switch_Text_Connection
+Info: Ctrl_R_BladeGimmick_Switch_Root_Storag
+Info: Ctrl_R_BladeGimmick_Switch_Storag
+Info: Ctrl_R_BladeGimmick_Switch_Text_Storag
+Info: Ctrl_R_BladeGimmick_Switch_Text
+Info: c2120_dress_sim
+Info: c2120_mant_sim
+Info: Collidable_Ctrl_R_Calf
+Info: Collidable_Ctrl_L_Calf
+Info: Collidable_Ctrl_Pelvis
+Info: Collidable_Ctrl_Spine
+Info: Collidable_Ctrl_L_Clavicle
+Info: Collidable_Ctrl_L_UpperArm
+Info: Collidable_Ctrl_R_Clavicle
+Info: Collidable_Ctrl_L_Thigh
+Info: Collidable_Ctrl_R_Thigh
+Info: Box001
+Info: Sphere001
+Info: Collidable_L_Forearm001
+Info: Ctrl_Petal_Root
+Info: Ctrl_Petal_001_01
+Info: Ctrl_Petal_001_02
+Info: Ctrl_Petal_001_03
+Info: Ctrl_Petal_001_04
+Info: Ctrl_Petal_001_05
+Info: Ctrl_Petal_001_06
+Info: Ctrl_Petal_002_01
+Info: Ctrl_Petal_002_02
+Info: Ctrl_Petal_002_03
+Info: Ctrl_Petal_002_04
+Info: Ctrl_Petal_002_05
+Info: Ctrl_Petal_002_06
+Info: Ctrl_Petal_003_01
+Info: Ctrl_Petal_003_02
+Info: Ctrl_Petal_003_03
+Info: Ctrl_Petal_003_04
+Info: Ctrl_Petal_003_05
+Info: Ctrl_Petal_003_06
+Info: Ctrl_Petal_004_01
+Info: Ctrl_Petal_004_02
+Info: Ctrl_Petal_004_03
+Info: Ctrl_Petal_004_04
+Info: Ctrl_Petal_004_05
+Info: Ctrl_Petal_004_06
+Info: Ctrl_Petal_005_01
+Info: Ctrl_Petal_005_02
+Info: Ctrl_Petal_005_03
+Info: Ctrl_Petal_005_04
+Info: Ctrl_Petal_005_05
+Info: Ctrl_Petal_005_06
+Info: Ctrl_Petal_006_01
+Info: Ctrl_Petal_006_02
+Info: Ctrl_Petal_006_03
+Info: Ctrl_Petal_006_04
+Info: Ctrl_Petal_006_05
+Info: Ctrl_Petal_006_06
+Info: Ctrl_Petal_007_01
+Info: Ctrl_Petal_007_02
+Info: Ctrl_Petal_007_03
+Info: Ctrl_Petal_007_04
+Info: Ctrl_Petal_007_05
+Info: Ctrl_Petal_007_06
+Info: Ctrl_Petal_008_01
+Info: Ctrl_Petal_008_02
+Info: Ctrl_Petal_008_03
+Info: Ctrl_Petal_008_04
+Info: Ctrl_Petal_008_05
+Info: Ctrl_Petal_008_06
+Info: Ctrl_Petal_009_01
+Info: Ctrl_Petal_009_02
+Info: Ctrl_Petal_009_03
+Info: Ctrl_Petal_009_04
+Info: Ctrl_Petal_009_05
+Info: Ctrl_Petal_009_06
+Info: Ctrl_Petal_010_01
+Info: Ctrl_Petal_010_02
+Info: Ctrl_Petal_010_03
+Info: Ctrl_Petal_010_04
+Info: Ctrl_Petal_010_05
+Info: Ctrl_Petal_010_06
+Info: Ctrl_Petal_011_01
+Info: Ctrl_Petal_011_02
+Info: Ctrl_Petal_011_03
+Info: Ctrl_Petal_011_04
+Info: Ctrl_Petal_011_05
+Info: Ctrl_Petal_011_06
+Info: Ctrl_Petal_012_01
+Info: Ctrl_Petal_012_02
+Info: Ctrl_Petal_012_03
+Info: Ctrl_Petal_012_04
+Info: Ctrl_Petal_012_05
+Info: Ctrl_Petal_012_06
+Info: Ctrl_Petal_013_01
+Info: Ctrl_Petal_013_02
+Info: Ctrl_Petal_013_03
+Info: Ctrl_Petal_013_04
+Info: Ctrl_Petal_013_05
+Info: Ctrl_Petal_013_06
+Info: Ctrl_Petal_014_01
+Info: Ctrl_Petal_014_02
+Info: Ctrl_Petal_014_03
+Info: Ctrl_Petal_014_04
+Info: Ctrl_Petal_014_05
+Info: Ctrl_Petal_014_06
+Info: Ctrl_Petal_015_01
+Info: Ctrl_Petal_015_02
+Info: Ctrl_Petal_015_03
+Info: Ctrl_Petal_015_04
+Info: Ctrl_Petal_015_05
+Info: Ctrl_Petal_015_06
+Info: Ctrl_Petal_016_01
+Info: Ctrl_Petal_016_02
+Info: Ctrl_Petal_016_03
+Info: Ctrl_Petal_016_04
+Info: Ctrl_Petal_016_05
+Info: Ctrl_Petal_016_06
+Info: Ctrl_Petal_017_01
+Info: Ctrl_Petal_017_02
+Info: Ctrl_Petal_017_03
+Info: Ctrl_Petal_017_04
+Info: Ctrl_Petal_017_05
+Info: Ctrl_Petal_017_06
+Info: Ctrl_Petal_018_01
+Info: Ctrl_Petal_018_02
+Info: Ctrl_Petal_018_03
+Info: Ctrl_Petal_018_04
+Info: Ctrl_Petal_018_05
+Info: Ctrl_Petal_018_06
+Info: Ctrl_Petal_019_01
+Info: Ctrl_Petal_019_02
+Info: Ctrl_Petal_019_03
+Info: Ctrl_Petal_019_04
+Info: Ctrl_Petal_019_05
+Info: Ctrl_Petal_019_06
+Info: Ctrl_Petal_020_01
+Info: Ctrl_Petal_020_02
+Info: Ctrl_Petal_020_03
+Info: Ctrl_Petal_020_04
+Info: Ctrl_Petal_020_05
+Info: Ctrl_Petal_020_06
+Info: Ctrl_Petal_021_01
+Info: Ctrl_Petal_021_02
+Info: Ctrl_Petal_021_03
+Info: Ctrl_Petal_021_04
+Info: Ctrl_Petal_021_05
+Info: Ctrl_Petal_021_06
+Info: Ctrl_Petal_022_01
+Info: Ctrl_Petal_022_02
+Info: Ctrl_Petal_022_03
+Info: Ctrl_Petal_022_04
+Info: Ctrl_Petal_022_05
+Info: Ctrl_Petal_022_06
+Info: Ctrl_Petal_023_01
+Info: Ctrl_Petal_023_02
+Info: Ctrl_Petal_023_03
+Info: Ctrl_Petal_023_04
+Info: Ctrl_Petal_023_05
+Info: Ctrl_Petal_023_06
+Info: Ctrl_Petal_024_01
+Info: Ctrl_Petal_024_02
+Info: Ctrl_Petal_024_03
+Info: Ctrl_Petal_024_04
+Info: Ctrl_Petal_024_05
+Info: Ctrl_Petal_024_06
+Info: Ctrl_Petal_025_01
+Info: Ctrl_Petal_025_02
+Info: Ctrl_Petal_025_03
+Info: Ctrl_Petal_025_04
+Info: Ctrl_Petal_025_05
+Info: Ctrl_Petal_025_06
+Info: Ctrl_Petal_026_01
+Info: Ctrl_Petal_026_02
+Info: Ctrl_Petal_026_03
+Info: Ctrl_Petal_026_04
+Info: Ctrl_Petal_026_05
+Info: Ctrl_Petal_026_06
+Info: Ctrl_Petal_027_01
+Info: Ctrl_Petal_027_02
+Info: Ctrl_Petal_027_03
+Info: Ctrl_Petal_027_04
+Info: Ctrl_Petal_027_05
+Info: Ctrl_Petal_027_06
+Info: Ctrl_Petal_028_01
+Info: Ctrl_Petal_028_02
+Info: Ctrl_Petal_028_03
+Info: Ctrl_Petal_028_04
+Info: Ctrl_Petal_028_05
+Info: Ctrl_Petal_028_06
+Info: Ctrl_Petal_029_01
+Info: Ctrl_Petal_029_02
+Info: Ctrl_Petal_029_03
+Info: Ctrl_Petal_029_04
+Info: Ctrl_Petal_029_05
+Info: Ctrl_Petal_029_06
+Info: Ctrl_Petal_030_01
+Info: Ctrl_Petal_030_02
+Info: Ctrl_Petal_030_03
+Info: Ctrl_Petal_030_04
+Info: Ctrl_Petal_030_05
+Info: Ctrl_Petal_030_06
+Info: Ctrl_Petal_031_01
+Info: Ctrl_Petal_031_02
+Info: Ctrl_Petal_031_03
+Info: Ctrl_Petal_031_04
+Info: Ctrl_Petal_031_05
+Info: Ctrl_Petal_031_06
+Info: Ctrl_Petal_032_01
+Info: Ctrl_Petal_032_02
+Info: Ctrl_Petal_032_03
+Info: Ctrl_Petal_032_04
+Info: Ctrl_Petal_032_05
+Info: Ctrl_Petal_032_06
+Info:
+Info: --- Bone Tree Comparison ---
+Warning: *** MISMATCH: 754 bone(s) in Blender armature but NOT in animation: ***
+Warning:   - Box001
+Warning:   - Butterfly_Back_L
+Warning:   - Butterfly_Back_R
+Warning:   - Butterfly_front_L
+Warning:   - Butterfly_front_R
+Warning:   - Collidable_Ctrl_L_Calf
+Warning:   - Collidable_Ctrl_L_Clavicle
+Warning:   - Collidable_Ctrl_L_Thigh
+Warning:   - Collidable_Ctrl_L_UpperArm
+Warning:   - Collidable_Ctrl_Pelvis
+Warning:   - Collidable_Ctrl_R_Calf
+Warning:   - Collidable_Ctrl_R_Clavicle
+Warning:   - Collidable_Ctrl_R_Thigh
+Warning:   - Collidable_Ctrl_Spine
+Warning:   - Collidable_L_Forearm001
+Warning:   - Ctrl
+Warning:   - Ctrl Jaw
+Warning:   - Ctrl JawNub
+Warning:   - Ctrl L_Eye
+Warning:   - Ctrl L_EyeNub
+Warning:   - Ctrl L_Eyelid
+Warning:   - Ctrl L_EyelidNub
+Warning:   - Ctrl L_FootFinger1
+Warning:   - Ctrl L_FootFinger102
+Warning:   - Ctrl L_FootFinger1Nub
+Warning:   - Ctrl L_FootFinger2
+Warning:   - Ctrl L_FootFinger202
+Warning:   - Ctrl L_FootFinger203
+Warning:   - Ctrl L_FootFinger2Nub
+Warning:   - Ctrl L_FootFinger3
+Warning:   - Ctrl L_FootFinger302
+Warning:   - Ctrl L_FootFinger303
+Warning:   - Ctrl L_FootFinger3Nub
+Warning:   - Ctrl L_FootFinger4
+Warning:   - Ctrl L_FootFinger402
+Warning:   - Ctrl L_FootFinger403
+Warning:   - Ctrl L_FootFinger4Nub
+Warning:   - Ctrl L_FootFinger5
+Warning:   - Ctrl L_FootFinger502
+Warning:   - Ctrl L_FootFinger503
+Warning:   - Ctrl L_FootFinger5Nub
+Warning:   - Ctrl L_ToeSub
+Warning:   - Ctrl L_ToeSubNub
+Warning:   - Ctrl R_BladeGimmick_Switch
+Warning:   - Ctrl R_BladeGimmick_SwitchNub
+Warning:   - Ctrl R_Eye
+Warning:   - Ctrl R_EyeNub
+Warning:   - Ctrl R_Eyelid
+Warning:   - Ctrl R_EyelidNub
+Warning:   - Ctrl R_FootFinger1
+Warning:   - Ctrl R_FootFinger102
+Warning:   - Ctrl R_FootFinger1Nub
+Warning:   - Ctrl R_FootFinger2
+Warning:   - Ctrl R_FootFinger202
+Warning:   - Ctrl R_FootFinger203
+Warning:   - Ctrl R_FootFinger2Nub
+Warning:   - Ctrl R_FootFinger3
+Warning:   - Ctrl R_FootFinger302
+Warning:   - Ctrl R_FootFinger303
+Warning:   - Ctrl R_FootFinger3Nub
+Warning:   - Ctrl R_FootFinger4
+Warning:   - Ctrl R_FootFinger402
+Warning:   - Ctrl R_FootFinger403
+Warning:   - Ctrl R_FootFinger4Nub
+Warning:   - Ctrl R_FootFinger5
+Warning:   - Ctrl R_FootFinger502
+Warning:   - Ctrl R_FootFinger503
+Warning:   - Ctrl R_FootFinger5Nub
+Warning:   - Ctrl R_ToeSub
+Warning:   - Ctrl R_ToeSubNub
+Warning:   - Ctrl UpTwist_L_Shoulder
+Warning:   - Ctrl UpTwist_L_ShoulderNub
+Warning:   - Ctrl UpTwist_R_Shoulder
+Warning:   - Ctrl UpTwist_R_ShoulderNub
+Warning:   - Ctrl Xtra_L_Wing
+Warning:   - Ctrl Xtra_L_Wing02
+Warning:   - Ctrl Xtra_L_Wing03
+Warning:   - Ctrl Xtra_L_Wing04
+Warning:   - Ctrl Xtra_L_Wing05
+Warning:   - Ctrl Xtra_L_WingNub
+Warning:   - Ctrl Xtra_R_Wing
+Warning:   - Ctrl Xtra_R_Wing02
+Warning:   - Ctrl Xtra_R_Wing03
+Warning:   - Ctrl Xtra_R_Wing04
+Warning:   - Ctrl Xtra_R_Wing05
+Warning:   - Ctrl Xtra_R_WingNub
+Warning:   - Ctrl_Collar
+Warning:   - Ctrl_Head
+Warning:   - Ctrl_HeadNub
+Warning:   - Ctrl_L_Calf
+Warning:   - Ctrl_L_CalfTwist
+Warning:   - Ctrl_L_CalfTwist1
+Warning:   - Ctrl_L_CalfTwist_UP
+Warning:   - Ctrl_L_Calf_Skirt
+Warning:   - Ctrl_L_Clavicle
+Warning:   - Ctrl_L_Elbow
+Warning:   - Ctrl_L_Finger0
+Warning:   - Ctrl_L_Finger01
+Warning:   - Ctrl_L_Finger02
+Warning:   - Ctrl_L_Finger0Nub
+Warning:   - Ctrl_L_Finger1
+Warning:   - Ctrl_L_Finger11
+Warning:   - Ctrl_L_Finger12
+Warning:   - Ctrl_L_Finger1Nub
+Warning:   - Ctrl_L_Finger2
+Warning:   - Ctrl_L_Finger21
+Warning:   - Ctrl_L_Finger22
+Warning:   - Ctrl_L_Finger2Nub
+Warning:   - Ctrl_L_Finger3
+Warning:   - Ctrl_L_Finger31
+Warning:   - Ctrl_L_Finger32
+Warning:   - Ctrl_L_Finger3Nub
+Warning:   - Ctrl_L_Finger4
+Warning:   - Ctrl_L_Finger41
+Warning:   - Ctrl_L_Finger42
+Warning:   - Ctrl_L_Finger4Nub
+Warning:   - Ctrl_L_Foot
+Warning:   - Ctrl_L_FootTwist
+Warning:   - Ctrl_L_FootTwist_Pos
+Warning:   - Ctrl_L_ForeArmTwist
+Warning:   - Ctrl_L_ForeArmTwist1
+Warning:   - Ctrl_L_ForeArmTwist_UP
+Warning:   - Ctrl_L_Forearm
+Warning:   - Ctrl_L_Hand
+Warning:   - Ctrl_L_Hip
+Warning:   - Ctrl_L_Knee_Skirt
+Warning:   - Ctrl_L_LegIK1
+Warning:   - Ctrl_L_LegIK2
+Warning:   - Ctrl_L_LegIK3
+Warning:   - Ctrl_L_LegIK4
+Warning:   - Ctrl_L_LegIK_Root
+Warning:   - Ctrl_L_Leg_Root
+Warning:   - Ctrl_L_Shoulder
+Warning:   - Ctrl_L_Thigh
+Warning:   - Ctrl_L_ThighTwist
+Warning:   - Ctrl_L_ThighTwist1
+Warning:   - Ctrl_L_ThighTwist_UP
+Warning:   - Ctrl_L_Thigh_Skirt
+Warning:   - Ctrl_L_Toe0
+Warning:   - Ctrl_L_Toe0Nub
+Warning:   - Ctrl_L_UpArmTwist1
+Warning:   - Ctrl_L_UpperArm
+Warning:   - Ctrl_L_UpperArm_UpperTwistRig_Root
+Warning:   - Ctrl_L_UpperArm_UpperTwistRig_Variable
+Warning:   - Ctrl_L_UpperArm_UpperTwist_銈儍銉椼儙銉笺儔鍒跺尽
+Warning:   - Ctrl_L_UpperArm_UpperTwist_銈裤兗銈层儍銉堝埗闄?Warning:   - Ctrl_L_UpperArm_UpperTwist_銈裤兗銈层儍銉堝熀鐐?Warning:   - Ctrl_L_UpperArm_UpperTwist_銉溿兗銉虫帴缍?Warning:   - Ctrl_L_WeaponRoot
+Warning:   - Ctrl_Neck
+Warning:   - Ctrl_NeckTwist
+Warning:   - Ctrl_Pelvis
+Warning:   - Ctrl_Petal_001_01
+Warning:   - Ctrl_Petal_001_02
+Warning:   - Ctrl_Petal_001_03
+Warning:   - Ctrl_Petal_001_04
+Warning:   - Ctrl_Petal_001_05
+Warning:   - Ctrl_Petal_001_06
+Warning:   - Ctrl_Petal_002_01
+Warning:   - Ctrl_Petal_002_02
+Warning:   - Ctrl_Petal_002_03
+Warning:   - Ctrl_Petal_002_04
+Warning:   - Ctrl_Petal_002_05
+Warning:   - Ctrl_Petal_002_06
+Warning:   - Ctrl_Petal_003_01
+Warning:   - Ctrl_Petal_003_02
+Warning:   - Ctrl_Petal_003_03
+Warning:   - Ctrl_Petal_003_04
+Warning:   - Ctrl_Petal_003_05
+Warning:   - Ctrl_Petal_003_06
+Warning:   - Ctrl_Petal_004_01
+Warning:   - Ctrl_Petal_004_02
+Warning:   - Ctrl_Petal_004_03
+Warning:   - Ctrl_Petal_004_04
+Warning:   - Ctrl_Petal_004_05
+Warning:   - Ctrl_Petal_004_06
+Warning:   - Ctrl_Petal_005_01
+Warning:   - Ctrl_Petal_005_02
+Warning:   - Ctrl_Petal_005_03
+Warning:   - Ctrl_Petal_005_04
+Warning:   - Ctrl_Petal_005_05
+Warning:   - Ctrl_Petal_005_06
+Warning:   - Ctrl_Petal_006_01
+Warning:   - Ctrl_Petal_006_02
+Warning:   - Ctrl_Petal_006_03
+Warning:   - Ctrl_Petal_006_04
+Warning:   - Ctrl_Petal_006_05
+Warning:   - Ctrl_Petal_006_06
+Warning:   - Ctrl_Petal_007_01
+Warning:   - Ctrl_Petal_007_02
+Warning:   - Ctrl_Petal_007_03
+Warning:   - Ctrl_Petal_007_04
+Warning:   - Ctrl_Petal_007_05
+Warning:   - Ctrl_Petal_007_06
+Warning:   - Ctrl_Petal_008_01
+Warning:   - Ctrl_Petal_008_02
+Warning:   - Ctrl_Petal_008_03
+Warning:   - Ctrl_Petal_008_04
+Warning:   - Ctrl_Petal_008_05
+Warning:   - Ctrl_Petal_008_06
+Warning:   - Ctrl_Petal_009_01
+Warning:   - Ctrl_Petal_009_02
+Warning:   - Ctrl_Petal_009_03
+Warning:   - Ctrl_Petal_009_04
+Warning:   - Ctrl_Petal_009_05
+Warning:   - Ctrl_Petal_009_06
+Warning:   - Ctrl_Petal_010_01
+Warning:   - Ctrl_Petal_010_02
+Warning:   - Ctrl_Petal_010_03
+Warning:   - Ctrl_Petal_010_04
+Warning:   - Ctrl_Petal_010_05
+Warning:   - Ctrl_Petal_010_06
+Warning:   - Ctrl_Petal_011_01
+Warning:   - Ctrl_Petal_011_02
+Warning:   - Ctrl_Petal_011_03
+Warning:   - Ctrl_Petal_011_04
+Warning:   - Ctrl_Petal_011_05
+Warning:   - Ctrl_Petal_011_06
+Warning:   - Ctrl_Petal_012_01
+Warning:   - Ctrl_Petal_012_02
+Warning:   - Ctrl_Petal_012_03
+Warning:   - Ctrl_Petal_012_04
+Warning:   - Ctrl_Petal_012_05
+Warning:   - Ctrl_Petal_012_06
+Warning:   - Ctrl_Petal_013_01
+Warning:   - Ctrl_Petal_013_02
+Warning:   - Ctrl_Petal_013_03
+Warning:   - Ctrl_Petal_013_04
+Warning:   - Ctrl_Petal_013_05
+Warning:   - Ctrl_Petal_013_06
+Warning:   - Ctrl_Petal_014_01
+Warning:   - Ctrl_Petal_014_02
+Warning:   - Ctrl_Petal_014_03
+Warning:   - Ctrl_Petal_014_04
+Warning:   - Ctrl_Petal_014_05
+Warning:   - Ctrl_Petal_014_06
+Warning:   - Ctrl_Petal_015_01
+Warning:   - Ctrl_Petal_015_02
+Warning:   - Ctrl_Petal_015_03
+Warning:   - Ctrl_Petal_015_04
+Warning:   - Ctrl_Petal_015_05
+Warning:   - Ctrl_Petal_015_06
+Warning:   - Ctrl_Petal_016_01
+Warning:   - Ctrl_Petal_016_02
+Warning:   - Ctrl_Petal_016_03
+Warning:   - Ctrl_Petal_016_04
+Warning:   - Ctrl_Petal_016_05
+Warning:   - Ctrl_Petal_016_06
+Warning:   - Ctrl_Petal_017_01
+Warning:   - Ctrl_Petal_017_02
+Warning:   - Ctrl_Petal_017_03
+Warning:   - Ctrl_Petal_017_04
+Warning:   - Ctrl_Petal_017_05
+Warning:   - Ctrl_Petal_017_06
+Warning:   - Ctrl_Petal_018_01
+Warning:   - Ctrl_Petal_018_02
+Warning:   - Ctrl_Petal_018_03
+Warning:   - Ctrl_Petal_018_04
+Warning:   - Ctrl_Petal_018_05
+Warning:   - Ctrl_Petal_018_06
+Warning:   - Ctrl_Petal_019_01
+Warning:   - Ctrl_Petal_019_02
+Warning:   - Ctrl_Petal_019_03
+Warning:   - Ctrl_Petal_019_04
+Warning:   - Ctrl_Petal_019_05
+Warning:   - Ctrl_Petal_019_06
+Warning:   - Ctrl_Petal_020_01
+Warning:   - Ctrl_Petal_020_02
+Warning:   - Ctrl_Petal_020_03
+Warning:   - Ctrl_Petal_020_04
+Warning:   - Ctrl_Petal_020_05
+Warning:   - Ctrl_Petal_020_06
+Warning:   - Ctrl_Petal_021_01
+Warning:   - Ctrl_Petal_021_02
+Warning:   - Ctrl_Petal_021_03
+Warning:   - Ctrl_Petal_021_04
+Warning:   - Ctrl_Petal_021_05
+Warning:   - Ctrl_Petal_021_06
+Warning:   - Ctrl_Petal_022_01
+Warning:   - Ctrl_Petal_022_02
+Warning:   - Ctrl_Petal_022_03
+Warning:   - Ctrl_Petal_022_04
+Warning:   - Ctrl_Petal_022_05
+Warning:   - Ctrl_Petal_022_06
+Warning:   - Ctrl_Petal_023_01
+Warning:   - Ctrl_Petal_023_02
+Warning:   - Ctrl_Petal_023_03
+Warning:   - Ctrl_Petal_023_04
+Warning:   - Ctrl_Petal_023_05
+Warning:   - Ctrl_Petal_023_06
+Warning:   - Ctrl_Petal_024_01
+Warning:   - Ctrl_Petal_024_02
+Warning:   - Ctrl_Petal_024_03
+Warning:   - Ctrl_Petal_024_04
+Warning:   - Ctrl_Petal_024_05
+Warning:   - Ctrl_Petal_024_06
+Warning:   - Ctrl_Petal_025_01
+Warning:   - Ctrl_Petal_025_02
+Warning:   - Ctrl_Petal_025_03
+Warning:   - Ctrl_Petal_025_04
+Warning:   - Ctrl_Petal_025_05
+Warning:   - Ctrl_Petal_025_06
+Warning:   - Ctrl_Petal_026_01
+Warning:   - Ctrl_Petal_026_02
+Warning:   - Ctrl_Petal_026_03
+Warning:   - Ctrl_Petal_026_04
+Warning:   - Ctrl_Petal_026_05
+Warning:   - Ctrl_Petal_026_06
+Warning:   - Ctrl_Petal_027_01
+Warning:   - Ctrl_Petal_027_02
+Warning:   - Ctrl_Petal_027_03
+Warning:   - Ctrl_Petal_027_04
+Warning:   - Ctrl_Petal_027_05
+Warning:   - Ctrl_Petal_027_06
+Warning:   - Ctrl_Petal_028_01
+Warning:   - Ctrl_Petal_028_02
+Warning:   - Ctrl_Petal_028_03
+Warning:   - Ctrl_Petal_028_04
+Warning:   - Ctrl_Petal_028_05
+Warning:   - Ctrl_Petal_028_06
+Warning:   - Ctrl_Petal_029_01
+Warning:   - Ctrl_Petal_029_02
+Warning:   - Ctrl_Petal_029_03
+Warning:   - Ctrl_Petal_029_04
+Warning:   - Ctrl_Petal_029_05
+Warning:   - Ctrl_Petal_029_06
+Warning:   - Ctrl_Petal_030_01
+Warning:   - Ctrl_Petal_030_02
+Warning:   - Ctrl_Petal_030_03
+Warning:   - Ctrl_Petal_030_04
+Warning:   - Ctrl_Petal_030_05
+Warning:   - Ctrl_Petal_030_06
+Warning:   - Ctrl_Petal_031_01
+Warning:   - Ctrl_Petal_031_02
+Warning:   - Ctrl_Petal_031_03
+Warning:   - Ctrl_Petal_031_04
+Warning:   - Ctrl_Petal_031_05
+Warning:   - Ctrl_Petal_031_06
+Warning:   - Ctrl_Petal_032_01
+Warning:   - Ctrl_Petal_032_02
+Warning:   - Ctrl_Petal_032_03
+Warning:   - Ctrl_Petal_032_04
+Warning:   - Ctrl_Petal_032_05
+Warning:   - Ctrl_Petal_032_06
+Warning:   - Ctrl_Petal_Root
+Warning:   - Ctrl_R_ArmIK1
+Warning:   - Ctrl_R_ArmIK2
+Warning:   - Ctrl_R_ArmIK3
+Warning:   - Ctrl_R_ArmIK4
+Warning:   - Ctrl_R_ArmIK_Root
+Warning:   - Ctrl_R_ArmIK_Target
+Warning:   - Ctrl_R_Arm_Root
+Warning:   - Ctrl_R_Blade
+Warning:   - Ctrl_R_BladeGimmick_ConnectionTarget
+Warning:   - Ctrl_R_BladeGimmick_ConnectionTwist
+Warning:   - Ctrl_R_BladeGimmick_Shaft1
+Warning:   - Ctrl_R_BladeGimmick_Shaft2
+Warning:   - Ctrl_R_BladeGimmick_Shaft2_Target
+Warning:   - Ctrl_R_BladeGimmick_Shaft3
+Warning:   - Ctrl_R_BladeGimmick_Shaft3_Target
+Warning:   - Ctrl_R_BladeGimmick_StoragTwist
+Warning:   - Ctrl_R_BladeGimmick_StorageTarget
+Warning:   - Ctrl_R_BladeGimmick_Switch_Connection
+Warning:   - Ctrl_R_BladeGimmick_Switch_Root_Connection
+Warning:   - Ctrl_R_BladeGimmick_Switch_Root_Storag
+Warning:   - Ctrl_R_BladeGimmick_Switch_Storag
+Warning:   - Ctrl_R_BladeGimmick_Switch_Text
+Warning:   - Ctrl_R_BladeGimmick_Switch_Text_Connection
+Warning:   - Ctrl_R_BladeGimmick_Switch_Text_Storag
+Warning:   - Ctrl_R_BladeGimmick_Target
+Warning:   - Ctrl_R_BladeGimmick_Twist
+Warning:   - Ctrl_R_Calf
+Warning:   - Ctrl_R_CalfTwist
+Warning:   - Ctrl_R_CalfTwist1
+Warning:   - Ctrl_R_CalfTwist_UP
+Warning:   - Ctrl_R_Calf_Skirt
+Warning:   - Ctrl_R_Clavicle
+Warning:   - Ctrl_R_Elbow
+Warning:   - Ctrl_R_Finger0
+Warning:   - Ctrl_R_Finger01
+Warning:   - Ctrl_R_Finger02
+Warning:   - Ctrl_R_Finger0Nub
+Warning:   - Ctrl_R_Finger1
+Warning:   - Ctrl_R_Finger11
+Warning:   - Ctrl_R_Finger12
+Warning:   - Ctrl_R_Finger1Nub
+Warning:   - Ctrl_R_Finger2
+Warning:   - Ctrl_R_Finger21
+Warning:   - Ctrl_R_Finger22
+Warning:   - Ctrl_R_Finger2Nub
+Warning:   - Ctrl_R_Finger3
+Warning:   - Ctrl_R_Finger31
+Warning:   - Ctrl_R_Finger32
+Warning:   - Ctrl_R_Finger3Nub
+Warning:   - Ctrl_R_Finger4
+Warning:   - Ctrl_R_Finger41
+Warning:   - Ctrl_R_Finger42
+Warning:   - Ctrl_R_Finger4Nub
+Warning:   - Ctrl_R_Foot
+Warning:   - Ctrl_R_FootTwist
+Warning:   - Ctrl_R_FootTwist_Pos
+Warning:   - Ctrl_R_Forearm
+Warning:   - Ctrl_R_ForearmTwist
+Warning:   - Ctrl_R_ForearmTwist1
+Warning:   - Ctrl_R_ForearmTwist_Up
+Warning:   - Ctrl_R_Hand
+Warning:   - Ctrl_R_Hip
+Warning:   - Ctrl_R_Knee
+Warning:   - Ctrl_R_Knee_Skirt
+Warning:   - Ctrl_R_ShoulderJoint_Armor
+Warning:   - Ctrl_R_ShoulderJoint_Base
+Warning:   - Ctrl_R_ShoulderJoint_Base_UP
+Warning:   - Ctrl_R_ShoulderJoint_Shaft
+Warning:   - Ctrl_R_ShoulderJoint_Shaft_Target
+Warning:   - Ctrl_R_ShoulderJoint_Shaft_UpVec
+Warning:   - Ctrl_R_Thigh
+Warning:   - Ctrl_R_ThighTwist
+Warning:   - Ctrl_R_ThighTwist1
+Warning:   - Ctrl_R_ThighTwist_UP
+Warning:   - Ctrl_R_Thigh_Skirt
+Warning:   - Ctrl_R_Toe0
+Warning:   - Ctrl_R_Toe0Nub
+Warning:   - Ctrl_R_UpperArm
+Warning:   - Ctrl_R_UpperArmTwist1
+Warning:   - Ctrl_R_UpperArm_UpperTwistRig_Root
+Warning:   - Ctrl_R_UpperArm_UpperTwistRig_Variable
+Warning:   - Ctrl_R_UpperArm_UpperTwist_銈儍銉椼儙銉笺儔鍒跺尽
+Warning:   - Ctrl_R_UpperArm_UpperTwist_銈裤兗銈层儍銉堝埗闄?Warning:   - Ctrl_R_UpperArm_UpperTwist_銈裤兗銈层儍銉堝熀鐐?Warning:   - Ctrl_R_UpperArm_UpperTwist_銉溿兗銉虫帴缍?Warning:   - Ctrl_R_WeaponRoot
+Warning:   - Ctrl_Spine
+Warning:   - Ctrl_Spine0_Roll
+Warning:   - Ctrl_Spine0_RollBase
+Warning:   - Ctrl_Spine1
+Warning:   - Ctrl_Spine1_Roll
+Warning:   - Ctrl_Spine1_RollBase
+Warning:   - Ctrl_Spine2
+Warning:   - Ctrl_SpineArmer1
+Warning:   - Ctrl_SpineArmer2
+Warning:   - Ctrl_Spine_RollStart
+Warning:   - Ctrl_Spine_Roll_Root
+Warning:   - Ctrl_System
+Warning:   - Dmypoly_200
+Warning:   - Dmypoly_SFX
+Warning:   - Dmypoly_SFX_鍥哄畾
+Warning:   - Dmypoly_SFX_姝讳骸鍏ㄨ韩
+Warning:   - Dmypoly_銈儖銉?Warning:   - Dmypoly_銈儖銉鍥哄畾
+Warning:   - Dmypoly_銉儑銉?Warning:   - Dmypoly_銉儑銉玙鍥哄畾
+Warning:   - Dmypoly_浼佺敾
+Warning:   - Dmypoly_浼佺敾_鍥哄畾
+Warning:   - Dmypoly_姹庣敤
+Warning:   - Dmypoly_姹庣敤_鍥哄畾
+Warning:   - Hair_L
+Warning:   - Hair_R
+Warning:   - IK Ctrl_L_LegIK_Target
+Warning:   - MSamp鎶藉嚭
+Warning:   - MasterRig_Root
+Warning:   - MasterRig_Variable
+Warning:   - Master鍒跺尽_Ctrl鎺ョ稓
+Warning:   - Master鍒跺尽_Master銉兂銈厛
+Warning:   - MoveSampling
+Warning:   - Rig_L_Calf
+Warning:   - Rig_L_Knee
+Warning:   - Rig_L_Thigh
+Warning:   - Rig_R_Elbow
+Warning:   - Rig_R_Forearm
+Warning:   - Rig_R_UpperArm
+Warning:   - Sphere001
+Warning:   - TwistDummy
+Warning:   - Wing_base_L
+Warning:   - Wing_base_R
+Warning:   - Xtra_Petal_001_01
+Warning:   - Xtra_Petal_001_02
+Warning:   - Xtra_Petal_001_03
+Warning:   - Xtra_Petal_001_04
+Warning:   - Xtra_Petal_001_05
+Warning:   - Xtra_Petal_001_06
+Warning:   - Xtra_Petal_002_01
+Warning:   - Xtra_Petal_002_02
+Warning:   - Xtra_Petal_002_03
+Warning:   - Xtra_Petal_002_04
+Warning:   - Xtra_Petal_002_05
+Warning:   - Xtra_Petal_002_06
+Warning:   - Xtra_Petal_003_01
+Warning:   - Xtra_Petal_003_02
+Warning:   - Xtra_Petal_003_03
+Warning:   - Xtra_Petal_003_04
+Warning:   - Xtra_Petal_003_05
+Warning:   - Xtra_Petal_003_06
+Warning:   - Xtra_Petal_004_01
+Warning:   - Xtra_Petal_004_02
+Warning:   - Xtra_Petal_004_03
+Warning:   - Xtra_Petal_004_04
+Warning:   - Xtra_Petal_004_05
+Warning:   - Xtra_Petal_004_06
+Warning:   - Xtra_Petal_005_01
+Warning:   - Xtra_Petal_005_02
+Warning:   - Xtra_Petal_005_03
+Warning:   - Xtra_Petal_005_04
+Warning:   - Xtra_Petal_005_05
+Warning:   - Xtra_Petal_005_06
+Warning:   - Xtra_Petal_006_01
+Warning:   - Xtra_Petal_006_02
+Warning:   - Xtra_Petal_006_03
+Warning:   - Xtra_Petal_006_04
+Warning:   - Xtra_Petal_006_05
+Warning:   - Xtra_Petal_006_06
+Warning:   - Xtra_Petal_007_01
+Warning:   - Xtra_Petal_007_02
+Warning:   - Xtra_Petal_007_03
+Warning:   - Xtra_Petal_007_04
+Warning:   - Xtra_Petal_007_05
+Warning:   - Xtra_Petal_007_06
+Warning:   - Xtra_Petal_008_01
+Warning:   - Xtra_Petal_008_02
+Warning:   - Xtra_Petal_008_03
+Warning:   - Xtra_Petal_008_04
+Warning:   - Xtra_Petal_008_05
+Warning:   - Xtra_Petal_008_06
+Warning:   - Xtra_Petal_009_01
+Warning:   - Xtra_Petal_009_02
+Warning:   - Xtra_Petal_009_03
+Warning:   - Xtra_Petal_009_04
+Warning:   - Xtra_Petal_009_05
+Warning:   - Xtra_Petal_009_06
+Warning:   - Xtra_Petal_010_01
+Warning:   - Xtra_Petal_010_02
+Warning:   - Xtra_Petal_010_03
+Warning:   - Xtra_Petal_010_04
+Warning:   - Xtra_Petal_010_05
+Warning:   - Xtra_Petal_010_06
+Warning:   - Xtra_Petal_011_01
+Warning:   - Xtra_Petal_011_02
+Warning:   - Xtra_Petal_011_03
+Warning:   - Xtra_Petal_011_04
+Warning:   - Xtra_Petal_011_05
+Warning:   - Xtra_Petal_011_06
+Warning:   - Xtra_Petal_012_01
+Warning:   - Xtra_Petal_012_02
+Warning:   - Xtra_Petal_012_03
+Warning:   - Xtra_Petal_012_04
+Warning:   - Xtra_Petal_012_05
+Warning:   - Xtra_Petal_012_06
+Warning:   - Xtra_Petal_013_01
+Warning:   - Xtra_Petal_013_02
+Warning:   - Xtra_Petal_013_03
+Warning:   - Xtra_Petal_013_04
+Warning:   - Xtra_Petal_013_05
+Warning:   - Xtra_Petal_013_06
+Warning:   - Xtra_Petal_014_01
+Warning:   - Xtra_Petal_014_02
+Warning:   - Xtra_Petal_014_03
+Warning:   - Xtra_Petal_014_04
+Warning:   - Xtra_Petal_014_05
+Warning:   - Xtra_Petal_014_06
+Warning:   - Xtra_Petal_015_01
+Warning:   - Xtra_Petal_015_02
+Warning:   - Xtra_Petal_015_03
+Warning:   - Xtra_Petal_015_04
+Warning:   - Xtra_Petal_015_05
+Warning:   - Xtra_Petal_015_06
+Warning:   - Xtra_Petal_016_01
+Warning:   - Xtra_Petal_016_02
+Warning:   - Xtra_Petal_016_03
+Warning:   - Xtra_Petal_016_04
+Warning:   - Xtra_Petal_016_05
+Warning:   - Xtra_Petal_016_06
+Warning:   - Xtra_Petal_017_01
+Warning:   - Xtra_Petal_017_02
+Warning:   - Xtra_Petal_017_03
+Warning:   - Xtra_Petal_017_04
+Warning:   - Xtra_Petal_017_05
+Warning:   - Xtra_Petal_017_06
+Warning:   - Xtra_Petal_018_01
+Warning:   - Xtra_Petal_018_02
+Warning:   - Xtra_Petal_018_03
+Warning:   - Xtra_Petal_018_04
+Warning:   - Xtra_Petal_018_05
+Warning:   - Xtra_Petal_018_06
+Warning:   - Xtra_Petal_019_01
+Warning:   - Xtra_Petal_019_02
+Warning:   - Xtra_Petal_019_03
+Warning:   - Xtra_Petal_019_04
+Warning:   - Xtra_Petal_019_05
+Warning:   - Xtra_Petal_019_06
+Warning:   - Xtra_Petal_020_01
+Warning:   - Xtra_Petal_020_02
+Warning:   - Xtra_Petal_020_03
+Warning:   - Xtra_Petal_020_04
+Warning:   - Xtra_Petal_020_05
+Warning:   - Xtra_Petal_020_06
+Warning:   - Xtra_Petal_021_01
+Warning:   - Xtra_Petal_021_02
+Warning:   - Xtra_Petal_021_03
+Warning:   - Xtra_Petal_021_04
+Warning:   - Xtra_Petal_021_05
+Warning:   - Xtra_Petal_021_06
+Warning:   - Xtra_Petal_022_01
+Warning:   - Xtra_Petal_022_02
+Warning:   - Xtra_Petal_022_03
+Warning:   - Xtra_Petal_022_04
+Warning:   - Xtra_Petal_022_05
+Warning:   - Xtra_Petal_022_06
+Warning:   - Xtra_Petal_023_01
+Warning:   - Xtra_Petal_023_02
+Warning:   - Xtra_Petal_023_03
+Warning:   - Xtra_Petal_023_04
+Warning:   - Xtra_Petal_023_05
+Warning:   - Xtra_Petal_023_06
+Warning:   - Xtra_Petal_024_01
+Warning:   - Xtra_Petal_024_02
+Warning:   - Xtra_Petal_024_03
+Warning:   - Xtra_Petal_024_04
+Warning:   - Xtra_Petal_024_05
+Warning:   - Xtra_Petal_024_06
+Warning:   - Xtra_Petal_025_01
+Warning:   - Xtra_Petal_025_02
+Warning:   - Xtra_Petal_025_03
+Warning:   - Xtra_Petal_025_04
+Warning:   - Xtra_Petal_025_05
+Warning:   - Xtra_Petal_025_06
+Warning:   - Xtra_Petal_026_01
+Warning:   - Xtra_Petal_026_02
+Warning:   - Xtra_Petal_026_03
+Warning:   - Xtra_Petal_026_04
+Warning:   - Xtra_Petal_026_05
+Warning:   - Xtra_Petal_026_06
+Warning:   - Xtra_Petal_027_01
+Warning:   - Xtra_Petal_027_02
+Warning:   - Xtra_Petal_027_03
+Warning:   - Xtra_Petal_027_04
+Warning:   - Xtra_Petal_027_05
+Warning:   - Xtra_Petal_027_06
+Warning:   - Xtra_Petal_028_01
+Warning:   - Xtra_Petal_028_02
+Warning:   - Xtra_Petal_028_03
+Warning:   - Xtra_Petal_028_04
+Warning:   - Xtra_Petal_028_05
+Warning:   - Xtra_Petal_028_06
+Warning:   - Xtra_Petal_029_01
+Warning:   - Xtra_Petal_029_02
+Warning:   - Xtra_Petal_029_03
+Warning:   - Xtra_Petal_029_04
+Warning:   - Xtra_Petal_029_05
+Warning:   - Xtra_Petal_029_06
+Warning:   - Xtra_Petal_030_01
+Warning:   - Xtra_Petal_030_02
+Warning:   - Xtra_Petal_030_03
+Warning:   - Xtra_Petal_030_04
+Warning:   - Xtra_Petal_030_05
+Warning:   - Xtra_Petal_030_06
+Warning:   - Xtra_Petal_031_01
+Warning:   - Xtra_Petal_031_02
+Warning:   - Xtra_Petal_031_03
+Warning:   - Xtra_Petal_031_04
+Warning:   - Xtra_Petal_031_05
+Warning:   - Xtra_Petal_031_06
+Warning:   - Xtra_Petal_032_01
+Warning:   - Xtra_Petal_032_02
+Warning:   - Xtra_Petal_032_03
+Warning:   - Xtra_Petal_032_04
+Warning:   - Xtra_Petal_032_05
+Warning:   - Xtra_Petal_032_06
+Warning:   - c2120_Arts_Petal_001
+Warning:   - c2120_Arts_Petal_002
+Warning:   - c2120_Arts_Petal_003
+Warning:   - c2120_Arts_Petal_004
+Warning:   - c2120_Arts_Petal_005
+Warning:   - c2120_Arts_Petal_006
+Warning:   - c2120_Arts_Petal_007
+Warning:   - c2120_Arts_Petal_008
+Warning:   - c2120_Arts_Petal_009
+Warning:   - c2120_Arts_Petal_010
+Warning:   - c2120_Arts_Petal_011
+Warning:   - c2120_Arts_Petal_012
+Warning:   - c2120_Arts_Petal_013
+Warning:   - c2120_Arts_Petal_014
+Warning:   - c2120_Arts_Petal_015
+Warning:   - c2120_Arts_Petal_016
+Warning:   - c2120_Arts_Petal_017
+Warning:   - c2120_Arts_Petal_018
+Warning:   - c2120_Arts_Petal_019
+Warning:   - c2120_Arts_Petal_020
+Warning:   - c2120_Arts_Petal_021
+Warning:   Info: Total files 0 | Changed 0 | Failed 0
